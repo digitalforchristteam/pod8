@@ -1,5 +1,46 @@
 {
-  "updatedAt": null,
-  "videos": [],
-  "trending": { "topViewed": [], "topChannels": [] }
+  "updatedAt": "2026-09-08T07:13:04.826Z",
+  "videos": [
+    {
+      "videoId": "OTx28dElOrY",
+      "title": "Bekal Anak Sekolah #adayinmylife #seputaranak #selfgrowth #selfimprovement",
+      "channelTitle": "Suly Family",
+      "channelId": "UCRrbkgl5iGpZ69D76KmS14w",
+      "publishedAt": "2026-09-08T05:08:41Z",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/OTx28dElOrY/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 90,
+      "viewCount": 789,
+      "viewCountDisplay": "789",
+      "subscriberCountDisplay": "8.0K"
+    }
+  ],
+  "trending": {
+    "topViewed": [
+      {
+        "videoId": "OTx28dElOrY",
+        "title": "Bekal Anak Sekolah #adayinmylife #seputaranak #selfgrowth #selfimprovement",
+        "channelTitle": "Suly Family",
+        "channelId": "UCRrbkgl5iGpZ69D76KmS14w",
+        "publishedAt": "2026-09-08T05:08:41Z",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/OTx28dElOrY/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 90,
+        "viewCount": 789,
+        "viewCountDisplay": "789",
+        "subscriberCountDisplay": "8.0K"
+      }
+    ],
+    "topChannels": [
+      {
+        "channelId": "UCRrbkgl5iGpZ69D76KmS14w",
+        "channelTitle": "Suly Family",
+        "subscriberCount": 7980,
+        "subscriberCountDisplay": "8.0K",
+        "videosInFeed": 1
+      }
+    ]
+  }
 }
