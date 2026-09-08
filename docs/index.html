@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%8C%B1%3C/text%3E%3C/svg%3E">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Self-Growth Pod — Latest Self-Improvement & Productivity Podcasts</title>
+<meta name="description" content="Auto-updating feed of the latest self-improvement, personal development and productivity podcast episodes.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="theme.js"></script>
+</head>
+<body>
+  <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode"></button>
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top">↑</button>
+  <div class="blob-field">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+    <div class="blob blob-4"></div>
+    <div class="blob blob-5"></div>
+  </div>
+
+  <header>
+    <h1>🌱 Self-Growth Pod</h1>
+    <nav class="tabs">
+      <a href="index.html" class="active">🎧 Podcasts</a>
+      <a href="videos.html">▶️ YouTube</a>
+      <a href="charts.html">📊 Charts</a>
+    </nav>
+    <p>The latest self-improvement, personal development &amp; productivity podcast episodes — gathered automatically, every day.</p>
+    <p id="updated-at" class="updated"></p>
+  </header>
+
+  <main id="episode-list" class="grid">
+    <p class="loading">Loading latest episodes…</p>
+  </main>
+
+  <footer>
+    <p>Built with ❤️. Episode data refreshes automatically once a day.</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>

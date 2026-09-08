@@ -1,0 +1,115 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="icon" href="data:image/svg+xml,%3Csvg xmlns=%22http://www.w3.org/2000/svg%22 viewBox=%220 0 100 100%22%3E%3Ctext y=%22.9em%22 font-size=%2290%22%3E%F0%9F%8C%B1%3C/text%3E%3C/svg%3E">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Self-Growth Pod — Trending Charts</title>
+<meta name="description" content="Real Apple Podcasts chart rankings and real YouTube view/subscriber trends for self-improvement content.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fredoka:wght@500;600&family=Nunito:wght@400;600;700&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+<script src="theme.js"></script>
+</head>
+<body>
+  <button id="theme-toggle" class="theme-toggle" aria-label="Toggle dark mode"></button>
+  <button id="back-to-top" class="back-to-top" aria-label="Back to top">↑</button>
+  <div class="blob-field">
+    <div class="blob blob-1"></div>
+    <div class="blob blob-2"></div>
+    <div class="blob blob-3"></div>
+    <div class="blob blob-4"></div>
+    <div class="blob blob-5"></div>
+  </div>
+
+  <header>
+    <h1>🌱 Self-Growth Pod</h1>
+    <nav class="tabs">
+      <a href="index.html">🎧 Podcasts</a>
+      <a href="videos.html">▶️ YouTube</a>
+      <a href="charts.html" class="active">📊 Charts</a>
+    </nav>
+    <p>What's actually trending right now — real Apple Podcasts chart ranks and real YouTube view/subscriber counts.</p>
+    <p id="updated-at" class="updated"></p>
+  </header>
+
+  <h2 class="section-title">🎧 Top Podcasts by Category</h2>
+  <div id="category-pills" class="category-pills"></div>
+  <div id="chart-list" class="chart-list">
+        <div class="skeleton-row" style="--i:0">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:1">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:2">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:3">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:4">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+  </div>
+
+  <h2 class="section-title">🔥 Trending YouTube Videos This Week</h2>
+  <main id="trending-videos" class="grid">
+        <div class="skeleton-card" style="--i:0">
+      <div class="skeleton-block skeleton-art"></div>
+      <div class="skeleton-block skeleton-line"></div>
+      <div class="skeleton-block skeleton-line short"></div>
+    </div>
+    <div class="skeleton-card" style="--i:1">
+      <div class="skeleton-block skeleton-art"></div>
+      <div class="skeleton-block skeleton-line"></div>
+      <div class="skeleton-block skeleton-line short"></div>
+    </div>
+    <div class="skeleton-card" style="--i:2">
+      <div class="skeleton-block skeleton-art"></div>
+      <div class="skeleton-block skeleton-line"></div>
+      <div class="skeleton-block skeleton-line short"></div>
+    </div>
+  </main>
+
+  <h2 class="section-title">⭐ Top Channels We're Tracking</h2>
+  <div id="top-channels" class="chart-list">
+        <div class="skeleton-row" style="--i:0">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:1">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:2">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:3">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+    <div class="skeleton-row" style="--i:4">
+      <div class="skeleton-block skeleton-circle"></div>
+      <div class="skeleton-block skeleton-line"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>
+      Chart ranks come from Apple Podcasts' public daily charts. YouTube numbers are real view
+      &amp; subscriber counts from the videos this site already tracks. Nobody publishes raw
+      podcast listener counts publicly — rank is the honest signal available for free.
+    </p>
+  </footer>
+
+  <script src="script-charts.js"></script>
+</body>
+</html>
