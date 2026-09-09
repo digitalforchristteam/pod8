@@ -1,5 +1,5 @@
 {
-  "updatedAt": "2026-09-08T08:04:44.791Z",
+  "updatedAt": "2026-09-09T08:04:32.497Z",
   "categories": [
     {
       "id": 1512,
@@ -12,9 +12,9 @@
           "artist": "Dylan Gemelli",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
@@ -23,9 +23,9 @@
           "artist": "Passion Struck with John R. Miles",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e8/d7/ca/e8d7ca5c-35fa-6e90-42ec-09e168d110cc/mza_400047353205660386.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/passion-struck-with-john-r-miles/id1553279283?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 3,
@@ -34,9 +34,9 @@
           "artist": "Richard Taite",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/69/75/90/697590b9-dcc7-91c1-a72a-4404c45f56f5/mza_16074264697810172157.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/were-out-of-time/id1768651631?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 4,
@@ -45,9 +45,9 @@
           "artist": "Scicomm Media",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/d3/19/9ad31912-0b5a-a16e-2d7c-9fd074698b9c/mza_8994222203629500925.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/huberman-lab/id1545953110?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 5,
@@ -56,9 +56,9 @@
           "artist": "iHeartPodcasts",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/47/e3/cc/47e3cc28-6d02-6d9f-8b6e-42d6d87e54a6/mza_3766587543936049722.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/tony-mantor-why-not-me/id1688757384?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 6,
@@ -67,31 +67,31 @@
           "artist": "Perfect Strangers",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/04/40/b2/0440b2e5-1726-3ba1-e4aa-d8cb31b83c8d/mza_10585468613305307320.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/on-purpose-with-jay-shetty/id1450994021?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 7,
-          "id": "1378040733",
-          "name": "Nothing much happens: bedtime stories to help you sleep",
-          "artist": "Wellness Loud",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/nothing-much-happens-bedtime-stories-to-help-you-sleep/id1378040733?uo=2",
+          "id": "6783970632",
+          "name": "Eating, Interrupted",
+          "artist": "iHeartPodcasts",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/da/36/c5/da36c5d8-4295-8761-d3e3-72ef5de6d644/mza_13430695330229543558.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/eating-interrupted/id6783970632?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 8,
-          "id": "1527609854",
-          "name": "The Dr. John Delony Show",
-          "artist": "Ramsey Network",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-dr-john-delony-show/id1527609854?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1378040733",
+          "name": "Nothing much happens: bedtime stories to help you sleep",
+          "artist": "Wellness Loud",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/f2/26/87f226c9-77ac-d4fe-6b98-4da2345de5c0/mza_5833691041544808336.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/nothing-much-happens-bedtime-stories-to-help-you-sleep/id1378040733?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 9,
@@ -100,42 +100,42 @@
           "artist": "Dr. Amie Hornaman",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/66/f9/ab/66f9ab37-20bf-ce22-9cda-5d0cf53fc123/mza_12992934777200774032.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-thyroid-and-hormone-fixer-podcast/id1529800263?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 10,
+          "id": "1527609854",
+          "name": "The Dr. John Delony Show",
+          "artist": "Ramsey Network",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/34/0f/4c/340f4c53-dc9b-9971-a94f-54c25a5d339a/mza_3848511723335763740.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-dr-john-delony-show/id1527609854?uo=2",
+          "delta1d": -2,
+          "delta7d": -2,
+          "isNew": false
+        },
+        {
+          "rank": 11,
           "id": "1773578243",
           "name": "Extend Podcast with Darshan Shah, MD",
           "artist": "Darshan Shah, MD",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e2/65/43/e26543c2-2aea-1c7b-774f-71ac705039a5/mza_12440564964874810259.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/extend-podcast-with-darshan-shah-md/id1773578243?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
-          "rank": 11,
+          "rank": 12,
           "id": "1725306273",
           "name": "Biohack-it",
           "artist": "Iman Hasan",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f9/13/62/f9136276-eb4f-6c0b-9ce2-3f9edeb12ca2/mza_18164962284283662458.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/biohack-it/id1725306273?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 12,
-          "id": "1487513861",
-          "name": "Get Sleepy: stories for sleep",
-          "artist": "Slumber Studios",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/get-sleepy-stories-for-sleep/id1487513861?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 13,
@@ -144,31 +144,31 @@
           "artist": "Gary Brecka",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/90/92/f3909283-e84e-ef56-f18c-7e1048a40e6d/mza_6337463334605665.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-ultimate-human-with-gary-brecka/id1709740887?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 14,
-          "id": "1087147821",
-          "name": "10% Happier with Dan Harris",
-          "artist": "10% Happier",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/79/04/87/79048703-d88c-acc2-c319-a8f2534b9ae5/mza_15018160844227259170.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/10-happier-with-dan-harris/id1087147821?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 15,
           "id": "1622316426",
           "name": "The Dr. Gabrielle Lyon Show",
           "artist": "Dr. Gabrielle Lyon",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/39/ca/48/39ca488a-f186-dd5b-2fcb-0f0748aec2ca/mza_9729597140327786721.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-dr-gabrielle-lyon-show/id1622316426?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 15,
+          "id": "1487513861",
+          "name": "Get Sleepy: stories for sleep",
+          "artist": "Slumber Studios",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/32/09/db/3209db97-279d-e296-9046-6c5a59a02993/mza_3744341201616159111.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/get-sleepy-stories-for-sleep/id1487513861?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         }
       ]
     },
@@ -183,86 +183,86 @@
           "artist": "Andy Frisella",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
-          "id": "1291423644",
-          "name": "The Diary Of A CEO with Steven Bartlett",
-          "artist": "DOAC",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 3,
           "id": "1844970260",
           "name": "Unblinded with Sean Callagy",
           "artist": "Sean Callagy",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fe/73/39/fe733903-aac9-857a-7e0d-97da75f26739/mza_7400622169884755798.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/unblinded-with-sean-callagy/id1844970260?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 3,
+          "id": "1291423644",
+          "name": "The Diary Of A CEO with Steven Bartlett",
+          "artist": "DOAC",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/69/af/0d/69af0ddd-1e0f-7ae3-c84b-88f18e31ad0c/mza_14445920128472365296.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-diary-of-a-ceo-with-steven-bartlett/id1291423644?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 4,
-          "id": "1726674707",
-          "name": "Coffeez with Joe Shalaby",
-          "artist": "Joseph Shalaby",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/16/b1/d0/16b1d00a-50a8-2cdd-8a24-b6d36cc300af/mza_4046403334673274826.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/coffeez-with-joe-shalaby/id1726674707?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 5,
           "id": "1451897026",
           "name": "Habits and Hustle",
           "artist": "Jen Cohen",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ba/d2/09/bad209e9-7b0d-66b8-14fe-207a69d9397b/mza_12651442554869510823.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/habits-and-hustle/id1451897026?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
         },
         {
-          "rank": 6,
-          "id": "1368888880",
-          "name": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
-          "artist": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 7,
-          "id": "1744386875",
-          "name": "Proven Podcast",
-          "artist": "Charles Schwartz",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 8,
+          "rank": 5,
           "id": "1837193185",
           "name": "The Vault Unlocked",
           "artist": "Kayvon Kay",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d3/f9/28/d3f928ee-3a7f-0ac6-e841-342b3be2ba68/mza_15071551835075158095.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-vault-unlocked/id1837193185?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 3,
+          "delta7d": 3,
+          "isNew": false
+        },
+        {
+          "rank": 6,
+          "id": "1744386875",
+          "name": "Proven Podcast",
+          "artist": "Charles Schwartz",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/79/33/d2/7933d22b-9392-7d2c-714f-9a4c624003e5/mza_1012289391812617337.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/proven-podcast/id1744386875?uo=2",
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 7,
+          "id": "1368888880",
+          "name": "Young and Profiting (YAP) with Hala Taha: Entrepreneurship and Self-Improvement Podcast",
+          "artist": "Hala Taha | Entrepreneurship, Sales, Marketing | YAP Media Network",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/80/c1/bd/80c1bd2c-eac4-bdb6-f8cb-ac980b4ad473/mza_16051863235006465622.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/young-and-profiting-yap-with-hala-taha/id1368888880?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 8,
+          "id": "1726674707",
+          "name": "Coffeez with Joe Shalaby",
+          "artist": "Joseph Shalaby",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/16/b1/d0/16b1d00a-50a8-2cdd-8a24-b6d36cc300af/mza_4046403334673274826.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/coffeez-with-joe-shalaby/id1726674707?uo=2",
+          "delta1d": -4,
+          "delta7d": -4,
+          "isNew": false
         },
         {
           "rank": 9,
@@ -271,31 +271,31 @@
           "artist": "The Radcast Network",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/dd/1a/3d/dd1a3d55-10f1-1729-7507-4ff3d8c7afcb/mza_3489488855576015144.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/right-about-now-legendary-business-advice/id1346054199?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 10,
-          "id": "985396258",
-          "name": "The Learning Leader Show With Ryan Hawk",
-          "artist": "Ryan Hawk",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 11,
           "id": "1453389736",
           "name": "the bossbabe podcast",
           "artist": "Natalie Ellis",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/52/a1/ab/52a1abee-87c4-c0b8-d242-a041522add49/mza_11816846594555703738.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-bossbabe-podcast/id1453389736?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 11,
+          "id": "985396258",
+          "name": "The Learning Leader Show With Ryan Hawk",
+          "artist": "Ryan Hawk",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fb/3c/0e/fb3c0e91-f0a8-44ef-403f-1ec20bece9e0/mza_454404552678702443.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-learning-leader-show-with-ryan-hawk/id985396258?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 12,
@@ -304,9 +304,9 @@
           "artist": "Andy Bachman",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/fe/1e/b0fe1e21-bf85-b623-e66a-c93048909375/mza_6151851667850661154.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/creators-inc-podcast/id1883749200?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 13,
@@ -315,9 +315,9 @@
           "artist": "Paul Alex Espinoza",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/50/e3/b3/50e3b35c-d901-0f91-60e8-c5d9f7d945ca/mza_3986309763540703267.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-level-up-podcast-w-paul-alex/id1733135157?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 14,
@@ -326,9 +326,9 @@
           "artist": "Sammy Peterson",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ea/c3/a5/eac3a50c-4096-9e8a-2976-ba56927f07cc/mza_5580212575802116973.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/business-mvp/id6788010464?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 15,
@@ -337,9 +337,9 @@
           "artist": "Tommy Mello: $200 Million Founder|Forbes, Inc., Entrepreneur Columnist",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4a/61/3d/4a613d98-7530-ac40-a8df-79f0c08bd64a/mza_17092466455454967949.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-home-service-expert-podcast/id1341478446?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         }
       ]
     },
@@ -354,9 +354,9 @@
           "artist": "Mick Hunt",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
@@ -365,9 +365,9 @@
           "artist": "Mel Robbins",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ab/66/a5/ab66a5f5-b52b-c70a-227b-0721bd9dc660/mza_13546984924981879479.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-mel-robbins-podcast/id1646101002?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 3,
@@ -376,9 +376,9 @@
           "artist": "Jamie Kern Lima",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/50/66/2e/50662e7d-1f7e-3d9f-1f87-562a90dbdb0c/mza_10576714993608979175.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-jamie-kern-lima-show/id1728723635?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 4,
@@ -387,20 +387,20 @@
           "artist": "Joe Mittiga",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5d/51/7a/5d517af1-5ccc-0dbe-4721-4f6371c2db60/mza_8820215126615845960.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/we/id1852217479?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 5,
-          "id": "1532956108",
-          "name": "IMO with Michelle Obama and Craig Robinson",
-          "artist": "Higher Ground",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/imo-with-michelle-obama-and-craig-robinson/id1532956108?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1659231821",
+          "name": "Becoming UnDone® with Dr. Toby Brooks",
+          "artist": "Dr. Toby Brooks",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/16/f5/f716f58f-4c11-ad6e-0e0e-42806cb1935f/mza_5220098422377889981.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/becoming-undone-with-dr-toby-brooks/id1659231821?uo=2",
+          "delta1d": 3,
+          "delta7d": 3,
+          "isNew": false
         },
         {
           "rank": 6,
@@ -409,9 +409,9 @@
           "artist": "Dr. JC Doornick \"The Dragon\"",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/11/12/31/11123104-ca33-d94a-4cd8-207a436d9ad7/mza_9077846304850236016.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/makes-sense-with-dr-jc-doornick/id1730954168?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 7,
@@ -420,64 +420,64 @@
           "artist": "Cloud10",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f6/63/ae/f663ae7f-3f70-70ab-b838-d29ce7a38063/mza_7734964355819115181.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/ready-for-love-with-hilary-silver/id1739660144?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 8,
-          "id": "1659231821",
-          "name": "Becoming UnDone® with Dr. Toby Brooks",
-          "artist": "Dr. Toby Brooks",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f7/16/f5/f716f58f-4c11-ad6e-0e0e-42806cb1935f/mza_5220098422377889981.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/becoming-undone-with-dr-toby-brooks/id1659231821?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 9,
-          "id": "1581114283",
-          "name": "Law of Attraction SECRETS",
-          "artist": "Natasha Graziano",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/34/c4/8734c4da-46ed-10eb-deba-4fcd66c83ce6/mza_14056127744054019992.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/law-of-attraction-secrets/id1581114283?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 10,
           "id": "6786047115",
           "name": "Life is an Inside Job with Coach Mike Basevic",
           "artist": "Coach Mike Basevic",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a4/7f/09/a47f0908-9851-10d7-1f25-961eca4100c1/mza_8553522895388353058.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/life-is-an-inside-job-with-coach-mike-basevic/id6786047115?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
         },
         {
-          "rank": 11,
+          "rank": 9,
+          "id": "1532956108",
+          "name": "IMO with Michelle Obama and Craig Robinson",
+          "artist": "Higher Ground",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/8c/ce/36/8cce3648-2e76-735c-f6d8-8e72febc8ed7/mza_13220543383965859061.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/imo-with-michelle-obama-and-craig-robinson/id1532956108?uo=2",
+          "delta1d": -4,
+          "delta7d": -4,
+          "isNew": false
+        },
+        {
+          "rank": 10,
           "id": "1794195371",
           "name": "Living Your Legacy",
           "artist": "Rudy Mawer",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/1b/6c/8a/1b6c8a86-092b-343b-c5d9-0f05851189ba/mza_11569768149956520460.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/living-your-legacy/id1794195371?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "1451224710",
           "name": "Business Alchemy with Jackie Minsky",
           "artist": "Jackie Minsky",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f1/5d/b9/f15db9db-7485-4c99-d9f7-7a94ed1c4b28/mza_8223369199134464146.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/business-alchemy-with-jackie-minsky/id1451224710?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 12,
+          "id": "1581114283",
+          "name": "Law of Attraction SECRETS",
+          "artist": "Natasha Graziano",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/87/34/c4/8734c4da-46ed-10eb-deba-4fcd66c83ce6/mza_14056127744054019992.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/law-of-attraction-secrets/id1581114283?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         },
         {
           "rank": 13,
@@ -486,31 +486,31 @@
           "artist": "The Neatness Network",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0d/bc/b2/0dbcb29e-1f83-dd73-caaa-9ee9599ea3d5/mza_2662629166782876942.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-table-with-anthony-oneal/id1543458790?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 14,
-          "id": "582272991",
-          "name": "The Rich Roll Podcast",
-          "artist": "Rich Roll",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/79/73/247973ca-0868-9852-e66b-61e28e0ee71a/mza_7587627905992125546.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-rich-roll-podcast/id582272991?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 15,
           "id": "1596465711",
           "name": "Women Road Warriors",
           "artist": "WomenRoadWarriors.com",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/43/06/52/43065247-a240-5dec-5ae7-2cb6ed5db341/mza_11463202700140271457.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/women-road-warriors/id1596465711?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 15,
+          "id": "582272991",
+          "name": "The Rich Roll Podcast",
+          "artist": "Rich Roll",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/79/73/247973ca-0868-9852-e66b-61e28e0ee71a/mza_7587627905992125546.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-rich-roll-podcast/id582272991?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         }
       ]
     },
@@ -520,168 +520,168 @@
       "shows": [
         {
           "rank": 1,
-          "id": "201671138",
-          "name": "This American Life",
-          "artist": "This American Life",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 2,
-          "id": "278981407",
-          "name": "Stuff You Should Know",
-          "artist": "iHeartPodcasts",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 3,
           "id": "1492492083",
           "name": "The Shawn Ryan Show",
           "artist": "Shawn Ryan",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts112/v4/d0/b3/2d/d0b32d7f-ab2d-5791-83b0-854f698a9184/mza_13561258173056659752.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-shawn-ryan-show/id1492492083?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
+        },
+        {
+          "rank": 2,
+          "id": "201671138",
+          "name": "This American Life",
+          "artist": "This American Life",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 3,
+          "id": "278981407",
+          "name": "Stuff You Should Know",
+          "artist": "iHeartPodcasts",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/aa/82/91/aa82912f-23ee-6f6a-583c-a4e993164d0e/mza_12111158076643383507.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/stuff-you-should-know/id278981407?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 4,
-          "id": "6805930852",
-          "name": "Happy Hour with Ina Garten",
-          "artist": "Vox Media",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/95/85/63958592-550c-9c6c-8319-2818cd10a3ad/mza_15908877599917864646.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/happy-hour-with-ina-garten/id6805930852?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 5,
-          "id": "1676849476",
-          "name": "Miss Understood with Rachel Uchitel",
-          "artist": "Rachel Uchitel",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/06/81/ad0681b9-830a-bf07-aaf7-cc1bdcefd5c8/mza_13129750340714703871.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/miss-understood-with-rachel-uchitel/id1676849476?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 6,
-          "id": "354668519",
-          "name": "Freakonomics Radio",
-          "artist": "Freakonomics Radio + Stitcher",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 7,
-          "id": "6794415936",
-          "name": "The ManFlu | Exploring Gender Dynamics, Partnerships & Raising Boys Who Care",
-          "artist": "Lucy McAfee",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/32/81/303281dd-4dd9-aebb-9cc5-6fed6b9678a7/mza_7127203241314914654.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-manflu-exploring-gender-dynamics-partnerships/id6794415936?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 8,
-          "id": "6803240325",
-          "name": "The Permanent Questions With David Brooks",
-          "artist": "The Atlantic",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-permanent-questions-with-david-brooks/id6803240325?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 9,
-          "id": "1347973549",
-          "name": "Modern Wisdom",
-          "artist": "Chris Williamson",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/modern-wisdom/id1347973549?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 10,
           "id": "1548604447",
           "name": "The Ezra Klein Show",
           "artist": "New York Times Opinion",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/ca/35/9dca35d8-e7d2-7e4f-63b5-c2ff4973a3f5/mza_16891544429738729361.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-ezra-klein-show/id1548604447?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 6,
+          "delta7d": 6,
+          "isNew": false
         },
         {
-          "rank": 11,
+          "rank": 5,
+          "id": "6805930852",
+          "name": "Happy Hour with Ina Garten",
+          "artist": "Vox Media",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/63/95/85/63958592-550c-9c6c-8319-2818cd10a3ad/mza_15908877599917864646.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/happy-hour-with-ina-garten/id6805930852?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 6,
+          "id": "1676849476",
+          "name": "Miss Understood with Rachel Uchitel",
+          "artist": "Rachel Uchitel",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/06/81/ad0681b9-830a-bf07-aaf7-cc1bdcefd5c8/mza_13129750340714703871.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/miss-understood-with-rachel-uchitel/id1676849476?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 7,
           "id": "1373812661",
           "name": "Behind the Bastards",
           "artist": "Cool Zone Media and iHeartPodcasts",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ee/82/58/ee8258d4-32a6-eae8-ddde-d13113a6baee/mza_2590417236454661582.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/behind-the-bastards/id1373812661?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 4,
+          "delta7d": 4,
+          "isNew": false
+        },
+        {
+          "rank": 8,
+          "id": "354668519",
+          "name": "Freakonomics Radio",
+          "artist": "Freakonomics Radio + Stitcher",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/f7/0c/c5/f70cc540-ce36-d96f-b111-c970aad5505c/mza_17703422762227531425.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/freakonomics-radio/id354668519?uo=2",
+          "delta1d": -2,
+          "delta7d": -2,
+          "isNew": false
+        },
+        {
+          "rank": 9,
+          "id": "1555922064",
+          "name": "The Determined Society with Shawn French | Adversity & Mindset",
+          "artist": "Determined Society Podcast | Overcoming Adversity & Mindset",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-determined-society-with-shawn-french/id1555922064?uo=2",
+          "delta1d": 5,
+          "delta7d": 5,
+          "isNew": false
+        },
+        {
+          "rank": 10,
+          "id": "1782960381",
+          "name": "The Oprah Podcast",
+          "artist": "Harpo",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-oprah-podcast/id1782960381?uo=2",
+          "delta1d": 5,
+          "delta7d": 5,
+          "isNew": false
+        },
+        {
+          "rank": 11,
+          "id": "6794415936",
+          "name": "The ManFlu | Exploring Gender Dynamics, Partnerships & Raising Boys Who Care",
+          "artist": "Lucy McAfee",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/30/32/81/303281dd-4dd9-aebb-9cc5-6fed6b9678a7/mza_7127203241314914654.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-manflu-exploring-gender-dynamics-partnerships/id6794415936?uo=2",
+          "delta1d": -4,
+          "delta7d": -4,
+          "isNew": false
         },
         {
           "rank": 12,
-          "id": "1631738803",
-          "name": "The Why Files: Operation Podcast",
-          "artist": "The Why Files: Operation Podcast",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d8/d5/56/d8d5569b-6431-c55a-509c-820b5bd1002b/mza_14117346978676539247.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-why-files-operation-podcast/id1631738803?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1347973549",
+          "name": "Modern Wisdom",
+          "artist": "Chris Williamson",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7f/73/99/7f739968-f65e-f679-d1fd-c727118c69f0/mza_17156407142775783271.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/modern-wisdom/id1347973549?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         },
         {
           "rank": 13,
-          "id": "1100417601",
-          "name": "Talk Easy with Sam Fragoso",
-          "artist": "Higher Ground",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/55/5a/0a/555a0ad4-5dbf-9f9d-b205-08e629cc35dd/mza_17473463849753207729.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/talk-easy-with-sam-fragoso/id1100417601?uo=2",
+          "id": "1087110764",
+          "name": "The Way I Heard It with Mike Rowe",
+          "artist": "The Way I Heard It with Mike Rowe",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/a6/ae/97/a6ae972f-7a3c-d72b-5035-2f574bd583be/mza_13441619415709233309.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-way-i-heard-it-with-mike-rowe/id1087110764?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 14,
-          "id": "1555922064",
-          "name": "The Determined Society with Shawn French | Adversity & Mindset",
-          "artist": "Determined Society Podcast | Overcoming Adversity & Mindset",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/be/dc/69/bedc6946-5cd6-2637-724a-912da9dafafb/mza_15530052631320977267.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-determined-society-with-shawn-french/id1555922064?uo=2",
+          "id": "1448210981",
+          "name": "The Viall Files",
+          "artist": "Nick Viall",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/22/a9/46/22a94635-5607-cd66-5e5f-6f2d741b1801/mza_12538356473562979013.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-viall-files/id1448210981?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 15,
-          "id": "1782960381",
-          "name": "The Oprah Podcast",
-          "artist": "Harpo",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0f/e3/21/0fe32103-63b9-c890-308e-e8aa3b89090b/mza_17611356982334262758.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-oprah-podcast/id1782960381?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "6803240325",
+          "name": "The Permanent Questions With David Brooks",
+          "artist": "The Atlantic",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/9d/af/eb9daf8a-a0a9-64fb-cfc5-101b06d3576f/mza_9059212002311804436.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-permanent-questions-with-david-brooks/id6803240325?uo=2",
+          "delta1d": -7,
+          "delta7d": -7,
+          "isNew": false
         }
       ]
     },
@@ -691,102 +691,102 @@
       "shows": [
         {
           "rank": 1,
-          "id": "360084272",
-          "name": "The Joe Rogan Experience",
-          "artist": "Joe Rogan",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/ef/d3/28efd382-e0cf-7dd6-99c7-7b74b30a616f/mza_3890332495421370376.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 2,
-          "id": "1521578868",
-          "name": "SmartLess",
-          "artist": "Jason Bateman, Sean Hayes, Will Arnett",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 3,
           "id": "1795483480",
           "name": "Good Hang with Amy Poehler",
           "artist": "The Ringer",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
+        },
+        {
+          "rank": 2,
+          "id": "360084272",
+          "name": "The Joe Rogan Experience",
+          "artist": "Joe Rogan",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/ef/d3/28efd382-e0cf-7dd6-99c7-7b74b30a616f/mza_3890332495421370376.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 3,
+          "id": "1521578868",
+          "name": "SmartLess",
+          "artist": "Jason Bateman, Sean Hayes, Will Arnett",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 4,
-          "id": "1345682353",
-          "name": "Armchair Expert with Dax Shepard",
-          "artist": "Armchair Umbrella",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 5,
-          "id": "1438054347",
-          "name": "Conan O’Brien Needs A Friend",
-          "artist": "Team Coco & Earwolf",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 6,
-          "id": "121493804",
-          "name": "Wait Wait... Don't Tell Me!",
-          "artist": "NPR",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/wait-wait-dont-tell-me/id121493804?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 7,
           "id": "1536352412",
           "name": "Giggly Squad",
           "artist": "Hannah Berner & Paige DeSorbo",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/0a/29/b10a293d-31bf-0e82-dd54-50452336f4c1/mza_908601013238146456.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/giggly-squad/id1536352412?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 3,
+          "delta7d": 3,
+          "isNew": false
+        },
+        {
+          "rank": 5,
+          "id": "1345682353",
+          "name": "Armchair Expert with Dax Shepard",
+          "artist": "Armchair Umbrella",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/f0/13/8f/f0138f4b-8bc3-0a64-2c11-ef566840f60f/mza_3062409012210474882.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/armchair-expert-with-dax-shepard/id1345682353?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 6,
+          "id": "1438054347",
+          "name": "Conan O’Brien Needs A Friend",
+          "artist": "Team Coco & Earwolf",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/02/8a/c6028ab7-bffd-db83-53e4-34a4ea9bef21/mza_16944101310108746053.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/conan-obrien-needs-a-friend/id1438054347?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 7,
+          "id": "1190981360",
+          "name": "This Past Weekend w/ Theo Von",
+          "artist": "Theo Von",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/this-past-weekend-w-theo-von/id1190981360?uo=2",
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
         },
         {
           "rank": 8,
-          "id": "1135137367",
-          "name": "The Tim Dillon Show",
-          "artist": "The Tim Dillon Show",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/64/34/b264343a-cd58-e5d0-a77d-9d802d4e156a/mza_8004434530174910890.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-tim-dillon-show/id1135137367?uo=2",
+          "id": "1368081567",
+          "name": "The Toast",
+          "artist": "Dear Media",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4e/3d/5e/4e3d5eb1-5b47-8723-f3c0-8ecf7e25d198/mza_14233415616171199300.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-toast/id1368081567?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 9,
-          "id": "1190981360",
-          "name": "This Past Weekend w/ Theo Von",
-          "artist": "Theo Von",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/f6/5a/9cf65abb-f8db-fb7b-984f-b4276a1e8c85/mza_2107148709996282347.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/this-past-weekend-w-theo-von/id1190981360?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1496265971",
+          "name": "Bad Friends",
+          "artist": "7EQUIS",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/26/c8/b026c805-1a24-55ea-cff3-d0329d2338ce/mza_11376115143280052758.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/bad-friends/id1496265971?uo=2",
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
         },
         {
           "rank": 10,
@@ -795,61 +795,61 @@
           "artist": "Matt McCusker & Shane Gillis",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/fa/b5/66/fab56692-7e81-cc26-c781-75b47c8d92d3/mza_7469845485865207311.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/matt-and-shanes-secret-podcast/id1177068388?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 11,
-          "id": "1496265971",
-          "name": "Bad Friends",
-          "artist": "7EQUIS",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b0/26/c8/b026c805-1a24-55ea-cff3-d0329d2338ce/mza_11376115143280052758.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/bad-friends/id1496265971?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1135137367",
+          "name": "The Tim Dillon Show",
+          "artist": "The Tim Dillon Show",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/64/34/b264343a-cd58-e5d0-a77d-9d802d4e156a/mza_8004434530174910890.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-tim-dillon-show/id1135137367?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         },
         {
           "rank": 12,
+          "id": "121493804",
+          "name": "Wait Wait... Don't Tell Me!",
+          "artist": "NPR",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/94/fe/e994fed6-50a1-6519-9b84-b0beaa205242/mza_2290751556169099993.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/wait-wait-dont-tell-me/id121493804?uo=2",
+          "delta1d": -6,
+          "delta7d": -6,
+          "isNew": false
+        },
+        {
+          "rank": 13,
           "id": "1657458632",
           "name": "Stavvy's World",
           "artist": "Stavros Halkias",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0e/ae/52/0eae52bf-5236-e283-7938-28d91e1820e0/mza_3099432660874981459.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/stavvys-world/id1657458632?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 13,
-          "id": "1194755213",
-          "name": "Small Town Murder",
-          "artist": "James Pietragallo, Jimmie Whisman",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/24/84/f4/2484f48c-4321-ef18-10ef-ac164cc80272/mza_5585431776803613938.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/small-town-murder/id1194755213?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 14,
-          "id": "1697425543",
-          "name": "Smosh Reads Reddit Stories",
-          "artist": "Smosh",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ea/e9/98/eae99878-5ee5-915b-0c0a-46cf2b275f91/mza_13860666952263637735.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/smosh-reads-reddit-stories/id1697425543?uo=2",
+          "id": "306390087",
+          "name": "Adam Carolla Show",
+          "artist": "PodcastOne / Carolla Digital",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/02/83/42/028342dc-0471-f698-83c8-369bae7401b7/mza_16605990669344553550.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/adam-carolla-show/id306390087?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 15,
-          "id": "1418960261",
-          "name": "Call Her Daddy",
-          "artist": "Alex Cooper",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/10/91/05109145-8c22-5464-1f20-aaedeab769f8/mza_10276081716633787086.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/call-her-daddy/id1418960261?uo=2",
+          "id": "1220546899",
+          "name": "The Bobby Bones Show",
+          "artist": "iHeartPodcasts",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/4f/3d/0b/4f3d0b7a-0522-509c-0295-f5f5bdaee131/mza_9059750032524482096.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-bobby-bones-show/id1220546899?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
@@ -867,9 +867,9 @@
           "artist": "Audiochuck",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
@@ -878,149 +878,149 @@
           "artist": "The New York Times",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/ab/64/66/ab6466a9-9a7d-e20e-7a3d-bc5be37d29ce/mza_15084852813176276273.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-daily/id1200361736?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 3,
-          "id": "1379959217",
-          "name": "Morbid",
-          "artist": "Ash Kelley & Alaina Urquhart",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
+          "id": "1795483480",
+          "name": "Good Hang with Amy Poehler",
+          "artist": "The Ringer",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/2b/94/bb/2b94bb6e-44f1-9d57-7748-b7456072806d/mza_1064202164981856225.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/good-hang-with-amy-poehler/id1795483480?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 4,
-          "id": "1043699613",
-          "name": "The Bill Simmons Podcast",
-          "artist": "The Ringer",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 5,
           "id": "1464919521",
           "name": "Dateline NBC",
           "artist": "NBC News",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 5,
+          "id": "1043699613",
+          "name": "The Bill Simmons Podcast",
+          "artist": "The Ringer",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 6,
-          "id": "201671138",
-          "name": "This American Life",
-          "artist": "This American Life",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/64/aa/3a/64aa3a66-a08a-947c-cf21-a5722a1b77ae/mza_11390421932467026234.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/this-american-life/id201671138?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1379959217",
+          "name": "Morbid",
+          "artist": "Ash Kelley & Alaina Urquhart",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         },
         {
           "rank": 7,
-          "id": "1731755953",
-          "name": "Mick Unplugged",
-          "artist": "Mick Hunt",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1192761536",
+          "name": "Pod Save America",
+          "artist": "Pod Save America",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
+          "delta1d": 4,
+          "delta7d": 4,
+          "isNew": false
         },
         {
           "rank": 8,
-          "id": "360084272",
-          "name": "The Joe Rogan Experience",
-          "artist": "Joe Rogan",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/ef/d3/28efd382-e0cf-7dd6-99c7-7b74b30a616f/mza_3890332495421370376.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "id": "1089022756",
+          "name": "Pardon My Take",
+          "artist": "Barstool Sports",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 9,
+          "id": "360084272",
+          "name": "The Joe Rogan Experience",
+          "artist": "Joe Rogan",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/28/ef/d3/28efd382-e0cf-7dd6-99c7-7b74b30a616f/mza_3890332495421370376.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-joe-rogan-experience/id360084272?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 10,
           "id": "1012570406",
           "name": "REAL AF with Andy Frisella",
           "artist": "Andy Frisella",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/55/21/67/55216775-731a-1a0b-6c2a-81923902f058/mza_11706571282358600140.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/real-af-with-andy-frisella/id1012570406?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 10,
-          "id": "6806122527",
-          "name": "COERCED: The Devotion & Death of Mica Francis Miller",
-          "artist": "LUNASHARK®⁠",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/db/35/cadb3557-aa6f-6cf2-38d8-524f2fcc4314/mza_10387182729682199580.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/coerced-the-devotion-death-of-mica-francis-miller/id6806122527?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 11,
-          "id": "1192761536",
-          "name": "Pod Save America",
-          "artist": "Pod Save America",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/44/dc/61/44dc6141-25e9-5bb3-e19e-a2337233d19e/mza_5506771870755587769.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/pod-save-america/id1192761536?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 12,
-          "id": "1780873400",
-          "name": "The Dylan Gemelli Podcast",
-          "artist": "Dylan Gemelli",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 13,
-          "id": "1537788786",
-          "name": "The Rest Is History",
-          "artist": "Goalhanger",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a3/05/8f/a3058ff1-eff9-036b-f412-8c4e96aad380/mza_221907431660085079.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-rest-is-history/id1537788786?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 14,
           "id": "1222114325",
           "name": "Up First from NPR",
           "artist": "NPR",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/0e/35/25/0e352569-e694-81d9-ea55-5f935981c15a/mza_1788275989855583986.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/up-first-from-npr/id1222114325?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 3,
+          "delta7d": 3,
+          "isNew": false
+        },
+        {
+          "rank": 12,
+          "id": "1731755953",
+          "name": "Mick Unplugged",
+          "artist": "Mick Hunt",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f8/75/0c/f8750cf1-ca31-5d55-00a1-ce86329309d5/mza_11785095184998327365.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/mick-unplugged/id1731755953?uo=2",
+          "delta1d": -5,
+          "delta7d": -5,
+          "isNew": false
+        },
+        {
+          "rank": 13,
+          "id": "1780873400",
+          "name": "The Dylan Gemelli Podcast",
+          "artist": "Dylan Gemelli",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/65/4a/f4/654af4a7-d5cd-2317-91a1-b5913de83e6f/mza_12950421134232165951.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-dylan-gemelli-podcast/id1780873400?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 14,
+          "id": "6806122527",
+          "name": "COERCED: The Devotion & Death of Mica Francis Miller",
+          "artist": "LUNASHARK®⁠",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/db/35/cadb3557-aa6f-6cf2-38d8-524f2fcc4314/mza_10387182729682199580.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/coerced-the-devotion-death-of-mica-francis-miller/id6806122527?uo=2",
+          "delta1d": -4,
+          "delta7d": -4,
+          "isNew": false
         },
         {
           "rank": 15,
-          "id": "1521578868",
-          "name": "SmartLess",
-          "artist": "Jason Bateman, Sean Hayes, Will Arnett",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/b1/93/5f/b1935f9f-35be-9144-e813-626bd8dabfb4/mza_4132654708551836825.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/smartless/id1521578868?uo=2",
+          "id": "1878220033",
+          "name": "Love Trapped",
+          "artist": "iHeartPodcasts and Glass Podcasts",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
@@ -1038,31 +1038,31 @@
           "artist": "Audiochuck",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/8c/35/04/8c350430-2fbf-98d0-0a25-00b76550ffeb/mza_13445204151221888086.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/crime-junkie/id1322200189?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
-          "id": "1379959217",
-          "name": "Morbid",
-          "artist": "Ash Kelley & Alaina Urquhart",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 3,
           "id": "1464919521",
           "name": "Dateline NBC",
           "artist": "NBC News",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/8c/00/7a/8c007a42-e550-0214-d4cb-b59cd7edf194/mza_5305664083935674472.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/dateline-nbc/id1464919521?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 3,
+          "id": "1379959217",
+          "name": "Morbid",
+          "artist": "Ash Kelley & Alaina Urquhart",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/78/e9/0e/78e90ee0-567d-1ad8-17a0-17d7c988c4bd/mza_8425901783365617933.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/morbid/id1379959217?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 4,
@@ -1071,9 +1071,9 @@
           "artist": "LUNASHARK®⁠",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ca/db/35/cadb3557-aa6f-6cf2-38d8-524f2fcc4314/mza_10387182729682199580.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/coerced-the-devotion-death-of-mica-francis-miller/id6806122527?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 5,
@@ -1082,42 +1082,42 @@
           "artist": "iHeartPodcasts and Glass Podcasts",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b5/ad/82/b5ad82a9-b29a-1411-1506-05f9f3ad5d6b/mza_17395607531155205240.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/love-trapped/id1878220033?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 6,
-          "id": "965818306",
-          "name": "48 Hours",
-          "artist": "CBS News",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 7,
-          "id": "1750724132",
-          "name": "The Truth About Natalie",
-          "artist": "Audiochuck",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/cf/87/bccf8777-9738-53fb-9686-3cb507397551/mza_16959504360317618270.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-truth-about-natalie/id1750724132?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 8,
           "id": "987967575",
           "name": "20/20",
           "artist": "ABC News",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/81/6c/5d/816c5d57-7c3f-3df9-1557-08e17469dfe4/mza_1433648970787567135.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/20-20/id987967575?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
+        },
+        {
+          "rank": 7,
+          "id": "965818306",
+          "name": "48 Hours",
+          "artist": "CBS News",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c8/4f/8f/c84f8fa2-074d-6023-7f31-9c781b80dedc/mza_7616553513239265555.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/48-hours/id965818306?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
+        },
+        {
+          "rank": 8,
+          "id": "1750724132",
+          "name": "The Truth About Natalie",
+          "artist": "Audiochuck",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/cf/87/bccf8777-9738-53fb-9686-3cb507397551/mza_16959504360317618270.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-truth-about-natalie/id1750724132?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 9,
@@ -1126,9 +1126,9 @@
           "artist": "Ballen Studios",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a5/9c/8a/a59c8a0a-0cb2-9862-e0d6-7b5ee4e9e157/mza_12554888833857337425.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/mrballen-podcast-strange-dark-mysterious-stories/id1608813794?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 10,
@@ -1137,61 +1137,61 @@
           "artist": "Exactly Right and iHeartPodcasts",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/1b/80/b1/1b80b146-8608-f76f-97e7-7a2317549c35/mza_14115126871478479568.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/my-favorite-murder-with-karen-kilgariff-and/id1074507850?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 11,
-          "id": "1519456164",
-          "name": "Serialously with Annie Elise",
-          "artist": "Annie Elise & Audioboom Studios",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ae/ae/b8aeaee5-e289-54f0-c223-58334b88ddfb/mza_6406683089903069019.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/serialously-with-annie-elise/id1519456164?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 12,
           "id": "6791300569",
           "name": "What Happened to the McStays?",
           "artist": "ABC News",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/4c/c2/0f4cc276-c560-32fc-8214-79c928ffc78a/mza_4680866050694825033.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/what-happened-to-the-mcstays/id6791300569?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 12,
+          "id": "1519456164",
+          "name": "Serialously with Annie Elise",
+          "artist": "Annie Elise & Audioboom Studios",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b8/ae/ae/b8aeaee5-e289-54f0-c223-58334b88ddfb/mza_6406683089903069019.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/serialously-with-annie-elise/id1519456164?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 13,
-          "id": "1615637724",
-          "name": "Betrayal Weekly",
-          "artist": "iHeartPodcasts | Glass Podcasts",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/5a/26/69/5a266933-839c-c4de-f0b6-e2f03e2289d6/mza_17463161178032816484.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/betrayal-weekly/id1615637724?uo=2",
+          "id": "1517651197",
+          "name": "Park Predators",
+          "artist": "Audiochuck",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/eb/95/39/eb9539bf-2d25-8928-9274-11f1d3364e98/mza_9186932073749396122.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/park-predators/id1517651197?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 14,
-          "id": "1721921086",
-          "name": "Dateline Originals",
-          "artist": "NBC News",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/0b/04/c50b0460-8686-0a6c-d941-2776e6774824/mza_4034755818837964809.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/dateline-originals/id1721921086?uo=2",
+          "id": "1841942565",
+          "name": "10 to Life",
+          "artist": "Annie Elise",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/99/19/1e/99191e2f-915e-9320-db9c-4ae1a51f7d77/mza_5381004304104260262.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/10-to-life/id1841942565?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 15,
-          "id": "1145089790",
-          "name": "Snapped: Women Who Murder",
-          "artist": "Oxygen",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/d4/ef/ff/d4efff91-8a69-ba8a-b5a8-634c029af6ff/mza_14265882527940743554.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/snapped-women-who-murder/id1145089790?uo=2",
+          "id": "809264944",
+          "name": "Criminal",
+          "artist": "Vox Media Podcast Network",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/bd/98/22/bd9822cc-b8e0-59de-5809-45926a0ee5f3/mza_2331604259390110897.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/criminal/id809264944?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
@@ -1209,31 +1209,31 @@
           "artist": "Shekhar Natarajan",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b2/b4/80/b2b48020-11e7-92a9-db46-b7d475a19757/mza_619091211434212889.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/tomorrow-today/id1848156557?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
-          "id": "1502871393",
-          "name": "All-In with Chamath, Jason, Sacks & Friedberg",
-          "artist": "All-In Podcast, LLC",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c7/d2/92/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c/mza_7005270671777648882.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 3,
           "id": "1896801264",
           "name": "AI Business Daily",
           "artist": "Cast Nexa",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/d6/32/80/d632803f-3ed4-bb1f-cd61-806fca57c005/mza_16471444242429361376.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/ai-business-daily/id1896801264?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 3,
+          "id": "1502871393",
+          "name": "All-In with Chamath, Jason, Sacks & Friedberg",
+          "artist": "All-In Podcast, LLC",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/c7/d2/92/c7d292ea-44b3-47ff-2f5e-74fa5b23db6c/mza_7005270671777648882.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/all-in-with-chamath-jason-sacks-friedberg/id1502871393?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 4,
@@ -1242,9 +1242,9 @@
           "artist": "Ben Gilbert and David Rosenthal",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/a8/e1/de/a8e1deff-9f88-4e55-a541-b0dc793c0cdc/mza_11539673419613154037.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/acquired/id1050462261?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 5,
@@ -1253,9 +1253,9 @@
           "artist": "Claudia Laurie and Madison McIlwain",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c1/89/fa/c189fad2-250b-ded2-2030-91cf35f4fce9/mza_2771269306765533595.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-room-podcast/id1539670094?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 6,
@@ -1264,9 +1264,9 @@
           "artist": "Building AI Boston",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/96/51/fb/9651fbb6-beb9-32b5-4daf-807df5b1c2da/mza_12664249370395591139.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/building-ai-boston/id1787830122?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 7,
@@ -1275,97 +1275,97 @@
           "artist": "The New York Times",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/de/c5/20/dec52092-6be0-9007-875c-6aa8e690a905/mza_12490014444602578825.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/hard-fork/id1528594034?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 8,
-          "id": "1516093381",
-          "name": "Dwarkesh Podcast",
-          "artist": "Dwarkesh Patel",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 9,
           "id": "1680633614",
           "name": "The AI Daily Brief: Artificial Intelligence News and Analysis",
           "artist": "Nathaniel Whittemore",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/9c/78/d8/9c78d82d-a2d1-a026-6ca2-f92ea61be9ae/mza_18421328158594577747.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-ai-daily-brief-artificial-intelligence-news/id1680633614?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 9,
+          "id": "1516093381",
+          "name": "Dwarkesh Podcast",
+          "artist": "Dwarkesh Patel",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e8/fe/ce/e8fece6e-c97f-8dd5-19a2-5c3b1f93f8e4/mza_726727706016079768.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/dwarkesh-podcast/id1516093381?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 10,
-          "id": "523121474",
-          "name": "TED Radio Hour",
-          "artist": "NPR",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/ea/88/94ea8879-e7f2-378c-231c-c041c7b295b5/mza_9110350352446077100.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/ted-radio-hour/id523121474?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 11,
           "id": "1771917740",
           "name": "American Alchemy with Jesse Michels",
           "artist": "Jesse Michels",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/dc/82/af/dc82af71-3bb1-8aae-a0d1-5510646d2f4a/mza_8358567098597130017.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/american-alchemy-with-jesse-michels/id1771917740?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
         },
         {
-          "rank": 12,
+          "rank": 11,
           "id": "1827749077",
           "name": "Inside AsembleAI: DeepTech, AI & Science",
           "artist": "Mac & Sam",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/2b/53/38/2b5338ca-6121-c75c-ff25-73bd3e9fa802/mza_11480776803924298324.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/inside-asembleai-deeptech-ai-science/id1827749077?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
         },
         {
-          "rank": 13,
-          "id": "1434243584",
-          "name": "Lex Fridman Podcast",
-          "artist": "Lex Fridman",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 14,
-          "id": "1864969176",
-          "name": "Plaintext with Rich",
-          "artist": "Rich Greene",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/dd/a2/f9dda2b0-14e0-a2a1-874a-f50a90d0d7b2/mza_5550423805592368035.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/plaintext-with-rich/id1864969176?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 15,
+          "rank": 12,
           "id": "1802645201",
           "name": "Reshaping Workflows with Dell Pro Precision and NVIDIA RTX PRO GPUs",
           "artist": "Dell Technologies AI Factory with NVIDIA",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/62/a4/f3/62a4f359-f995-dd63-b3ee-dab3e87bfd8a/mza_5216547138306201612.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/reshaping-workflows-with-dell-pro-precision-and-nvidia/id1802645201?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 3,
+          "delta7d": 3,
+          "isNew": false
+        },
+        {
+          "rank": 13,
+          "id": "1864969176",
+          "name": "Plaintext with Rich",
+          "artist": "Rich Greene",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f9/dd/a2/f9dda2b0-14e0-a2a1-874a-f50a90d0d7b2/mza_5550423805592368035.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/plaintext-with-rich/id1864969176?uo=2",
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 14,
+          "id": "523121474",
+          "name": "TED Radio Hour",
+          "artist": "NPR",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/94/ea/88/94ea8879-e7f2-378c-231c-c041c7b295b5/mza_9110350352446077100.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/ted-radio-hour/id523121474?uo=2",
+          "delta1d": -4,
+          "delta7d": -4,
+          "isNew": false
+        },
+        {
+          "rank": 15,
+          "id": "1434243584",
+          "name": "Lex Fridman Podcast",
+          "artist": "Lex Fridman",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/3e/e3/9c/3ee39c89-de08-47a6-7f3d-3849cef6d255/mza_16657851278549137484.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/lex-fridman-podcast/id1434243584?uo=2",
+          "delta1d": -2,
+          "delta7d": -2,
+          "isNew": false
         }
       ]
     },
@@ -1380,9 +1380,9 @@
           "artist": "The Ringer",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/7a/98/73/7a987302-599c-9285-c210-fca2c83b9450/mza_1946147658144436679.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-bill-simmons-podcast/id1043699613?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 2,
@@ -1391,53 +1391,53 @@
           "artist": "Barstool Sports",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/74/6a/35746a0c-7687-7dde-ff04-338d93e78303/mza_10377078556009223546.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/pardon-my-take/id1089022756?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 3,
-          "id": "1685093486",
-          "name": "Pablo Torre Finds Out",
-          "artist": "The Athletic",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/e5/27/6ce5278d-5c3f-b992-7ba5-e45811dad115/mza_3053656086025708268.jpeg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/pablo-torre-finds-out/id1685093486?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 4,
-          "id": "1832831782",
-          "name": "Collector Nation",
-          "artist": "Collector Nation",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/58/21/9a58210c-6d86-80e8-ca1a-1370eeeed402/mza_5539356400934129992.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/collector-nation/id1832831782?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 5,
           "id": "917453719",
           "name": "Fantasy Footballers - Fantasy Football Podcast",
           "artist": "Fantasy Football",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/e0/f6/ed/e0f6edb8-b352-1dd1-1836-c77fdf5c6f17/mza_1578365354745278550.jpeg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/fantasy-footballers-fantasy-football-podcast/id917453719?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
+        },
+        {
+          "rank": 4,
+          "id": "934820588",
+          "name": "The Dan Le Batard Show",
+          "artist": "Dan Le Batard",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-dan-le-batard-show/id934820588?uo=2",
+          "delta1d": 6,
+          "delta7d": 6,
+          "isNew": false
+        },
+        {
+          "rank": 5,
+          "id": "1832831782",
+          "name": "Collector Nation",
+          "artist": "Collector Nation",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9a/58/21/9a58210c-6d86-80e8-ca1a-1370eeeed402/mza_5539356400934129992.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/collector-nation/id1832831782?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 6,
-          "id": "261735167",
-          "name": "Fantasy Football Today",
-          "artist": "CBS Sports",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/01/af/6f01afca-c922-c3e3-1c6a-f992c9628769/mza_2762370248094837037.png/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/fantasy-football-today/id261735167?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1685093486",
+          "name": "Pablo Torre Finds Out",
+          "artist": "The Athletic",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6c/e5/27/6ce5278d-5c3f-b992-7ba5-e45811dad115/mza_3053656086025708268.jpeg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/pablo-torre-finds-out/id1685093486?uo=2",
+          "delta1d": -3,
+          "delta7d": -3,
+          "isNew": false
         },
         {
           "rank": 7,
@@ -1446,20 +1446,20 @@
           "artist": "Mystic Zach",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/56/5a/65/565a65ff-71da-a1e6-19d3-1db259c1c9ab/mza_6687698267860318737.png/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/double-coverage-podcast/id1837044678?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 8,
-          "id": "1523722173",
-          "name": "The Ringer Fantasy Football Show",
-          "artist": "The Ringer",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/1d/5f/d61d5f6f-eb03-1031-c3f1-5fc0eea84619/mza_1542285617522735983.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-ringer-fantasy-football-show/id1523722173?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "261735167",
+          "name": "Fantasy Football Today",
+          "artist": "CBS Sports",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/6f/01/af/6f01afca-c922-c3e3-1c6a-f992c9628769/mza_2762370248094837037.png/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/fantasy-football-today/id261735167?uo=2",
+          "delta1d": -2,
+          "delta7d": -2,
+          "isNew": false
         },
         {
           "rank": 9,
@@ -1468,75 +1468,75 @@
           "artist": "Jim",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/3d/db/41/3ddb4115-4461-1b44-344b-a9280cb59e7b/mza_10892588309988853434.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/on-the-line-with-jim-pyne/id6794668286?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 0,
+          "delta7d": 0,
+          "isNew": false
         },
         {
           "rank": 10,
-          "id": "934820588",
-          "name": "The Dan Le Batard Show",
-          "artist": "Dan Le Batard",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/d7/d9/57d7d9e0-cf27-7928-0650-578623e80c29/mza_14930160221470262963.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-dan-le-batard-show/id934820588?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 11,
           "id": "1845980031",
           "name": "The Ryen Russillo Show",
           "artist": "Barstool Sports",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ac/6e/46/ac6e4654-d8dc-ae6e-e4c6-7636bcf4898f/mza_17415378073775063938.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/the-ryen-russillo-show/id1845980031?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": 1,
+          "delta7d": 1,
+          "isNew": false
+        },
+        {
+          "rank": 11,
+          "id": "960902903",
+          "name": "The MeatEater Podcast",
+          "artist": "MeatEater",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/27/62/ad2762c4-858d-c42b-0b81-cee586ab597d/mza_12778609106669149114.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-meateater-podcast/id960902903?uo=2",
+          "delta1d": 2,
+          "delta7d": 2,
+          "isNew": false
         },
         {
           "rank": 12,
-          "id": "1138942145",
-          "name": "FantasyPros - Fantasy Football Podcast",
-          "artist": "iHeartPodcasts",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/bf/ed/aebfed01-23fb-e14c-2249-74be87cbc860/mza_16067254733787328958.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/fantasypros-fantasy-football-podcast/id1138942145?uo=2",
+          "id": "260537420",
+          "name": "Fantasy Focus Football",
+          "artist": "ESPN, Field Yates, Stephania Bell, Mike Clay, Daniel Dopp",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/37/d9/53/37d95345-99ef-3687-c6ca-ff298a953f60/mza_17931602401727900922.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/fantasy-focus-football/id260537420?uo=2",
           "delta1d": null,
           "delta7d": null,
           "isNew": true
         },
         {
           "rank": 13,
-          "id": "960902903",
-          "name": "The MeatEater Podcast",
-          "artist": "MeatEater",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ad/27/62/ad2762c4-858d-c42b-0b81-cee586ab597d/mza_12778609106669149114.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/the-meateater-podcast/id960902903?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "id": "1138942145",
+          "name": "FantasyPros - Fantasy Football Podcast",
+          "artist": "iHeartPodcasts",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/ae/bf/ed/aebfed01-23fb-e14c-2249-74be87cbc860/mza_16067254733787328958.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/fantasypros-fantasy-football-podcast/id1138942145?uo=2",
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         },
         {
           "rank": 14,
+          "id": "1523722173",
+          "name": "The Ringer Fantasy Football Show",
+          "artist": "The Ringer",
+          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/d6/1d/5f/d61d5f6f-eb03-1031-c3f1-5fc0eea84619/mza_1542285617522735983.jpg/170x170bb.png",
+          "url": "https://podcasts.apple.com/us/podcast/the-ringer-fantasy-football-show/id1523722173?uo=2",
+          "delta1d": -6,
+          "delta7d": -6,
+          "isNew": false
+        },
+        {
+          "rank": 15,
           "id": "1485905502",
           "name": "Josh Pate's College Football Show",
           "artist": "iHeartPodcasts",
           "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/68/f3/37/68f33725-17e4-5f4c-ec28-8dad696159f0/mza_530497687300345612.jpg/170x170bb.png",
           "url": "https://podcasts.apple.com/us/podcast/josh-pates-college-football-show/id1485905502?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
-        },
-        {
-          "rank": 15,
-          "id": "1375714621",
-          "name": "Brandon Walker College Football Show",
-          "artist": "Barstool Sports",
-          "artwork": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/bc/47/1e/bc471eba-78fc-ee3d-e9fd-023ec4c54dd7/mza_649823573164273512.jpg/170x170bb.png",
-          "url": "https://podcasts.apple.com/us/podcast/brandon-walker-college-football-show/id1375714621?uo=2",
-          "delta1d": null,
-          "delta7d": null,
-          "isNew": true
+          "delta1d": -1,
+          "delta7d": -1,
+          "isNew": false
         }
       ]
     }
