@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-09-16T07:12:53.114Z",
-  "videos": [],
+  "updatedAt": "2026-09-17T07:13:43.611Z",
+  "videos": [
+    {
+      "videoId": "CHedaiTbQ34",
+      "title": "Build Any Habit in 3 AI Steps (Stop Struggling NOW✨)",
+      "channelTitle": "Trish Lee",
+      "channelId": "UCHaNr3K4k8BGYhtj88olToA",
+      "publishedAt": "2026-09-17T04:58:36Z",
+      "description": "You don't lack willpower, and you don't need another aesthetic morning routine. The real reason you keep abandoning your ...",
+      "thumbnail": "https://i.ytimg.com/vi/CHedaiTbQ34/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 299,
+      "viewCount": 5,
+      "viewCountDisplay": "5",
+      "subscriberCountDisplay": "7.0K"
+    }
+  ],
   "trending": {
-    "topViewed": [],
-    "topChannels": []
+    "topViewed": [
+      {
+        "videoId": "CHedaiTbQ34",
+        "title": "Build Any Habit in 3 AI Steps (Stop Struggling NOW✨)",
+        "channelTitle": "Trish Lee",
+        "channelId": "UCHaNr3K4k8BGYhtj88olToA",
+        "publishedAt": "2026-09-17T04:58:36Z",
+        "description": "You don't lack willpower, and you don't need another aesthetic morning routine. The real reason you keep abandoning your ...",
+        "thumbnail": "https://i.ytimg.com/vi/CHedaiTbQ34/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 299,
+        "viewCount": 5,
+        "viewCountDisplay": "5",
+        "subscriberCountDisplay": "7.0K"
+      }
+    ],
+    "topChannels": [
+      {
+        "channelId": "UCHaNr3K4k8BGYhtj88olToA",
+        "channelTitle": "Trish Lee",
+        "subscriberCount": 7050,
+        "subscriberCountDisplay": "7.0K",
+        "videosInFeed": 1
+      }
+    ]
   }
 }
