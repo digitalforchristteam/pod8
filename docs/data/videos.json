@@ -1,81 +1,8 @@
 {
-  "updatedAt": "2026-09-21T07:12:44.406Z",
-  "videos": [
-    {
-      "videoId": "yr4QmnnxaLY",
-      "title": "Future Self Exercise: खुद को 1 साल बाद देखिए 🌱 #SelfGrowth #selfdiscipline #findingself",
-      "channelTitle": "Dilip Patil – Life Lessons",
-      "channelId": "UCAqCNE6djyuAnCf04Q0V86w",
-      "publishedAt": "2026-09-21T07:00:10Z",
-      "description": "Future Self Exercise: खुद को 1 साल बाद देखिए #SelfGrowth Future Self Visualization हमें अपनी दिशा ...",
-      "thumbnail": "https://i.ytimg.com/vi/yr4QmnnxaLY/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 96,
-      "viewCount": 2,
-      "viewCountDisplay": "2",
-      "subscriberCountDisplay": "1.3K"
-    },
-    {
-      "videoId": "DCa3TE3KWWY",
-      "title": "Sakit Gigi Bisa Merusak Otak · #mindset #fyp #kesehatangigi #infeksi #edukasikesehatan #roryasyari",
-      "channelTitle": "Latupa Jaya",
-      "channelId": "UCQh-83DUI4Y5Y2ObT3cRRfA",
-      "publishedAt": "2026-09-21T06:02:12Z",
-      "description": "Sakit Gigi Bisa Merusak Otak ·",
-      "thumbnail": "https://i.ytimg.com/vi/DCa3TE3KWWY/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 121,
-      "viewCount": 600,
-      "viewCountDisplay": "600",
-      "subscriberCountDisplay": "4.2K"
-    }
-  ],
+  "updatedAt": "2026-09-22T07:11:52.082Z",
+  "videos": [],
   "trending": {
-    "topViewed": [
-      {
-        "videoId": "DCa3TE3KWWY",
-        "title": "Sakit Gigi Bisa Merusak Otak · #mindset #fyp #kesehatangigi #infeksi #edukasikesehatan #roryasyari",
-        "channelTitle": "Latupa Jaya",
-        "channelId": "UCQh-83DUI4Y5Y2ObT3cRRfA",
-        "publishedAt": "2026-09-21T06:02:12Z",
-        "description": "Sakit Gigi Bisa Merusak Otak ·",
-        "thumbnail": "https://i.ytimg.com/vi/DCa3TE3KWWY/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 121,
-        "viewCount": 600,
-        "viewCountDisplay": "600",
-        "subscriberCountDisplay": "4.2K"
-      },
-      {
-        "videoId": "yr4QmnnxaLY",
-        "title": "Future Self Exercise: खुद को 1 साल बाद देखिए 🌱 #SelfGrowth #selfdiscipline #findingself",
-        "channelTitle": "Dilip Patil – Life Lessons",
-        "channelId": "UCAqCNE6djyuAnCf04Q0V86w",
-        "publishedAt": "2026-09-21T07:00:10Z",
-        "description": "Future Self Exercise: खुद को 1 साल बाद देखिए #SelfGrowth Future Self Visualization हमें अपनी दिशा ...",
-        "thumbnail": "https://i.ytimg.com/vi/yr4QmnnxaLY/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 96,
-        "viewCount": 2,
-        "viewCountDisplay": "2",
-        "subscriberCountDisplay": "1.3K"
-      }
-    ],
-    "topChannels": [
-      {
-        "channelId": "UCQh-83DUI4Y5Y2ObT3cRRfA",
-        "channelTitle": "Latupa Jaya",
-        "subscriberCount": 4190,
-        "subscriberCountDisplay": "4.2K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UCAqCNE6djyuAnCf04Q0V86w",
-        "channelTitle": "Dilip Patil – Life Lessons",
-        "subscriberCount": 1330,
-        "subscriberCountDisplay": "1.3K",
-        "videosInFeed": 1
-      }
-    ]
+    "topViewed": [],
+    "topChannels": []
   }
 }
