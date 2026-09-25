@@ -1,79 +1,44 @@
 {
-  "updatedAt": "2026-09-24T07:12:29.623Z",
+  "updatedAt": "2026-09-25T07:12:28.319Z",
   "videos": [
     {
-      "videoId": "jDa0Ol1uTT0",
-      "title": "The Money Story You Inherited And How To Rewrite It (Personal Development Wisdom Snippets) | #643",
-      "channelTitle": "Personal Development Mastery podcast",
-      "channelId": "UCTgOvVFfvzK2kRmThhuOs7w",
-      "publishedAt": "2026-09-24T06:24:20Z",
-      "description": "What if the way you think about money today has nothing to do with you, and everything to do with what you caught from your ...",
-      "thumbnail": "https://i.ytimg.com/vi/jDa0Ol1uTT0/hqdefault.jpg",
+      "videoId": "pxilPeljhhg",
+      "title": "Why The Daily Communication Reset Works | Ultamize Personal Development",
+      "channelTitle": "Ultamize with TJ Walker",
+      "channelId": "UCNXNQHoxHJUvpCok_2yyeAg",
+      "publishedAt": "2026-09-25T04:00:32Z",
+      "description": "The Daily Communication Reset is designed to reinforce the behaviors that make people sound calm, clear, thoughtful, confident, ...",
+      "thumbnail": "https://i.ytimg.com/vi/pxilPeljhhg/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 392,
+      "durationSeconds": 153,
       "viewCount": 0,
       "viewCountDisplay": "0",
-      "subscriberCountDisplay": "1.3K"
-    },
-    {
-      "videoId": "mLz_4UgLCW8",
-      "title": "What is Coaching Up &amp; Goal Setting Tips for 2024 (E145) - Chris Cotton Weekly Blitz",
-      "channelTitle": "Carm Capriotto",
-      "channelId": "UCX1YwTr7M2qRHPB2F7atB8g",
-      "publishedAt": "2026-09-24T01:20:43Z",
-      "description": "The Weekly Blitz is brought to you by our friends over at Shop Marketing Pros. If you want to take your shop to the next level, you ...",
-      "thumbnail": "https://i.ytimg.com/vi/mLz_4UgLCW8/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 909,
-      "viewCount": 1,
-      "viewCountDisplay": "1",
-      "subscriberCountDisplay": "2.9K"
+      "subscriberCountDisplay": "21.6K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "mLz_4UgLCW8",
-        "title": "What is Coaching Up &amp; Goal Setting Tips for 2024 (E145) - Chris Cotton Weekly Blitz",
-        "channelTitle": "Carm Capriotto",
-        "channelId": "UCX1YwTr7M2qRHPB2F7atB8g",
-        "publishedAt": "2026-09-24T01:20:43Z",
-        "description": "The Weekly Blitz is brought to you by our friends over at Shop Marketing Pros. If you want to take your shop to the next level, you ...",
-        "thumbnail": "https://i.ytimg.com/vi/mLz_4UgLCW8/hqdefault.jpg",
+        "videoId": "pxilPeljhhg",
+        "title": "Why The Daily Communication Reset Works | Ultamize Personal Development",
+        "channelTitle": "Ultamize with TJ Walker",
+        "channelId": "UCNXNQHoxHJUvpCok_2yyeAg",
+        "publishedAt": "2026-09-25T04:00:32Z",
+        "description": "The Daily Communication Reset is designed to reinforce the behaviors that make people sound calm, clear, thoughtful, confident, ...",
+        "thumbnail": "https://i.ytimg.com/vi/pxilPeljhhg/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 909,
-        "viewCount": 1,
-        "viewCountDisplay": "1",
-        "subscriberCountDisplay": "2.9K"
-      },
-      {
-        "videoId": "jDa0Ol1uTT0",
-        "title": "The Money Story You Inherited And How To Rewrite It (Personal Development Wisdom Snippets) | #643",
-        "channelTitle": "Personal Development Mastery podcast",
-        "channelId": "UCTgOvVFfvzK2kRmThhuOs7w",
-        "publishedAt": "2026-09-24T06:24:20Z",
-        "description": "What if the way you think about money today has nothing to do with you, and everything to do with what you caught from your ...",
-        "thumbnail": "https://i.ytimg.com/vi/jDa0Ol1uTT0/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 392,
+        "durationSeconds": 153,
         "viewCount": 0,
         "viewCountDisplay": "0",
-        "subscriberCountDisplay": "1.3K"
+        "subscriberCountDisplay": "21.6K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UCX1YwTr7M2qRHPB2F7atB8g",
-        "channelTitle": "Carm Capriotto",
-        "subscriberCount": 2900,
-        "subscriberCountDisplay": "2.9K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UCTgOvVFfvzK2kRmThhuOs7w",
-        "channelTitle": "Personal Development Mastery podcast",
-        "subscriberCount": 1340,
-        "subscriberCountDisplay": "1.3K",
+        "channelId": "UCNXNQHoxHJUvpCok_2yyeAg",
+        "channelTitle": "Ultamize with TJ Walker",
+        "subscriberCount": 21600,
+        "subscriberCountDisplay": "21.6K",
         "videosInFeed": 1
       }
     ]
