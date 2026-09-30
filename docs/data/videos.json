@@ -1,8 +1,46 @@
 {
-  "updatedAt": "2026-09-29T07:14:02.447Z",
-  "videos": [],
+  "updatedAt": "2026-09-30T07:14:11.835Z",
+  "videos": [
+    {
+      "videoId": "v2WnHUFcpwc",
+      "title": "Ye Are Gods! #personaldevelopment #drlanreolusola",
+      "channelTitle": "Dr Lanre Olusola ",
+      "channelId": "UCX8GIvDvHlcRgEdS_hwNsDg",
+      "publishedAt": "2026-09-30T06:48:51Z",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/v2WnHUFcpwc/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 132,
+      "viewCount": 4,
+      "viewCountDisplay": "4",
+      "subscriberCountDisplay": "7.4K"
+    }
+  ],
   "trending": {
-    "topViewed": [],
-    "topChannels": []
+    "topViewed": [
+      {
+        "videoId": "v2WnHUFcpwc",
+        "title": "Ye Are Gods! #personaldevelopment #drlanreolusola",
+        "channelTitle": "Dr Lanre Olusola ",
+        "channelId": "UCX8GIvDvHlcRgEdS_hwNsDg",
+        "publishedAt": "2026-09-30T06:48:51Z",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/v2WnHUFcpwc/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 132,
+        "viewCount": 4,
+        "viewCountDisplay": "4",
+        "subscriberCountDisplay": "7.4K"
+      }
+    ],
+    "topChannels": [
+      {
+        "channelId": "UCX8GIvDvHlcRgEdS_hwNsDg",
+        "channelTitle": "Dr Lanre Olusola ",
+        "subscriberCount": 7410,
+        "subscriberCountDisplay": "7.4K",
+        "videosInFeed": 1
+      }
+    ]
   }
 }
