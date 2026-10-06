@@ -1,81 +1,8 @@
 {
-  "updatedAt": "2026-10-05T15:36:57.881Z",
-  "videos": [
-    {
-      "videoId": "Hxq0iglu2c4",
-      "title": "You Plan A Lot, Watch Motivational Content But Still Do Nothing | Get Out Of Trap",
-      "channelTitle": "Civilised Ladka Talks",
-      "channelId": "UC7CMfUmue_-XXta20nfFlSw",
-      "publishedAt": "2026-10-05T08:44:44Z",
-      "description": "EP- 215* Too much planning, journaling, motivational content, and self-talk can create the feeling of progress without actual ...",
-      "thumbnail": "https://i.ytimg.com/vi/Hxq0iglu2c4/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 800,
-      "viewCount": 4799,
-      "viewCountDisplay": "4.8K",
-      "subscriberCountDisplay": "165.0K"
-    },
-    {
-      "videoId": "PlPxxY6iYnk",
-      "title": "These AI TIPS Can 2X Your Productivity 🚀 | Work Smarter, Not Harder in 2026",
-      "channelTitle": "GENIUS MIND  प्रज्ञावान भवः",
-      "channelId": "UCzhGsR110t_HQjC7lxoChyw",
-      "publishedAt": "2026-10-05T05:41:00Z",
-      "description": "These AI Tools Can 2X Your Productivity | Work Smarter, Not Harder in 2026 AI TIPS की मदद से अपनी ...",
-      "thumbnail": "https://i.ytimg.com/vi/PlPxxY6iYnk/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 2880,
-      "viewCount": 220,
-      "viewCountDisplay": "220",
-      "subscriberCountDisplay": "70.7K"
-    }
-  ],
+  "updatedAt": "2026-10-06T13:58:51.281Z",
+  "videos": [],
   "trending": {
-    "topViewed": [
-      {
-        "videoId": "Hxq0iglu2c4",
-        "title": "You Plan A Lot, Watch Motivational Content But Still Do Nothing | Get Out Of Trap",
-        "channelTitle": "Civilised Ladka Talks",
-        "channelId": "UC7CMfUmue_-XXta20nfFlSw",
-        "publishedAt": "2026-10-05T08:44:44Z",
-        "description": "EP- 215* Too much planning, journaling, motivational content, and self-talk can create the feeling of progress without actual ...",
-        "thumbnail": "https://i.ytimg.com/vi/Hxq0iglu2c4/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 800,
-        "viewCount": 4799,
-        "viewCountDisplay": "4.8K",
-        "subscriberCountDisplay": "165.0K"
-      },
-      {
-        "videoId": "PlPxxY6iYnk",
-        "title": "These AI TIPS Can 2X Your Productivity 🚀 | Work Smarter, Not Harder in 2026",
-        "channelTitle": "GENIUS MIND  प्रज्ञावान भवः",
-        "channelId": "UCzhGsR110t_HQjC7lxoChyw",
-        "publishedAt": "2026-10-05T05:41:00Z",
-        "description": "These AI Tools Can 2X Your Productivity | Work Smarter, Not Harder in 2026 AI TIPS की मदद से अपनी ...",
-        "thumbnail": "https://i.ytimg.com/vi/PlPxxY6iYnk/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 2880,
-        "viewCount": 220,
-        "viewCountDisplay": "220",
-        "subscriberCountDisplay": "70.7K"
-      }
-    ],
-    "topChannels": [
-      {
-        "channelId": "UC7CMfUmue_-XXta20nfFlSw",
-        "channelTitle": "Civilised Ladka Talks",
-        "subscriberCount": 165000,
-        "subscriberCountDisplay": "165.0K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UCzhGsR110t_HQjC7lxoChyw",
-        "channelTitle": "GENIUS MIND  प्रज्ञावान भवः",
-        "subscriberCount": 70700,
-        "subscriberCountDisplay": "70.7K",
-        "videosInFeed": 1
-      }
-    ]
+    "topViewed": [],
+    "topChannels": []
   }
 }
