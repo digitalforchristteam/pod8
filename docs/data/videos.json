@@ -1,8 +1,151 @@
 {
-  "updatedAt": "2026-10-06T13:58:51.281Z",
-  "videos": [],
+  "updatedAt": "2026-10-07T14:16:06.296Z",
+  "videos": [
+    {
+      "videoId": "BTZ2ASdB4A4",
+      "title": "6 Habits Made Poor Sahaba R.A  Rich | How Sahaba Became Wealthy? Wealth Building Tips | Yasin Shakir",
+      "channelTitle": "Yasin Shakir",
+      "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
+      "publishedAt": "2026-10-07T14:00:09Z",
+      "description": "businesstips #islamicbusiness #businessnews #businessideas #businessskils #businessgrowth #businessstrategy ...",
+      "thumbnail": "https://i.ytimg.com/vi/BTZ2ASdB4A4/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 564,
+      "viewCount": 8,
+      "viewCountDisplay": "8",
+      "subscriberCountDisplay": "51.0K"
+    },
+    {
+      "videoId": "pSgAxScQFz4",
+      "title": "Principles For Goal Setting | TMI",
+      "channelTitle": "Independent Television and Radio",
+      "channelId": "UCzuiQaDS-LR2Qr3QYcj730w",
+      "publishedAt": "2026-10-07T13:19:42Z",
+      "description": "Setting meaningful goals is the first step toward turning dreams into reality. Learn the key principles of effective goal setting, from ...",
+      "thumbnail": "https://i.ytimg.com/vi/pSgAxScQFz4/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 1607,
+      "viewCount": 2,
+      "viewCountDisplay": "2",
+      "subscriberCountDisplay": "177.0K"
+    },
+    {
+      "videoId": "PMWJ47bqjy8",
+      "title": "21 दिन चैलेंज  - Napoleon Hill (Hindi) | Success Habits | Goal Setting | Daily Motivation",
+      "channelTitle": "dr.shivriyarawat",
+      "channelId": "UCALvX0ITWlBZmM3qh5YUizA",
+      "publishedAt": "2026-10-07T13:18:53Z",
+      "description": "क्या आप भी चाहते हैं कि अगले 21 दिनों में आपकी पूरी सोच, आदतें और जीवन ...",
+      "thumbnail": "https://i.ytimg.com/vi/PMWJ47bqjy8/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 572,
+      "viewCount": 1,
+      "viewCountDisplay": "1",
+      "subscriberCountDisplay": "1.7K"
+    },
+    {
+      "videoId": "6pNn3BZpZ2o",
+      "title": "Personality Development Session | Positive Mindset &amp; Personal Development | Personality Psychology",
+      "channelTitle": "RWA Skills",
+      "channelId": "UC1tixE_2NFHPvSZtizRIVrQ",
+      "publishedAt": "2026-10-07T13:09:08Z",
+      "description": "Personality Development Session | Positive Mindset & Personal Development | Personality Psychology By Sam Sir Personality ...",
+      "thumbnail": "https://i.ytimg.com/vi/6pNn3BZpZ2o/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 205,
+      "viewCount": 181,
+      "viewCountDisplay": "181",
+      "subscriberCountDisplay": "99.7K"
+    }
+  ],
   "trending": {
-    "topViewed": [],
-    "topChannels": []
+    "topViewed": [
+      {
+        "videoId": "6pNn3BZpZ2o",
+        "title": "Personality Development Session | Positive Mindset &amp; Personal Development | Personality Psychology",
+        "channelTitle": "RWA Skills",
+        "channelId": "UC1tixE_2NFHPvSZtizRIVrQ",
+        "publishedAt": "2026-10-07T13:09:08Z",
+        "description": "Personality Development Session | Positive Mindset & Personal Development | Personality Psychology By Sam Sir Personality ...",
+        "thumbnail": "https://i.ytimg.com/vi/6pNn3BZpZ2o/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 205,
+        "viewCount": 181,
+        "viewCountDisplay": "181",
+        "subscriberCountDisplay": "99.7K"
+      },
+      {
+        "videoId": "BTZ2ASdB4A4",
+        "title": "6 Habits Made Poor Sahaba R.A  Rich | How Sahaba Became Wealthy? Wealth Building Tips | Yasin Shakir",
+        "channelTitle": "Yasin Shakir",
+        "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
+        "publishedAt": "2026-10-07T14:00:09Z",
+        "description": "businesstips #islamicbusiness #businessnews #businessideas #businessskils #businessgrowth #businessstrategy ...",
+        "thumbnail": "https://i.ytimg.com/vi/BTZ2ASdB4A4/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 564,
+        "viewCount": 8,
+        "viewCountDisplay": "8",
+        "subscriberCountDisplay": "51.0K"
+      },
+      {
+        "videoId": "pSgAxScQFz4",
+        "title": "Principles For Goal Setting | TMI",
+        "channelTitle": "Independent Television and Radio",
+        "channelId": "UCzuiQaDS-LR2Qr3QYcj730w",
+        "publishedAt": "2026-10-07T13:19:42Z",
+        "description": "Setting meaningful goals is the first step toward turning dreams into reality. Learn the key principles of effective goal setting, from ...",
+        "thumbnail": "https://i.ytimg.com/vi/pSgAxScQFz4/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 1607,
+        "viewCount": 2,
+        "viewCountDisplay": "2",
+        "subscriberCountDisplay": "177.0K"
+      },
+      {
+        "videoId": "PMWJ47bqjy8",
+        "title": "21 दिन चैलेंज  - Napoleon Hill (Hindi) | Success Habits | Goal Setting | Daily Motivation",
+        "channelTitle": "dr.shivriyarawat",
+        "channelId": "UCALvX0ITWlBZmM3qh5YUizA",
+        "publishedAt": "2026-10-07T13:18:53Z",
+        "description": "क्या आप भी चाहते हैं कि अगले 21 दिनों में आपकी पूरी सोच, आदतें और जीवन ...",
+        "thumbnail": "https://i.ytimg.com/vi/PMWJ47bqjy8/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 572,
+        "viewCount": 1,
+        "viewCountDisplay": "1",
+        "subscriberCountDisplay": "1.7K"
+      }
+    ],
+    "topChannels": [
+      {
+        "channelId": "UCzuiQaDS-LR2Qr3QYcj730w",
+        "channelTitle": "Independent Television and Radio",
+        "subscriberCount": 177000,
+        "subscriberCountDisplay": "177.0K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UC1tixE_2NFHPvSZtizRIVrQ",
+        "channelTitle": "RWA Skills",
+        "subscriberCount": 99700,
+        "subscriberCountDisplay": "99.7K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
+        "channelTitle": "Yasin Shakir",
+        "subscriberCount": 51000,
+        "subscriberCountDisplay": "51.0K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UCALvX0ITWlBZmM3qh5YUizA",
+        "channelTitle": "dr.shivriyarawat",
+        "subscriberCount": 1690,
+        "subscriberCountDisplay": "1.7K",
+        "videosInFeed": 1
+      }
+    ]
   }
 }
