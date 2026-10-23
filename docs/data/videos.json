@@ -1,79 +1,44 @@
 {
-  "updatedAt": "2026-10-22T12:48:44.152Z",
+  "updatedAt": "2026-10-23T12:27:11.813Z",
   "videos": [
     {
-      "videoId": "y4Ccs_7hws8",
-      "title": "360° Growth – આદતોનું ઘડતર અને કૌશલ્ય વિકાસ | Habit Building &amp; Skill Development",
-      "channelTitle": "Amba School for Excellence",
-      "channelId": "UCxu5Tn2vfkMKpbVOmXe1c_w",
-      "publishedAt": "2026-10-22T11:49:16Z",
-      "description": "અંબા સ્કૂલમાં ધોરણ ૬ થી ૮ ના વિદ્યાર્થીઓ માટે યોજાતા Circle Time સત્રો ...",
-      "thumbnail": "https://i.ytimg.com/vi/y4Ccs_7hws8/hqdefault.jpg",
+      "videoId": "RxvpNrqa1qo",
+      "title": "Pay Yourself First: The Wealth-Building Habit for Veterans #shorts",
+      "channelTitle": "The Adjutant 🇺🇸",
+      "channelId": "UCAH4Od8tKTbWmifDlXmqKLQ",
+      "publishedAt": "2026-10-23T08:59:42Z",
+      "description": "Financially successful veterans prioritize their future by paying themselves first. Automate your investments—TSP, Roth IRA, ...",
+      "thumbnail": "https://i.ytimg.com/vi/RxvpNrqa1qo/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 230,
-      "viewCount": 16,
-      "viewCountDisplay": "16",
-      "subscriberCountDisplay": "6.9K"
-    },
-    {
-      "videoId": "JmyPWcu7ugU",
-      "title": "How I’m Preparing for Class 10 Pre-Boards in 1 Month! 🌟 🥰 #boards #study ",
-      "channelTitle": "Vanshika Choubisa 🧿",
-      "channelId": "UC1uthXKdf-ZQtMeVzcQarmQ",
-      "publishedAt": "2026-10-22T09:30:20Z",
-      "description": "Link - study vlog productive study vlog aesthetic study vlog day in the life of a student realistic study vlog deep work session study ...",
-      "thumbnail": "https://i.ytimg.com/vi/JmyPWcu7ugU/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 334,
-      "viewCount": 296,
-      "viewCountDisplay": "296",
-      "subscriberCountDisplay": "3.5K"
+      "durationSeconds": 136,
+      "viewCount": 10,
+      "viewCountDisplay": "10",
+      "subscriberCountDisplay": "10.1K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "JmyPWcu7ugU",
-        "title": "How I’m Preparing for Class 10 Pre-Boards in 1 Month! 🌟 🥰 #boards #study ",
-        "channelTitle": "Vanshika Choubisa 🧿",
-        "channelId": "UC1uthXKdf-ZQtMeVzcQarmQ",
-        "publishedAt": "2026-10-22T09:30:20Z",
-        "description": "Link - study vlog productive study vlog aesthetic study vlog day in the life of a student realistic study vlog deep work session study ...",
-        "thumbnail": "https://i.ytimg.com/vi/JmyPWcu7ugU/hqdefault.jpg",
+        "videoId": "RxvpNrqa1qo",
+        "title": "Pay Yourself First: The Wealth-Building Habit for Veterans #shorts",
+        "channelTitle": "The Adjutant 🇺🇸",
+        "channelId": "UCAH4Od8tKTbWmifDlXmqKLQ",
+        "publishedAt": "2026-10-23T08:59:42Z",
+        "description": "Financially successful veterans prioritize their future by paying themselves first. Automate your investments—TSP, Roth IRA, ...",
+        "thumbnail": "https://i.ytimg.com/vi/RxvpNrqa1qo/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 334,
-        "viewCount": 296,
-        "viewCountDisplay": "296",
-        "subscriberCountDisplay": "3.5K"
-      },
-      {
-        "videoId": "y4Ccs_7hws8",
-        "title": "360° Growth – આદતોનું ઘડતર અને કૌશલ્ય વિકાસ | Habit Building &amp; Skill Development",
-        "channelTitle": "Amba School for Excellence",
-        "channelId": "UCxu5Tn2vfkMKpbVOmXe1c_w",
-        "publishedAt": "2026-10-22T11:49:16Z",
-        "description": "અંબા સ્કૂલમાં ધોરણ ૬ થી ૮ ના વિદ્યાર્થીઓ માટે યોજાતા Circle Time સત્રો ...",
-        "thumbnail": "https://i.ytimg.com/vi/y4Ccs_7hws8/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 230,
-        "viewCount": 16,
-        "viewCountDisplay": "16",
-        "subscriberCountDisplay": "6.9K"
+        "durationSeconds": 136,
+        "viewCount": 10,
+        "viewCountDisplay": "10",
+        "subscriberCountDisplay": "10.1K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UCxu5Tn2vfkMKpbVOmXe1c_w",
-        "channelTitle": "Amba School for Excellence",
-        "subscriberCount": 6880,
-        "subscriberCountDisplay": "6.9K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UC1uthXKdf-ZQtMeVzcQarmQ",
-        "channelTitle": "Vanshika Choubisa 🧿",
-        "subscriberCount": 3470,
-        "subscriberCountDisplay": "3.5K",
+        "channelId": "UCAH4Od8tKTbWmifDlXmqKLQ",
+        "channelTitle": "The Adjutant 🇺🇸",
+        "subscriberCount": 10100,
+        "subscriberCountDisplay": "10.1K",
         "videosInFeed": 1
       }
     ]
