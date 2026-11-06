@@ -1,6 +1,186 @@
 {
-  "updatedAt": "2026-11-04T13:49:13.085Z",
+  "updatedAt": "2026-11-06T13:46:59.155Z",
   "episodes": [
+    {
+      "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/6d/e4/136de456-d980-e88e-b2cb-faef0407cb05/mza_13944990805231430349.jpeg/600x600bb.jpg",
+      "title": "How to Stop Making Hard Things Harder | Noah Rasheta",
+      "link": null,
+      "audioUrl": "https://s.gum.fm/s-6839ddc199c8e8acebe1aae7/traffic.megaphone.fm/YAP6414260360.mp3",
+      "pubDate": "Fri, 06 Nov 2026 13:30:00 -0000",
+      "description": "In this episode, Noah Rasheta explores how to stop making hard things harder as they discuss the Buddhist parable of the two arrows: the first is the pain life brings, and the second is the suffering we can add through our reactions. He also talks about when it helps to interrupt a familiar thought ",
+      "duration": "3620"
+    },
+    {
+      "show": "Life Will Be the Death of Me with Chelsea Handler",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
+      "title": "Minisode: Withholding with Chelsea + Catherine",
+      "link": "https://omny.fm/shows/dear-chelsea/10-13-mini",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/d6adbbaf-b6f9-47e6-a720-b4f101764d1b/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
+      "pubDate": "Fri, 06 Nov 2026 08:05:00 +0000",
+      "description": "Chelsea and Catherine get a reproductive followup from a new wife with a withholding husband.  And a caller in tech sales feels like there’s change afoot in her career.    \n *\n Need some advice from Chelsea? Email us at DearChelseaPodcast@gmail.com\n *\n Executive Producer Catherine Law\n Edited & Engi",
+      "duration": "1136"
+    },
+    {
+      "show": "Dear Chelsea",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/72/93/40729316-6367-6d25-7319-df72b3794925/mza_7105560166085411308.jpg/600x600bb.jpg",
+      "title": "Minisode: Withholding with Chelsea + Catherine",
+      "link": "https://omny.fm/shows/dear-chelsea/10-13-mini",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/d6adbbaf-b6f9-47e6-a720-b4f101764d1b/audio.mp3?utm_source=Podcast&in_playlist=cca17ef5-974c-4e61-997c-ae3300346e3b",
+      "pubDate": "Fri, 06 Nov 2026 08:05:00 +0000",
+      "description": "Chelsea and Catherine get a reproductive followup from a new wife with a withholding husband.  And a caller in tech sales feels like there’s change afoot in her career.    \n *\n Need some advice from Chelsea? Email us at DearChelseaPodcast@gmail.com\n *\n Executive Producer Catherine Law\n Edited & Engi",
+      "duration": "1136"
+    },
+    {
+      "show": "The Mindset Mentor",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
+      "title": "How to Achieve Your Goals",
+      "link": "https://www.siriusxm.com",
+      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/f7f4b97a-826e-4c2a-814f-9b4ae39c619c/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=f7f4b97a-826e-4c2a-814f-9b4ae39c619c&feed=rpKQEwel",
+      "pubDate": "Fri, 6 Nov 2026 08:00:00 +0000",
+      "description": "What if achieving your biggest goals isn't about working harder, but having a clear plan and the right mindset? \n\nIn this episode, I break down seven powerful steps inspired by Napoleon Hill to help you define exactly what you want, eliminate what’s holding you back, and turn your goals into reality",
+      "duration": "00:14:23"
+    },
+    {
+      "show": "Growth Mindset Psychology: The Science of Self-Improvement",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/cb/2b/55cb2b32-1d7e-8231-1a09-b8bcac6a90e2/mza_11101309328025720899.png/600x600bb.jpg",
+      "title": "Fifty Shades of Dysregulation: The Nervous System’s Hidden Role in Sex and Love",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/35/pfx.vpixl.com/k7b9t/op3.dev/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR6620069297.mp3",
+      "pubDate": "Fri, 06 Nov 2026 04:00:00 -0000",
+      "description": "Does loneliness make people horny and other questions that demand answers?\n\nThe human body is a marvel: it can fall in love, write symphonies and forget where it left its keys. It can also decide, with tremendous confidence, that a first date is roughly equivalent to being chased by a wolf.\n\nSex the",
+      "duration": "2542"
+    },
+    {
+      "show": "Motivational Speech",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/a9/18/c6a91876-cb46-8f38-ff1a-744cb6c41fc1/mza_14661797773983641062.jpeg/600x600bb.jpg",
+      "title": "Stop Trying to Get It And You'll Have It: The Key to Abundance",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ASAHO8972381065.mp3",
+      "pubDate": "Fri, 06 Nov 2026 04:00:00 -0000",
+      "description": "Stop Trying to Get It And You'll Have It is a transformative speech that delves into the mindset shifts necessary for attracting abundance in your life. Are you tired of struggling to achieve your goals? This empowering episode reveals how letting go of desperation can unlock the doors to success an",
+      "duration": "601"
+    },
+    {
+      "show": "High Performance Mindset | Learn from World-Class Leaders, Consultants, Athletes & Coaches about Mindset",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/c8/1b/9dc81bf6-c958-a503-642e-950a2d6085e6/mza_2206550083010762291.png/600x600bb.jpg",
+      "title": "792: Take Control Under Pressure",
+      "link": "https://thehighperformancemindset.com/792-take-control-under-pressure",
+      "audioUrl": "https://traffic.libsyn.com/secure/cindrakamphoff/792.mp3?dest-id=285922",
+      "pubDate": "Thu, 05 Nov 2026 19:54:00 +0000",
+      "description": "Pressure often shows up when something really matters to us. Whether it's an important presentation, a championship game, or a difficult conversation, the way we respond to pressure can make all the difference.\n In this episode, Dr. Cindra Kamphoff shares how to stay focused, manage your self-talk, ",
+      "duration": "06:56"
+    },
+    {
+      "show": "Motivation Mindset Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/b7/f4/e9b7f47e-d60a-eb91-cda7-c176e38d6f99/mza_4491201015480335274.jpg/600x600bb.jpg",
+      "title": "10 Minutes to Start Your Day Right: Sadhguru’s Morning Motivation You Can’t Miss",
+      "link": "https://www.spreaker.com/episode/10-minutes-to-start-your-day-right-sadhguru-s-morning-motivation-you-can-t-miss--67431337",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67431337/00025.mp3",
+      "pubDate": "Thu, 05 Nov 2026 16:00:02 +0000",
+      "description": "Motivation Focus Welcome to Motivation Focus, the podcast where every episode is a step closer to unlocking the power of motivation, resilience, and success. Here, we dive into the essentials of building a strong mindset, nurturing personal growth, and harnessing the power of transformation to achie",
+      "duration": "678"
+    },
+    {
+      "show": "The Cal Newport Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+      "title": "Reading As an Act of Resistance (Notes on Harvard’s Hum 10)",
+      "link": null,
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/BVLLC3547235584.mp3",
+      "pubDate": "Thu, 05 Nov 2026 11:00:00 -0000",
+      "description": "Two years ago, The Atlantic featured a distressing story about elite college students who could no longer read books. Last week, The Wall Street Journal offered some hope that things are getting better. An article by Pamela Paul described how Harvard’s ‘brutal’ humanities course, Hum 10, which requi",
+      "duration": "1181"
+    },
+    {
+      "show": "The Organized Coach - Productivity, Business Systems, Time Management, ADHD, Routines, Life Coach, Entrepreneur",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/19/3c/46193cc9-c552-c4de-452e-bae54b3cb32e/mza_6949182317070209472.jpg/600x600bb.jpg",
+      "title": "194 | Why Can’t I Make Myself Start? How to Stop Putting Off Organizing",
+      "link": "https://theorganizedcoach.podbean.com/e/194-why-cant-i-start-organizing/",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/hgxbc573paj4upjp/194_Why_Can_t_I_Make_Myself_Start_How_to_Stop_Putting_Off_Organizingbsttd.mp3",
+      "pubDate": "Thu, 05 Nov 2026 04:08:00 -0600",
+      "description": "Register for my biggest event of the year! 5 Days. 5 Deals.\nhttps://simplysquaredaway.com/bfwaitlist\n\"I know what to do. Why can’t I make myself do it?”\nHave you ever said that while looking at a cluttered counter, an overflowing closet, or a room you keep avoiding?\nIn this episode of The Organized ",
+      "duration": "1662"
+    },
+    {
+      "show": "Life Will Be the Death of Me with Chelsea Handler",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
+      "title": "Toxically Optimistic with Zainab Johnson",
+      "link": "https://omny.fm/shows/dear-chelsea/zainab-johnson",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/05ac8e1c-1d02-4bcf-b84f-b4f101762aea/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
+      "pubDate": "Thu, 05 Nov 2026 08:05:00 +0000",
+      "description": "Comic Zainab Johnson is here to chat with Chelsea about how her ballsiness won the adoration of the Obamas, what it’s like being one of 13 siblings, and the party girl they have in common: Yamaneika.   Then: Too many emojis are an ick in the making for one girlfriend.  An artist recovering from chem",
+      "duration": "4063"
+    },
+    {
+      "show": "Dear Chelsea",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/72/93/40729316-6367-6d25-7319-df72b3794925/mza_7105560166085411308.jpg/600x600bb.jpg",
+      "title": "Toxically Optimistic with Zainab Johnson",
+      "link": "https://omny.fm/shows/dear-chelsea/zainab-johnson",
+      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/05ac8e1c-1d02-4bcf-b84f-b4f101762aea/audio.mp3?utm_source=Podcast&in_playlist=cca17ef5-974c-4e61-997c-ae3300346e3b",
+      "pubDate": "Thu, 05 Nov 2026 08:05:00 +0000",
+      "description": "Comic Zainab Johnson is here to chat with Chelsea about how her ballsiness won the adoration of the Obamas, what it’s like being one of 13 siblings, and the party girl they have in common: Yamaneika.   Then: Too many emojis are an ick in the making for one girlfriend.  An artist recovering from chem",
+      "duration": "4063"
+    },
+    {
+      "show": "Self Improvement Daily",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d0/5c/3e/d05c3e9c-e9a2-69fc-fe68-c3a5f82a71b5/mza_2923601034777639366.jpg/600x600bb.jpg",
+      "title": "I Wanted Pretzels So I Got Pretzels",
+      "link": "https://podcasters.spotify.com/pod/show/self-improvement-daily/episodes/I-Wanted-Pretzels-So-I-Got-Pretzels-e3rq1e2",
+      "audioUrl": "https://anchor.fm/s/471bee4/podcast/play/128828290/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-5%2F435938544-44100-2-371dc900850cd.m4a",
+      "pubDate": "Thu, 05 Nov 2026 08:00:00 GMT",
+      "description": "In order to find your boundaries you need to go beyond your limits.\nWas this helpful? If so then you need to check out the 7 Fundamentals Of Self Improvement which features short summaries of the most popular and impactful episodes from the past 8 years.\nTakes only 5 minutes to read through them tod",
+      "duration": "00:03:00"
+    },
+    {
+      "show": "A Changed Mind | Mindset That Matters",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/4a/9d/c04a9dd1-eeda-2e35-1aac-34461f738ea7/mza_17966210569365645826.jpeg/600x600bb.jpg",
+      "title": "293 Once You VISUALIZE Like This, Reality Shifts (How To Visualize)",
+      "link": "https://davidbayer.com/podcast/episode-293/",
+      "audioUrl": "https://episodes.captivate.fm/episode/c64db3b0-371c-44a1-bb88-7d5ec72bbe29.mp3",
+      "pubDate": "Thu, 05 Nov 2026 03:00:00 -0500",
+      "description": "📺 Watch & Subscribe on YouTube\nJoin David Bayer's FREE Mindset Month: \nGet access to 30 days of transformational frameworks, personal growth practices, and AI-powered mindset tools to help you transform limiting beliefs, make more conscious decisions, and create meaningful change in your life. Plus",
+      "duration": "18:33"
+    },
+    {
+      "show": "The Mindset Mentor",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
+      "title": "How to Keep Going When Life Gets Hard",
+      "link": "https://www.siriusxm.com",
+      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/60162593-13e0-4c98-996d-caf4cf3ca6e7/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=60162593-13e0-4c98-996d-caf4cf3ca6e7&feed=rpKQEwel",
+      "pubDate": "Thu, 5 Nov 2026 08:00:00 +0000",
+      "description": "What if the hardest moments of your life aren't happening to you, but happening for you? \n\nIn this episode, I want to show you how to shift from a victim mindset to a student mindset, find the lessons hidden in life's biggest challenges, and use adversity to build resilience and personal growth. \n\nI",
+      "duration": "00:19:36"
+    },
+    {
+      "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/27/4a/cd/274acdb2-dd62-b352-c5ec-8bf0eb47e805/mza_11642456530252488083.jpg/600x600bb.jpg",
+      "title": "542. The Coaching I'm Getting Right Now",
+      "link": "https://schoolofnewfeministthought.com/the-coaching-im-getting-right-now",
+      "audioUrl": "https://episodes.captivate.fm/episode/5281edf0-5bf9-433f-9c53-9ed8ab23ffaa.mp3",
+      "pubDate": "Thu, 05 Nov 2026 01:00:00 -0500",
+      "description": "Have you ever gotten exactly what you wanted, only to find yourself struggling with the reality of having it? In this episode, I share what happened when I finally asked my own coach for an intervention after several years of major personal and professional changes left me feeling less like the vers",
+      "duration": "12:46"
+    },
+    {
+      "show": "Motivational Speech",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/a9/18/c6a91876-cb46-8f38-ff1a-744cb6c41fc1/mza_14661797773983641062.jpeg/600x600bb.jpg",
+      "title": "Stop Trying to Get It And You’ll Have It: How to Attract What You Desire",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ASAHO1575467798.mp3",
+      "pubDate": "Thu, 05 Nov 2026 04:00:00 -0000",
+      "description": "Stop Trying to Get It And You’ll Have It is a life-changing inspirational speech that reveals the true nature of success and fulfillment. Are you tired of putting in endless efforts without seeing the results you crave? This speech will guide you through the transformative mindset shifts necessary t",
+      "duration": "927"
+    },
+    {
+      "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/27/4a/cd/274acdb2-dd62-b352-c5ec-8bf0eb47e805/mza_11642456530252488083.jpg/600x600bb.jpg",
+      "title": "The New UnF*ck Your Brain",
+      "link": "https://schoolofnewfeministthought.com/",
+      "audioUrl": "https://episodes.captivate.fm/episode/3df92c7a-7387-41ba-b3b4-80241ac464a4.mp3",
+      "pubDate": "Wed, 04 Nov 2026 13:30:00 -0500",
+      "description": "Find out what's coming next for the UnF*ck Your Brain podcast!\n    \nWatch episodes over on YouTube: youtube.com/@karaloewentheilcoaching\nFollow along on Instagram: instagram.com/karaloewentheil/",
+      "duration": "03:15"
+    },
     {
       "show": "You've Got This | Tips & Strategies for Meaningful Productivity and Alignment in Work and Life",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/35/ff/1d/35ff1d3c-85a2-b76d-ab21-8d059cff9c89/mza_16712292862414487790.jpg/600x600bb.jpg",
@@ -10,6 +190,16 @@
       "pubDate": "Wed, 4 Nov 2026 12:30:00 +0000",
       "description": "Mentioned in this episode:\n\nmy personal IG profile\nmy book-related IG profile\nmy YouTube channel on books and reading\n\nEngage in more of my content:\n\nread my personal blog posts\nwatch workflow channel videos\nwatch my monthly videos on books and reading\nread blog posts on project management topics\nco",
       "duration": "00:11:44"
+    },
+    {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "The Energy-First Approach to Getting Things Done",
+      "link": "https://www.asianefficiency.com/podcasts/637w-energy-first-approach-getting-things-done/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/637w_Energy_First.mp3",
+      "pubDate": "Wed, 04 Nov 2026 12:00:00 +0000",
+      "description": "If your calendar is full but your output still feels weak, the problem may not be time. In this episode, I talk about energy, attention, and cognitive load, and how small shifts like protecting peak hours, planning recovery, and reducing distractions can help you do better work without adding more h",
+      "duration": "10:47"
     },
     {
       "show": "Sustainable CEO Mom: Productivity, Automation, AI and Marketing Strategies for Female Entrepreneurs + Service Providers (Form",
@@ -42,24 +232,14 @@
       "duration": "00:17:19"
     },
     {
-      "show": "The Rachel Hollis Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/72/98/5e729831-066c-172a-8d40-2f28d72c2242/mza_13399559517544161219.jpg/600x600bb.jpg",
-      "title": "1035 | ASK RACH: Your Kids Success Isn’t Worth Their Mental Health + Navigating a Male Dominated Industry",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/25955c60-029b-415a-a5a0-bbfaefb4ad3f/episodes/8d52adb1-97af-4a12-8915-9d85a2512a26/audio/128/default.mp3?aid=rss_feed&awCollectionId=25955c60-029b-415a-a5a0-bbfaefb4ad3f&awEpisodeId=8d52adb1-97af-4a12-8915-9d85a2512a26&feed=j2OmaLnl",
-      "pubDate": "Wed, 4 Nov 2026 06:00:00 +0000",
-      "description": "Upgrade to the Ad Free Premium Podcast Experience - https://rachelhollis.supercast.com\nGet your copy of Rachel's Book Here: Audible, Amazon, Barnes & Noble, Books-A-Millon, Bookshop.org, or wherever books are sold!\nTo learn more about listener data and our privacy practices visit: https://www.audacy",
-      "duration": "00:41:59"
-    },
-    {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "248. Building a Better Relationship with Yourself with Dr. Melissa Parsons",
-      "link": "https://habitsonpurpose.com/40",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP248.mp3?dest-id=3277715",
-      "pubDate": "Wed, 04 Nov 2026 05:00:00 +0000",
-      "description": "My guest this week is a coach who is passionate about helping her clients become their favorite version of themselves by treating themselves like they would their best friend. Dr. Melissa Parsons is a pediatrician turned deep-dive certified coach, and she's here to share what it takes to become your",
-      "duration": "32:01"
+      "show": "Motivational Speech",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/a9/18/c6a91876-cb46-8f38-ff1a-744cb6c41fc1/mza_14661797773983641062.jpeg/600x600bb.jpg",
+      "title": "STAY LOCKED IN: Build Resilience and Become Unstoppable Now",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ASAHO1391439650.mp3",
+      "pubDate": "Wed, 04 Nov 2026 04:00:00 -0000",
+      "description": "STAY LOCKED IN: Act, Build, and Become Unstoppable with our powerful motivational speech. In this inspiring episode, we delve into the mindset and strategies necessary to overcome obstacles and achieve your goals. You'll discover how to harness your inner strength, remain focused, and put in the wor",
+      "duration": "802"
     },
     {
       "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
@@ -82,14 +262,24 @@
       "duration": "1704"
     },
     {
-      "show": "Handled(ish): Productivity for the Imperfect",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/25/fc/0525fc3b-046f-2430-ac60-a32682c6ba58/mza_5808805701015878757.jpg/600x600bb.jpg",
-      "title": "#138 - Past You Had a Good Idea. Don’t Ignore It. ",
-      "link": null,
-      "audioUrl": "https://www.buzzsprout.com/2288219/episodes/20022409-138-past-you-had-a-good-idea-don-t-ignore-it.mp3",
-      "pubDate": "Tue, 03 Nov 2026 01:00:00 -0800",
-      "description": "You wrote yourself a note. You set the reminder. Then it pops up, and you think, “That sounds great, but I don’t have time.”\nSound familiar? In this episode, I’m talking about honoring the good ideas past you took the time to save. We’ll explore quick debriefs, finding a useful home for your “next t",
-      "duration": "574"
+      "show": "The Organized Coach - Productivity, Business Systems, Time Management, ADHD, Routines, Life Coach, Entrepreneur",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/19/3c/46193cc9-c552-c4de-452e-bae54b3cb32e/mza_6949182317070209472.jpg/600x600bb.jpg",
+      "title": "193 | Beyond Organized: Creating a Beautiful Home That Feels Like You with Dani Watson",
+      "link": "https://theorganizedcoach.podbean.com/e/193-beyond-organized-creating-a-beautiful-home-dani-watson/",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/ds8jrf2p5byw78p9/193_Beyond_Organized_Creating_a_Beautiful_Home_That_Feels_Like_You_with_Dani_Watsonb3s2k.mp3",
+      "pubDate": "Tue, 03 Nov 2026 04:14:00 -0600",
+      "description": "All links mentioned in the post can be found here: https://simplysquaredaway.com/193\nHave you ever walked into someone's home and thought, \"I LOVE how this feels!\" but had no idea how to create that same feeling in your own space?\nYou might know how to declutter and organize your home, but decoratin",
+      "duration": "2711"
+    },
+    {
+      "show": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/66/fa/0f66fa23-2f7d-ff82-e5b0-41ec551521ef/mza_6810029446126368624.jpg/600x600bb.jpg",
+      "title": "351. The Biggest Lie You’ve Been Told About Positive Thinking",
+      "link": "https://podcasters.spotify.com/pod/show/themindsetbabe/episodes/351--The-Biggest-Lie-Youve-Been-Told-About-Positive-Thinking-e3rka69",
+      "audioUrl": "https://anchor.fm/s/52420840/podcast/play/128640649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-2%2Ffb3d34a1-9f67-84d0-6b49-86644d1f1011.m4a",
+      "pubDate": "Tue, 03 Nov 2026 09:11:00 GMT",
+      "description": "In this episode, we’re unpacking the biggest lie you’ve been told about positive thinking: that a healthy mindset means being positive all the time. I’m sharing a conversation with a Becoming Her Academy student, my own negative morning thoughts, and how to respond when your brain tells you, “I’m no",
+      "duration": "00:23:09"
     },
     {
       "show": "Self Improvement Daily",
@@ -142,6 +332,16 @@
       "duration": "1856"
     },
     {
+      "show": "Motivational Speech",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/a9/18/c6a91876-cb46-8f38-ff1a-744cb6c41fc1/mza_14661797773983641062.jpeg/600x600bb.jpg",
+      "title": "Sow in Spring Reap in Fall: Unlock Your Potential with Jim Rohn",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ASAHO9754526538.mp3",
+      "pubDate": "Tue, 03 Nov 2026 04:00:00 -0000",
+      "description": "Sow in Spring Reap in Fall is not just a phrase; it’s a profound lesson in the discipline of life’s cycles taught by Jim Rohn. In this motivational speech, you will learn how understanding the timing of sowing and reaping can transform your life. Jim Rohn shares his wisdom on the importance of disci",
+      "duration": "1040"
+    },
+    {
       "show": "High Performance Mindset | Learn from World-Class Leaders, Consultants, Athletes & Coaches about Mindset",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/c8/1b/9dc81bf6-c958-a503-642e-950a2d6085e6/mza_2206550083010762291.png/600x600bb.jpg",
       "title": "791: Finding Joy in the Hardest Moments with Leah Bridger, HR Leader & MG Survivor",
@@ -162,6 +362,36 @@
       "duration": "00:17:46"
     },
     {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "The Meeting Diet: Cut 6 Hours From Your Calendar Without Getting Fired (TPS637)",
+      "link": "https://www.asianefficiency.com/podcasts/637-meeting-diet-cut-6-hours-calendar/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/637_Meeting_Diet.mp3",
+      "pubDate": "Mon, 02 Nov 2026 12:00:00 +0000",
+      "description": "In this episode, we break down a practical meeting diet you can use to cut 20 to 30 percent of your meeting hours without getting fired or damaging trust. We walk through how to audit your calendar by time cost, use the meeting autopsy question, apply the three filters for recurring invites, and rep",
+      "duration": "28:39"
+    },
+    {
+      "show": "It's About Time | Time Management & Productivity for Work Life & Balance",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/20/b5/4620b5da-e98a-b027-7c9d-6151b8300e3f/mza_14276063242722219707.png/600x600bb.jpg",
+      "title": "Self-Care & Sanity During the Holidays (Re-Run from December 5, 2022)",
+      "link": "https://abouttimepodcast.libsyn.com/self-care-sanity-during-the-holidays-re-run-from-december-5-2022",
+      "audioUrl": "https://pdst.fm/e/traffic.libsyn.com/secure/abouttimepodcast/Episode_152_Rerun_Preroll.mp3?dest-id=1672673",
+      "pubDate": "Mon, 02 Nov 2026 11:15:00 +0000",
+      "description": "The holidays don't have to be something you just survive. In this episode, I revisits episode 152 to share what I consider the most important step toward actually enjoying the season: taking care of yourself, from building self-care routines to setting boundaries when others push them. I also shares",
+      "duration": "14:45"
+    },
+    {
+      "show": "The Cal Newport Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+      "title": "A Better Way to Think About Tech",
+      "link": null,
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/BVLLC8373492011.mp3",
+      "pubDate": "Mon, 02 Nov 2026 11:00:00 -0000",
+      "description": "It’s become hard to talk about technology. Commentators have split themselves into two increasingly extreme teams: the pessimists and the optimists. But what about the rest of us who don’t hate technology but are wary of obvious harms? In today’s episode, Cal proposes a third option: technoselection",
+      "duration": "3496"
+    },
+    {
       "show": "THE BEST DAY PODCAST, Encouragement, Intentional Living, Mindset, Calm, Joy, Motherhood",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/85/bd/4685bd40-b5b3-ee66-8ca8-af3769ead78d/mza_15214294908140075757.png/600x600bb.jpg",
       "title": "Your November Intentional To-Do List: Less Pressure, More Peace",
@@ -172,24 +402,44 @@
       "duration": "21:31"
     },
     {
+      "show": "Diligent Minds | Psychology, Personal Growth & Becoming Your Best Self",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/9a/77/359a77e9-443d-09a3-1ac9-31906fef7b88/mza_7154229619522951930.jpg/600x600bb.jpg",
+      "title": "The Front Windshield Is Bigger For A Reason",
+      "link": null,
+      "audioUrl": "https://www.buzzsprout.com/177436/episodes/20058022-the-front-windshield-is-bigger-for-a-reason.mp3",
+      "pubDate": "Mon, 02 Nov 2026 00:00:00 -0800",
+      "description": "Shoot Me A Quick Text & Introduce Yourself\nYour windshield is bigger than your rearview mirror for a reason. What's ahead of you deserves more of your attention than what's behind you. In this episode of Diligent Minds, we explore the importance of letting go of what you can't change, learning from ",
+      "duration": "599"
+    },
+    {
       "show": "A Changed Mind | Mindset That Matters",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/4a/9d/c04a9dd1-eeda-2e35-1aac-34461f738ea7/mza_17966210569365645826.jpeg/600x600bb.jpg",
       "title": "292 The Most Dangerous Book Ever Written About the Subconscious Mind",
-      "link": "https://davidbayer.com/podcast",
+      "link": "https://davidbayer.com/podcast/episode-292/",
       "audioUrl": "https://episodes.captivate.fm/episode/51accdea-c885-43dc-80f0-5533b77b9563.mp3",
       "pubDate": "Mon, 02 Nov 2026 03:00:00 -0500",
       "description": "📺 Watch & Subscribe on YouTube\nJoin David Bayer's FREE Mindset Month: \nGet access to 30 days of transformational frameworks, personal growth practices, and AI-powered mindset tools to help you transform limiting beliefs, make more conscious decisions, and create meaningful change in your life. Plus",
       "duration": "19:23"
     },
     {
-      "show": "How to Be a Better Human",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/600x600bb.jpg",
-      "title": "How to be less useful (w/ Priyanka Mattoo)",
-      "link": "https://audiocollective.ted.com/",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/6ada4522cf21e52fd07e7109/media.mp3",
-      "pubDate": "Mon, 02 Nov 2026 05:00:00 GMT",
-      "description": "What does the pressure to be more efficient, more productive, and more useful do to us? Priyanka Mattoo is an author whose new book, How to Be Less Useful, addresses the joys of being inefficient and giving up control. Priyanka and Chris also discuss how traditional gender roles show up in marriage ",
-      "duration": "41:26"
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#728: How to Stop Overeating and Thinking About Food All the Time",
+      "link": "https://fromtheinsideout.libsyn.com/728-how-to-stop-overeating-and-thinking-about-food-all-the-time",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/728__How_to_Stop_Overeating_and_Thinking_About_Food_All_the_Time.mp3?dest-id=105943",
+      "pubDate": "Mon, 02 Nov 2026 06:00:00 +0000",
+      "description": "Do you spend more time thinking about food than you want to admit? Replaying what you ate, bargaining about what you'll eat next, or promising yourself you'll have more control tomorrow?\n In this episode of The Confidence Podcast, we're exploring the feelings beneath emotional overeating and how to ",
+      "duration": "31:52"
+    },
+    {
+      "show": "Beyond the To-Do List - Productivity for Work and Life",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/1f/cd/4d1fcde0-0f9a-8ebc-7e3d-1a0247e5ce30/mza_3359926513229431161.jpeg/600x600bb.jpg",
+      "title": "Mental Strength: Showing Up at Work When Life Falls Apart with Amy Morin",
+      "link": null,
+      "audioUrl": "https://mgln.ai/e/211/pscrb.fm/rss/p/rss.art19.com/episodes/4ba7a0ea-3c44-4bc6-a91d-dc92c376d6dd.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+      "pubDate": "Mon, 02 Nov 2026 05:00:00 -0000",
+      "description": "Mental strength isn't toughness. Psychotherapist Amy Morin makes the case that it's what gets you through stress, burnout, and the hard seasons when you still have to show up for work.\nAmy Morin is a psychotherapist and the bestselling author of 13 Things Mentally Strong People Don't Do, with more t",
+      "duration": "00:45:10"
     },
     {
       "show": "Self Help For Women | Uncovering Your Inner Power",
@@ -210,6 +460,16 @@
       "pubDate": "Mon, 02 Nov 2026 05:00:00 +0000",
       "description": "Sometimes the biggest obstacle to your next goal is the belief that it isn't possible for you.\n  \n  \n  Past setbacks and familiar patterns can shape the story you tell yourself, making it difficult to move forward even when you know what you want to change.\n  \n  \n  On today's show, I'm sharing a fiv",
       "duration": "12:01"
+    },
+    {
+      "show": "Motivational Speech",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c6/a9/18/c6a91876-cb46-8f38-ff1a-744cb6c41fc1/mza_14661797773983641062.jpeg/600x600bb.jpg",
+      "title": "SMART Goals and Time Management Tools to Boost Your Self Discipline",
+      "link": null,
+      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/pdst.fm/e/traffic.megaphone.fm/ASAHO3961597528.mp3",
+      "pubDate": "Mon, 02 Nov 2026 04:00:00 -0000",
+      "description": "SMART Goals and Time Management Tools are vital for anyone looking to strengthen their self-discipline. In this motivational speech, we delve into the effective strategies that will help you set clear objectives and utilize powerful time management tools to stay focused and productive. You'll discov",
+      "duration": "741"
     },
     {
       "show": "Self Improvement Daily",
@@ -252,6 +512,16 @@
       "duration": "00:21:47"
     },
     {
+      "show": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/66/fa/0f66fa23-2f7d-ff82-e5b0-41ec551521ef/mza_6810029446126368624.jpg/600x600bb.jpg",
+      "title": "350. Interested in Business Babe? Everything You Need to Know Before You Apply (Business Babe Series Part 6) ",
+      "link": "https://podcasters.spotify.com/pod/show/themindsetbabe/episodes/350--Interested-in-Business-Babe--Everything-You-Need-to-Know-Before-You-Apply-Business-Babe-Series-Part-6-e3re0nh",
+      "audioUrl": "https://anchor.fm/s/52420840/podcast/play/128434353/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F47101661-8d71-5e84-76a6-8caf966b4668.m4a",
+      "pubDate": "Fri, 30 Oct 2026 15:41:24 GMT",
+      "description": "Interested in Business Babe? Let’s talk about everything you need to know before you apply 💗\nIn the final episode of the Business Babe series, I’m answering your questions about my six-month group coaching program that will help you start your business and get your first paying customer.\n\n\nApply fo",
+      "duration": "00:22:58"
+    },
+    {
       "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/6d/e4/136de456-d980-e88e-b2cb-faef0407cb05/mza_13944990805231430349.jpeg/600x600bb.jpg",
       "title": "How to Discover Yourself, One Decision at a Time | Sara Kuburic",
@@ -272,14 +542,14 @@
       "duration": "00:16:27"
     },
     {
-      "show": "Self Improvement Daily",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d0/5c/3e/d05c3e9c-e9a2-69fc-fe68-c3a5f82a71b5/mza_2923601034777639366.jpg/600x600bb.jpg",
-      "title": "Context Before Communication",
-      "link": "https://podcasters.spotify.com/pod/show/self-improvement-daily/episodes/Context-Before-Communication-e3rcs0l",
-      "audioUrl": "https://anchor.fm/s/471bee4/podcast/play/128396757/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-30%2F435389878-44100-2-193dc5268c3a1.m4a",
-      "pubDate": "Fri, 30 Oct 2026 07:00:00 GMT",
-      "description": "All interactions with others are more direct, effective, and better received when you first seek to understand where the other person is coming from.\nWas this helpful? If so then you need to check out the 7 Fundamentals Of Self Improvement which features short summaries of the most popular and impac",
-      "duration": "00:03:07"
+      "show": "The Cal Newport Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+      "title": "Do Hard Things (Featuring: Jerry Seinfeld)",
+      "link": null,
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/BVLLC9877502575.mp3",
+      "pubDate": "Fri, 30 Oct 2026 10:00:00 -0000",
+      "description": "The most recent episode of the Acquired podcast featured a story about Jerry Seinfeld that provides a critical lesson for succeeding in our current AI moment.\n\n \n\nVideo from today’s episode: youtube.com/calnewportmedia\n\n\n\n(0:00) Do hard things\n\n(1:30) Technologies and jobs\n\n(5:22) AI today\n\n(8:19) T",
+      "duration": "911"
     },
     {
       "show": "The Mindset Mentor",
@@ -300,16 +570,6 @@
       "pubDate": "Fri, 30 Oct 2026 06:07:00 GMT",
       "description": "Today, we are doing something a little different! You get to sneak into coaching sessions with a private client where I spill the tea on some of the topics we discussed. There were so many things coming up that I see you babes struggling with too. Which is why I think this episode is value packed an",
       "duration": "00:38:57"
-    },
-    {
-      "show": "The Rachel Hollis Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/72/98/5e729831-066c-172a-8d40-2f28d72c2242/mza_13399559517544161219.jpg/600x600bb.jpg",
-      "title": "1034 | Sunday Reset: How to Get Organized, Grounded, and Ready for Your Week (Friday Favorites!)",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/25955c60-029b-415a-a5a0-bbfaefb4ad3f/episodes/8f8c23cb-c0aa-4715-b96c-dd80fbc28df3/audio/128/default.mp3?aid=rss_feed&awCollectionId=25955c60-029b-415a-a5a0-bbfaefb4ad3f&awEpisodeId=8f8c23cb-c0aa-4715-b96c-dd80fbc28df3&feed=j2OmaLnl",
-      "pubDate": "Fri, 30 Oct 2026 05:00:00 +0000",
-      "description": "*Original Airdate: November '24\nUpgrade to the Ad Free Premium Podcast Experience - https://rachelhollis.supercast.com\nGet your copy of Rachel's Book Here: Audible, Amazon, Barnes & Noble, Books-A-Millon, Bookshop.org, or wherever books are sold!\nTo learn more about listener data and our privacy pra",
-      "duration": "00:34:34"
     },
     {
       "show": "Growth Mindset Psychology: The Science of Self-Improvement",
@@ -372,16 +632,6 @@
       "duration": "21:13"
     },
     {
-      "show": "The Mindset Mentor",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
-      "title": "How to Become a High Performer",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/c1265550-dbc3-4c10-83bd-3a08bd34bc6f/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=c1265550-dbc3-4c10-83bd-3a08bd34bc6f&feed=rpKQEwel",
-      "pubDate": "Thu, 29 Oct 2026 07:00:00 +0000",
-      "description": "What separates high performers from everyone else, and how can you develop the mindset to create the life you truly want? \n\nIn this episode, I’m breaking down the mental shifts that will help you take radical ownership, upgrade your self-talk, build powerful habits, and push beyond your comfort zone",
-      "duration": "00:17:13"
-    },
-    {
       "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/27/4a/cd/274acdb2-dd62-b352-c5ec-8bf0eb47e805/mza_11642456530252488083.jpg/600x600bb.jpg",
       "title": "540. The Thought Ladder and Thinking v. Believing (Classics)",
@@ -390,6 +640,16 @@
       "pubDate": "Thu, 29 Oct 2026 01:00:00 -0400",
       "description": "You can’t just think a new thought and expect your brain to believe it. If you’ve ever tried telling yourself you’re worthy, confident, or beautiful, only to have your brain immediately argue with you, you know what I’m talking about. In this Classics episode, I’m revisiting one of the most powerful",
       "duration": "18:55"
+    },
+    {
+      "show": "MINDSET MAGIC & MANIFESTATION Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/e8/9d/0ae89d34-739e-c5ca-c6e4-74677937163d/mza_16793764067835551374.jpg/600x600bb.jpg",
+      "title": "379: Manifestation as a God Girlie, My Faith Journey & Yes, God Glow Up is Real",
+      "link": "https://podcasters.spotify.com/pod/show/mikayla-arrington/episodes/379-Manifestation-as-a-God-Girlie--My-Faith-Journey--Yes--God-Glow-Up-is-Real-e3ra2m3",
+      "audioUrl": "https://traffic.megaphone.fm/APO5856770353.mp3",
+      "pubDate": "Wed, 28 Oct 2026 20:50:13 GMT",
+      "description": "Listen to this *⁠click here⁠* on your Manifestation Walks to remember who tf you are and get into the manifestation energy. ⁠Click here for the WALK IT LIKE I TALK IT audio bundle.⁠\n\n\nRich Girl Renaissance LIVE is coming to Florida in 2027! Hosted in St Petersburg, FL from Sept 23-25, 2027. Next yea",
+      "duration": "01:04:35"
     },
     {
       "show": "The Mindset Shift Podcast",
@@ -412,6 +672,16 @@
       "duration": "00:11:04"
     },
     {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "Busy or Overcommitted? The Focus Filter Fix",
+      "link": "https://www.asianefficiency.com/podcasts/636w-busy-overcommitted-focus-filter-fix/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/636w_Focus_Filter.mp3",
+      "pubDate": "Wed, 28 Oct 2026 11:00:00 +0000",
+      "description": "When was the last time you said no to something and felt good about it? For most of us, a packed calendar starts to feel like the price of being responsible. The meetings, the dinners and the favours keep coming, and one day you notice that the things you care about most are the ones […]",
+      "duration": "7:24"
+    },
+    {
       "show": "Sustainable CEO Mom: Productivity, Automation, AI and Marketing Strategies for Female Entrepreneurs + Service Providers (Form",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/f3/87/c9/f387c94f-baa4-a5c2-875c-3ed1efe70553/mza_10381118120060982173.jpg/600x600bb.jpg",
       "title": "143. How I Decide What Gets Cut From My Business Every Quarter",
@@ -420,36 +690,6 @@
       "pubDate": "Wed, 28 Oct 2026 06:00:00 -0500",
       "description": "Send us Fan Mail\nEvery quarter, I sit down with everything my business is doing (offers, content, systems, commitments) and ask one question: what needs to go? Not what should I add. What needs to go. Because businesses rarely fail from doing too little. They get bloated from doing too much, until y",
       "duration": "300"
-    },
-    {
-      "show": "The Mindset Mentor",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
-      "title": "How to Be Respected",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/9313d3bd-93c4-4f45-8a0c-2ab2d9b4660f/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=9313d3bd-93c4-4f45-8a0c-2ab2d9b4660f&feed=rpKQEwel",
-      "pubDate": "Wed, 28 Oct 2026 07:00:00 +0000",
-      "description": "What makes someone truly worth looking up to? \n\nIn this episode, I’m sharing the four daily habits that build genuine respect: keeping your word, owning your mistakes, staying calm under pressure, and making people feel seen and valued. \n\nIf you want people to trust you, respect you, and admire you,",
-      "duration": "00:16:04"
-    },
-    {
-      "show": "The Rachel Hollis Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/72/98/5e729831-066c-172a-8d40-2f28d72c2242/mza_13399559517544161219.jpg/600x600bb.jpg",
-      "title": "1033 | ASK RACH: How to Finally Write Your Book and How to Co-Parent With Your Ex",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/25955c60-029b-415a-a5a0-bbfaefb4ad3f/episodes/1401553e-38c5-4118-ab93-1cf08e3d125f/audio/128/default.mp3?aid=rss_feed&awCollectionId=25955c60-029b-415a-a5a0-bbfaefb4ad3f&awEpisodeId=1401553e-38c5-4118-ab93-1cf08e3d125f&feed=j2OmaLnl",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "description": "Upgrade to the Ad Free Premium Podcast Experience - https://rachelhollis.supercast.com\nGet your copy of Rachel's Book Here: Audible, Amazon, Barnes & Noble, Books-A-Millon, Bookshop.org, or wherever books are sold!\nTo learn more about listener data and our privacy practices visit: https://www.audacy",
-      "duration": "00:43:25"
-    },
-    {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "247. A Better Way to Respond When You Don't Follow Through",
-      "link": "https://habitsonpurpose.com/187",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP247.mp3?dest-id=3277715",
-      "pubDate": "Wed, 28 Oct 2026 05:00:00 +0000",
-      "description": "Do you find yourself making plans repeatedly but never following through? You set intentions to exercise, organize your space, or reach out to someone you care about, but it never happens. This pattern can leave you frustrated and stuck, questioning why you can't just do what you say you will, even ",
-      "duration": "15:45"
     },
     {
       "show": "Motivation Mindset Podcast",
@@ -472,14 +712,24 @@
       "duration": "3632"
     },
     {
-      "show": "Handled(ish): Productivity for the Imperfect",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/25/fc/0525fc3b-046f-2430-ac60-a32682c6ba58/mza_5808805701015878757.jpg/600x600bb.jpg",
-      "title": "#137 - A Little Homework for Better Relationships",
-      "link": null,
-      "audioUrl": "https://www.buzzsprout.com/2288219/episodes/20022405-137-a-little-homework-for-better-relationships.mp3",
-      "pubDate": "Tue, 27 Oct 2026 01:00:00 -0700",
-      "description": "Who did you connect with today? And who could use a quick thank you?\nIn this episode, I’m sharing a little relationship homework to help you stay connected, have more meaningful conversations, and remember the things that matter to the people in your life. From a quick text to a little pre-coffee pr",
-      "duration": "574"
+      "show": "The Organized Coach - Productivity, Business Systems, Time Management, ADHD, Routines, Life Coach, Entrepreneur",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/19/3c/46193cc9-c552-c4de-452e-bae54b3cb32e/mza_6949182317070209472.jpg/600x600bb.jpg",
+      "title": "192 | Getting Organized Is Inevitable (When You Think About It This Way)",
+      "link": "https://theorganizedcoach.podbean.com/e/192-getting-organized-is-inevitable/",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/qsuc8tj9tbet448q/192_Getting_Organized_Is_Inevitable_When_You_Think_About_It_This_Way_70wpk.mp3",
+      "pubDate": "Tue, 27 Oct 2026 04:14:00 -0500",
+      "description": "Get the 15-Minute Declutter Challenge: https://simplysquaredaway.com/declutter\nAll links mentioned in the post can be found here: https://simplysquaredaway.com/192\nWhat if you could feel just as confident about getting organized as you do about arriving at a destination on a road trip?\nAfter traveli",
+      "duration": "1569"
+    },
+    {
+      "show": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/66/fa/0f66fa23-2f7d-ff82-e5b0-41ec551521ef/mza_6810029446126368624.jpg/600x600bb.jpg",
+      "title": "349. Scared to Sell? The #1 Mindset Shift to Sell Your Offer With Confidence (Business Babe Series Part 5)",
+      "link": "https://podcasters.spotify.com/pod/show/themindsetbabe/episodes/349--Scared-to-Sell--The-1-Mindset-Shift-to-Sell-Your-Offer-With-Confidence-Business-Babe-Series-Part-5-e3r4p83",
+      "audioUrl": "https://anchor.fm/s/52420840/podcast/play/128131779/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-26%2F0ecba9c2-0b67-1a3e-1bea-696f4874203e.m4a",
+      "pubDate": "Tue, 27 Oct 2026 08:11:00 GMT",
+      "description": "Are you scared to sell your offer because you don’t want to sound pushy, annoying, or greedy? Babe, I understand. But talking about your offer can feel so much easier when you change the way you think about selling.\n\n\n Apply for Business Babe: ⁠⁠⁠⁠⁠⁠⁠https://www.themindsetbabe.com/biz⁠⁠⁠⁠⁠⁠⁠\n\n\nIn th",
+      "duration": "00:24:30"
     },
     {
       "show": "THE MEN'S SELF HELP PODCAST",
@@ -500,6 +750,16 @@
       "pubDate": "Tue, 27 Oct 2026 06:49:00 GMT",
       "description": "Ok babe let’s be real, life will knock all of us down sometimes, no matter how much inner work you've done or how carefully you've built your life. What dictates our quality of life (and our sanity) isn’t just what happens around or to us, but how we perceive and navigate what is outside of our cont",
       "duration": "00:36:55"
+    },
+    {
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#727: Stop Waiting to Feel Motivated: How to Take Action With Brain Fog",
+      "link": "https://fromtheinsideout.libsyn.com/727-stop-waiting-to-feel-motivated-how-to-take-action-with-brain-fog",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/727__Stop_Waiting_to_Feel_Motivated__How_to_Take_Action_With_Brain_Fog_1.mp3?dest-id=105943",
+      "pubDate": "Tue, 27 Oct 2026 05:00:00 +0000",
+      "description": "What do you do when you know what you need to do, but your brain just won't cooperate?\n You're mentally foggy, overwhelmed, distracted, or simply not feeling motivated. You keep waiting for clarity, energy, or inspiration to show up before you take action. But what if waiting to feel motivated is ac",
+      "duration": "32:05"
     },
     {
       "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
@@ -532,6 +792,36 @@
       "duration": "34:36"
     },
     {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "The Time Audit: Where Your 40 Hours Actually Go (TPS636)",
+      "link": "https://www.asianefficiency.com/podcasts/636-time-audit-where-40-hours-go/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/636_Time_Audit.mp3",
+      "pubDate": "Mon, 26 Oct 2026 11:00:00 +0000",
+      "description": "In this diagnostic episode, we walk through a Time Audit so listeners can see where their 40 hours actually go and create a measurable before and after. We connect the audit to our broader productivity philosophy, show how data and numbers can reveal hidden patterns, and explain why the best improve",
+      "duration": "37:46"
+    },
+    {
+      "show": "It's About Time | Time Management & Productivity for Work Life & Balance",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/20/b5/4620b5da-e98a-b027-7c9d-6151b8300e3f/mza_14276063242722219707.png/600x600bb.jpg",
+      "title": "The Holiday Hustle Is Coming. Here's What to Do Now to Create More Peace Later.",
+      "link": "https://abouttimepodcast.com/343",
+      "audioUrl": "https://pdst.fm/e/traffic.libsyn.com/secure/abouttimepodcast/343_edit.mp3?dest-id=1672673",
+      "pubDate": "Mon, 26 Oct 2026 10:15:00 +0000",
+      "description": "Imagine it's mid-December. Your calendar is stacked, your to-do list is never-ending, and you're running on fumes. Sound familiar? It doesn't have to be that way this year. In this episode, I'm sharing five simple steps you can take right now to get ahead of the holiday hustle before it starts. You'",
+      "duration": "26:11"
+    },
+    {
+      "show": "The Cal Newport Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+      "title": "When Productivity Theory Meets Practice",
+      "link": null,
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/BVLLC2602277216.mp3",
+      "pubDate": "Mon, 26 Oct 2026 10:00:00 -0000",
+      "description": "What happens when neat theoretical ideas about productivity are deployed in the messy real world? In this episode, Cal is joined by Haley Pulli, a productivity coach from the company DoneDaily, to discuss case studies of clients who initially struggled with some of Cal’s ideas and how they ultimatel",
+      "duration": "3989"
+    },
+    {
       "show": "THE BEST DAY PODCAST, Encouragement, Intentional Living, Mindset, Calm, Joy, Motherhood",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/85/bd/4685bd40-b5b3-ee66-8ca8-af3769ead78d/mza_15214294908140075757.png/600x600bb.jpg",
       "title": "Stop Waiting Until Everything Is Done",
@@ -540,6 +830,16 @@
       "pubDate": "Mon, 26 Oct 2026 04:45:00 -0400",
       "description": "Have you ever told yourself that once everything is done, then you'll finally relax, enjoy life, or make time for the things you love? The problem is that there's always something else to do.\nIn this episode, we're talking about the never-ending to-do list and how easy it is to get so caught up mana",
       "duration": "19:44"
+    },
+    {
+      "show": "Diligent Minds | Psychology, Personal Growth & Becoming Your Best Self",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/9a/77/359a77e9-443d-09a3-1ac9-31906fef7b88/mza_7154229619522951930.jpg/600x600bb.jpg",
+      "title": "Make Room For The New",
+      "link": null,
+      "audioUrl": "https://www.buzzsprout.com/177436/episodes/20018957-make-room-for-the-new.mp3",
+      "pubDate": "Mon, 26 Oct 2026 00:00:00 -0700",
+      "description": "Shoot Me A Quick Text & Introduce Yourself\nSometimes, making room for what's next means letting go of what's no longer serving you. Whether it's old habits, limiting beliefs, self-doubt, or patterns you've outgrown, the familiar can keep you stuck even when you're ready for change.\n\n\nIn this episode",
+      "duration": "1518"
     },
     {
       "show": "A Changed Mind | Mindset That Matters",
@@ -552,16 +852,6 @@
       "duration": "17:32"
     },
     {
-      "show": "The Rachel Hollis Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/72/98/5e729831-066c-172a-8d40-2f28d72c2242/mza_13399559517544161219.jpg/600x600bb.jpg",
-      "title": "1032 | Gabby Reece on Menopause, Metabolism, and the Secrets to Aging Well",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/25955c60-029b-415a-a5a0-bbfaefb4ad3f/episodes/5e20d902-1a00-46ba-a2eb-3c098a3d6600/audio/128/default.mp3?aid=rss_feed&awCollectionId=25955c60-029b-415a-a5a0-bbfaefb4ad3f&awEpisodeId=5e20d902-1a00-46ba-a2eb-3c098a3d6600&feed=j2OmaLnl",
-      "pubDate": "Mon, 26 Oct 2026 05:00:00 +0000",
-      "description": "Upgrade to the Ad Free Premium Podcast Experience - https://rachelhollis.supercast.com\nGet your copy of Rachel's Book Here: Audible, Amazon, Barnes & Noble, Books-A-Millon, Bookshop.org, or wherever books are sold!\nTo learn more about listener data and our privacy practices visit: https://www.audacy",
-      "duration": "01:12:52"
-    },
-    {
       "show": "Mindset & Motivation",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/5e/71/40/5e7140b9-d8fb-5ed0-5f5f-1c7014bf2cc0/mza_4159452160080663153.jpg/600x600bb.jpg",
       "title": "Less than 100 Days Left (Last 12 Weeks Year of the Year)",
@@ -570,16 +860,6 @@
       "pubDate": "Mon, 26 Oct 2026 05:00:00 +0000",
       "description": "You don't have to wait until January to make meaningful progress toward your goals.\n  \n  \n  As the holidays approach, it can be easy to put your plans on hold and promise yourself you'll start fresh in the new year. But the final months of the year offer an opportunity to build momentum now.\n  \n  \n ",
       "duration": "14:16"
-    },
-    {
-      "show": "How to Be a Better Human",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/600x600bb.jpg",
-      "title": "How to connect with literally anyone (w/ Chris Gethard)",
-      "link": "https://audiocollective.ted.com/",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/6ada4364d3418452889d75e0/media.mp3",
-      "pubDate": "Mon, 26 Oct 2026 04:00:00 GMT",
-      "description": "Chris Gethard is a comedian and the host of the podcast Beautiful Anonymous, an unscripted, unpredictable show where one anonymous person calls in and shares their family woes, secret confessions, or anything at all they want to talk about for 60 minutes. The only rule is that Chris Gethard can’t ha",
-      "duration": "44:49"
     },
     {
       "show": "Self Help For Women | Uncovering Your Inner Power",
@@ -602,16 +882,6 @@
       "duration": "00:10:53"
     },
     {
-      "show": "Mindset with Mike Schutt",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ee/a8/8beea88b-8f1c-b111-989d-34fcf369e02a/mza_8713305672038456971.jpg/600x600bb.jpg",
-      "title": "Mark Mitchell on AI and Breaking Babel",
-      "link": "https://www.spreaker.com/episode/mark-mitchell-on-ai-and-breaking-babel--75939342",
-      "audioUrl": "https://api.spreaker.com/download/episode/75939342/mindset_034r.mp3",
-      "pubDate": "Fri, 23 Oct 2026 13:29:18 +0000",
-      "description": "In his new book, Breaking Babel: How a Mysterious Biblical Story Can Help Christians Survive the AI Revolution, Mark Mitchell draws on the biblical account of the Tower of Babel to examine the perils of our digital world.\nMitchell joins Mike Schutt to discuss the consequences of digital technologies",
-      "duration": "3564"
-    },
-    {
       "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/6d/e4/136de456-d980-e88e-b2cb-faef0407cb05/mza_13944990805231430349.jpeg/600x600bb.jpg",
       "title": "You Don’t Need More Willpower: Change Is a Skill You Can Learn | Eric on The Happiness Lab with Laurie Santos",
@@ -632,6 +902,16 @@
       "duration": "00:22:55"
     },
     {
+      "show": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/66/fa/0f66fa23-2f7d-ff82-e5b0-41ec551521ef/mza_6810029446126368624.jpg/600x600bb.jpg",
+      "title": "348. 3 Reasons Why You’re Not Making Sales in Your Business (Business Babe Series Part 4)",
+      "link": "https://podcasters.spotify.com/pod/show/themindsetbabe/episodes/348--3-Reasons-Why-Youre-Not-Making-Sales-in-Your-Business-Business-Babe-Series-Part-4-e3queh7",
+      "audioUrl": "https://anchor.fm/s/52420840/podcast/play/127924199/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-23%2Fba97ab07-dfaf-0dc5-061d-16a491e0c28e.m4a",
+      "pubDate": "Fri, 23 Oct 2026 08:11:00 GMT",
+      "description": "In today’s episode of The Mindset Babe Podcast, we’re talking about 3 reasons why you’re not making sales in your business and what you need to start doing differently to attract paying customers and make money in your online business.\n\n\nApply for Business Babe: ⁠⁠⁠⁠https://www.themindsetbabe.com/bi",
+      "duration": "00:31:44"
+    },
+    {
       "show": "Life Will Be the Death of Me with Chelsea Handler",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
       "title": "Minisode: Book Roundup with Chelsea + Catherine",
@@ -650,16 +930,6 @@
       "pubDate": "Fri, 23 Oct 2026 07:05:00 +0000",
       "description": "Chelsea and Catherine talk about the best books they’ve read recently.  Links below!\n *\n Kin\n Calamity Club\n The Island of Sea Women\n Writers and Lovers \n Father of the Rain\n This is Me \n War and Peace\n The Count of Monte Cristo \n Wintering\n The Poisonwood Bible\n The Indifferent Stars Above\n Mawson’",
       "duration": "849"
-    },
-    {
-      "show": "The Rachel Hollis Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/5e/72/98/5e729831-066c-172a-8d40-2f28d72c2242/mza_13399559517544161219.jpg/600x600bb.jpg",
-      "title": "1031 | 6 Things Highly Intuitive People Do Differently (And Why You Should Too) (Friday Favorites!)",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/stitcher.simplecastaudio.com/25955c60-029b-415a-a5a0-bbfaefb4ad3f/episodes/d066d0bf-7cce-44aa-98a1-62fd8244b7ce/audio/128/default.mp3?aid=rss_feed&awCollectionId=25955c60-029b-415a-a5a0-bbfaefb4ad3f&awEpisodeId=d066d0bf-7cce-44aa-98a1-62fd8244b7ce&feed=j2OmaLnl",
-      "pubDate": "Fri, 23 Oct 2026 05:00:00 +0000",
-      "description": "*Original Airdate: October '24\nUpgrade to the Ad Free Premium Podcast Experience - https://rachelhollis.supercast.com\nGet your copy of Rachel's Book Here: Audible, Amazon, Barnes & Noble, Books-A-Millon, Bookshop.org, or wherever books are sold!\nTo learn more about listener data and our privacy prac",
-      "duration": "00:51:48"
     },
     {
       "show": "Growth Mindset Psychology: The Science of Self-Improvement",
@@ -702,6 +972,16 @@
       "duration": "1420"
     },
     {
+      "show": "The Cal Newport Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
+      "title": "Why Did Big Tech Stop Building Useful Products?",
+      "link": null,
+      "audioUrl": "https://pscrb.fm/rss/p/mgln.ai/e/441/claritaspod.com/measure/prfx.byspotify.com/e/traffic.megaphone.fm/BVLLC2038471108.mp3",
+      "pubDate": "Thu, 22 Oct 2026 10:00:00 -0000",
+      "description": "Tesla’s recent demo of a rocket-powered Roadster doing a kick-flick over a parked car touched a nerve in me. It seemed to epitomize changes to the tech sector in recent years that have been largely negative. In this short episode, I jump on the mic to explain some of my developing thoughts surroundi",
+      "duration": "864"
+    },
+    {
       "show": "Life Will Be the Death of Me with Chelsea Handler",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
       "title": "Nicotine Grey with James McAvoy",
@@ -732,14 +1012,14 @@
       "duration": "22:30"
     },
     {
-      "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/27/4a/cd/274acdb2-dd62-b352-c5ec-8bf0eb47e805/mza_11642456530252488083.jpg/600x600bb.jpg",
-      "title": "538. When Do You Choose to be Angry?",
-      "link": "https://schoolofnewfeministthought.com/538",
-      "audioUrl": "https://episodes.captivate.fm/episode/5ee8971a-c981-43a2-9018-da633dc4e375.mp3",
-      "pubDate": "Thu, 22 Oct 2026 01:00:00 -0400",
-      "description": "Women are taught that anger makes us difficult, irrational, or unlikeable, while men’s anger is often treated as justified or even heroic. So what happens when you learn to suppress your anger, even when something genuinely matters to you? In this episode, I share a coaching story about a client who",
-      "duration": "11:36"
+      "show": "MINDSET MAGIC & MANIFESTATION Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/e8/9d/0ae89d34-739e-c5ca-c6e4-74677937163d/mza_16793764067835551374.jpg/600x600bb.jpg",
+      "title": "378: Manifestation Walks are NOT About Visualizing, Your New Morning Practice",
+      "link": "https://podcasters.spotify.com/pod/show/mikayla-arrington/episodes/378-Manifestation-Walks-are-NOT-About-Visualizing--Your-New-Morning-Practice-e3qseap",
+      "audioUrl": "https://traffic.megaphone.fm/APO9996821784.mp3",
+      "pubDate": "Wed, 21 Oct 2026 21:41:29 GMT",
+      "description": "Listen to this *click here* on your Manifestation Walks to remember who tf you are and get into the manifestation energy. Click here for the WALK IT LIKE I TALK IT audio bundle.\n\n\nRich Girl Renaissance LIVE is coming to Florida in 2027! Hosted in St Petersburg, FL from Sept 23-25, 2027. Next year's ",
+      "duration": "00:45:55"
     },
     {
       "show": "Self Help For Women | Uncovering Your Inner Power",
@@ -752,16 +1032,6 @@
       "duration": "437"
     },
     {
-      "show": "The Christian Habits Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/46/24/57462433-9cd5-9449-c244-543c9c683058/mza_8336926707901766099.jpg/600x600bb.jpg",
-      "title": "6 Tips for Making Friends As an Adult",
-      "link": "https://christianhabits.libsyn.com/6-tips-for-making-friends-as-an-adult",
-      "audioUrl": "https://traffic.libsyn.com/secure/christianhabits/riverside_edit_-_barb_barb_raveling.mp3?dest-id=206919",
-      "pubDate": "Wed, 21 Oct 2026 13:00:00 +0000",
-      "description": "",
-      "duration": "08:49"
-    },
-    {
       "show": "You've Got This | Tips & Strategies for Meaningful Productivity and Alignment in Work and Life",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/35/ff/1d/35ff1d3c-85a2-b76d-ab21-8d059cff9c89/mza_16712292862414487790.jpg/600x600bb.jpg",
       "title": "YGT 496: Want to Work with Me in 2027?",
@@ -770,6 +1040,16 @@
       "pubDate": "Wed, 21 Oct 2026 11:30:00 +0000",
       "description": "Mentioned in this episode:\n\nexplore my 1:1 coaching practice\nlearn more about my coach training program\ncheck out my PM by Design training program\nlearn more about my Slow Hustle business building mastermind\njoin Prolific, my online community devoted to meaningful productivity\nmy probono coaching ca",
       "duration": "00:12:23"
+    },
+    {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "From Reactive to Proactive in 10 Minutes a Day",
+      "link": "https://www.asianefficiency.com/podcasts/635w-reactive-proactive-10-minutes-day/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/635w_Reactive_to_Proactive.mp3",
+      "pubDate": "Wed, 21 Oct 2026 11:00:00 +0000",
+      "description": "When did you last finish a workday having done what you planned to do, and not just what landed on your desk? Thanh knows the reactive trap well. A few years ago, while Asian Efficiency was growing fast, he spent his days fighting fires, until he noticed something unsettling about the business. In t",
+      "duration": "6:48"
     },
     {
       "show": "Sustainable CEO Mom: Productivity, Automation, AI and Marketing Strategies for Female Entrepreneurs + Service Providers (Form",
@@ -782,54 +1062,24 @@
       "duration": "302"
     },
     {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "246. What It Really Means to Be Authentic with Yourself",
-      "link": "https://habitsonpurpose.com/192",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP246.mp3?dest-id=3277715",
-      "pubDate": "Wed, 21 Oct 2026 05:00:00 +0000",
-      "description": "Do you sometimes feel like the person you show up as each day isn't the real you? Between work, family, and the constant pull of daily responsibilities, it's easy to drift into autopilot and lose touch with your inner self. In this episode, we explore how to come back home to yourself and cultivate ",
-      "duration": "14:55"
+      "show": "The Mindset Babe | Self-Love, Confidence, Motivation, Self-Esteem, Inspiration, Manifestation",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0f/66/fa/0f66fa23-2f7d-ff82-e5b0-41ec551521ef/mza_6810029446126368624.jpg/600x600bb.jpg",
+      "title": "347. How to Make Money in Your Online Business (Business Babe Series Part 3)",
+      "link": "https://podcasters.spotify.com/pod/show/themindsetbabe/episodes/347--How-to-Make-Money-in-Your-Online-Business-Business-Babe-Series-Part-3-e3qpub1",
+      "audioUrl": "https://anchor.fm/s/52420840/podcast/play/127776545/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-20%2F31845e89-56bb-094d-fa9e-2c91b7b93d27.m4a",
+      "pubDate": "Tue, 20 Oct 2026 13:26:00 GMT",
+      "description": "Want to make money in your online business, but you’re not sure what to sell or where to start? In this episode of The Mindset Babe Podcast, I’m breaking down the five Ps of a sellable offer: Product, Person, Problem, Process, and Price. \n\n\nApply for Business Babe: ⁠⁠⁠https://www.themindsetbabe.com/",
+      "duration": "00:50:05"
     },
     {
-      "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/6d/e4/136de456-d980-e88e-b2cb-faef0407cb05/mza_13944990805231430349.jpeg/600x600bb.jpg",
-      "title": "What to Remember When You’re Forgetting: Living Well with Memory Loss | Dr. Zaldy Tan",
-      "link": null,
-      "audioUrl": "https://s.gum.fm/s-6839ddc199c8e8acebe1aae7/traffic.megaphone.fm/YAP8085480468.mp3",
-      "pubDate": "Tue, 20 Oct 2026 12:45:00 -0000",
-      "description": "In this episode, Dr. Zaldy Tan explores how to live well with memory loss and what an Alzheimer’s diagnosis means for individuals and the people who love them. Drawing on his own experience caring for family members with Alzheimer’s, he discusses the questions many of us carry about forgetfulness, a",
-      "duration": "3926"
-    },
-    {
-      "show": "Motivation Mindset Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/e9/b7/f4/e9b7f47e-d60a-eb91-cda7-c176e38d6f99/mza_4491201015480335274.jpg/600x600bb.jpg",
-      "title": "How to Escape Mediocrity: David Goggins' Unstoppable Approach to Life",
-      "link": "https://www.spreaker.com/episode/how-to-escape-mediocrity-david-goggins-unstoppable-approach-to-life--67431342",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/api.spreaker.com/download/episode/67431342/00031.mp3",
-      "pubDate": "Tue, 20 Oct 2026 12:00:02 +0000",
-      "description": "Motivation Focus Welcome to Motivation Focus, the podcast where every episode is a step closer to unlocking the power of motivation, resilience, and success. Here, we dive into the essentials of building a strong mindset, nurturing personal growth, and harnessing the power of transformation to achie",
-      "duration": "666"
-    },
-    {
-      "show": "Redeeming Productivity",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/09/2b/25092b85-72ce-c37e-4750-86609478058b/mza_661745847040621019.jpg/600x600bb.jpg",
-      "title": "5 Things I Wish I Knew in My 20s",
-      "link": "https://podcasters.spotify.com/pod/show/redeemingprod/episodes/5-Things-I-Wish-I-Knew-in-My-20s-e3qget2",
-      "audioUrl": "https://anchor.fm/s/601ed858/podcast/play/127465826/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-14%2F434158726-44100-2-9ee6341dd9692.mp3",
-      "pubDate": "Tue, 20 Oct 2026 08:21:00 GMT",
-      "description": "Free morning routine planner https://redeemingproductivity.com/morning/\nI sometimes wish I could write a letter to my younger self to stop me from making some of the mistakes I made in my youth. Consider this such a letter. These are five pieces of advice I'd offer to anyone in their 20s. But even i",
-      "duration": "00:18:18"
-    },
-    {
-      "show": "Handled(ish): Productivity for the Imperfect",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/25/fc/0525fc3b-046f-2430-ac60-a32682c6ba58/mza_5808805701015878757.jpg/600x600bb.jpg",
-      "title": "#136 - A Full Life, A Blank Answer",
-      "link": null,
-      "audioUrl": "https://www.buzzsprout.com/2288219/episodes/19944507-136-a-full-life-a-blank-answer.mp3",
-      "pubDate": "Tue, 20 Oct 2026 01:00:00 -0700",
-      "description": "Someone asks, “What’s new?” and your mind goes blank. Apparently, your entire life has left the chat. 😂\nThis has happened to me more than once lately—even with a full and awesome life! So I decided to do something about it, and I’m challenging you to do the same.\nIn this episode, we explore having ",
-      "duration": "233"
+      "show": "The Organized Coach - Productivity, Business Systems, Time Management, ADHD, Routines, Life Coach, Entrepreneur",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/19/3c/46193cc9-c552-c4de-452e-bae54b3cb32e/mza_6949182317070209472.jpg/600x600bb.jpg",
+      "title": "191 | Need Help in Your Business? Why Hiring an Intern Might Be Perfect for You with Brittany Braswell",
+      "link": "https://theorganizedcoach.podbean.com/e/191-need-help-business-hiring-intern-brittany-braswell/",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/4ab8dnaeqfyugs5h/191_Need_Help_in_Your_Business_Why_Hiring_an_Intern_Might_Be_Perfect_for_You_with_Brittany_Braswell9rnl0.mp3",
+      "pubDate": "Tue, 20 Oct 2026 04:22:00 -0500",
+      "description": "All links mentioned in the post can be found here: https://simplysquaredaway.com/191\nYou know you need help in your business, but hiring someone can feel like a big—and expensive—next step. What if an intern could be the perfect solution?\nIn this episode, I’m talking with Brittany Braswell about how",
+      "duration": "2675"
     },
     {
       "show": "Unfuck Your Life by Laura Herde",
@@ -842,34 +1092,14 @@
       "duration": "00:31:30"
     },
     {
-      "show": "UnF*ck Your Brain: Feminist Self-Help for Everyone",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/27/4a/cd/274acdb2-dd62-b352-c5ec-8bf0eb47e805/mza_11642456530252488083.jpg/600x600bb.jpg",
-      "title": "537. Coaching Hotline: What Does Nervous System Regulation Actually Mean?",
-      "link": "https://schoolofnewfeministthought.com/537",
-      "audioUrl": "https://episodes.captivate.fm/episode/15b28af7-6ab9-42ec-ba6e-9f334b51e1cd.mp3",
-      "pubDate": "Tue, 20 Oct 2026 01:00:00 -0400",
-      "description": "What does nervous system regulation actually mean, and how does it relate to your emotions? In this Coaching Hotline episode, I answer a listener’s question about the difference between feeling an emotion, experiencing nervous system activation, and being “regulated.”\n\nI explain what people are actu",
-      "duration": "07:01"
-    },
-    {
-      "show": "Growth Mindset Psychology: The Science of Self-Improvement",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/55/cb/2b/55cb2b32-1d7e-8231-1a09-b8bcac6a90e2/mza_11101309328025720899.png/600x600bb.jpg",
-      "title": "How to Enjoy Your Imperfect Life",
-      "link": null,
-      "audioUrl": "https://www.podtrac.com/pts/redirect.mp3/mgln.ai/e/35/pfx.vpixl.com/k7b9t/op3.dev/e/pscrb.fm/rss/p/traffic.megaphone.fm/NSR8829885530.mp3",
-      "pubDate": "Tue, 20 Oct 2026 03:00:00 -0000",
-      "description": "Simple mindset shifts to build more gratitude, without reworking your entire personality.\n\nWe imagine success as a destination where the problems finally stop. But the life we want brings its own friction: the garden needs tending, meaningful work fills the inbox, and intimacy means sharing life wit",
-      "duration": "1267"
-    },
-    {
-      "show": "High Performance Mindset | Learn from World-Class Leaders, Consultants, Athletes & Coaches about Mindset",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/9d/c8/1b/9dc81bf6-c958-a503-642e-950a2d6085e6/mza_2206550083010762291.png/600x600bb.jpg",
-      "title": "786: 12,000 Skydives and Still Afraid: How to Act Anyway with Melanie Curtis, World Record Skydiver, Speaker, Author, & Peak Performance Coach",
-      "link": "https://thehighperformancemindset.com/786-12000-skydives-and-still-afraid-how-to-act-anyway-with-melanie-curtis-world-record-skydiver-speaker-author-peak-performance-coach",
-      "audioUrl": "https://traffic.libsyn.com/secure/cindrakamphoff/786.mp3?dest-id=285922",
-      "pubDate": "Mon, 19 Oct 2026 18:37:00 +0000",
-      "description": "What is fear telling you that you can't do? World record pro skydiver Melanie Curtis has made more than 12,000 jumps over 30 years, and she still feels fear. In this episode she shares how her first jump at 18 rewired how she relates to fear. She explains why the fear of humiliation is so powerful i",
-      "duration": "45:14"
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#726: Why You Get Discouraged So Easily (And How to Change It)",
+      "link": "https://fromtheinsideout.libsyn.com/726-why-you-get-discouraged-so-easily-and-how-to-change-it",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/726__Why_You_Get_Discouraged_So_Easily_And_How_to_Change_It.mp3?dest-id=105943",
+      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
+      "description": "Do you get discouraged when progress is slower than expected, when someone criticizes you, or when things don't go according to plan? You're not alone. But being easily discouraged doesn't have to be your default response.\n  In this episode of The Confidence Podcast, Trish Blackwell breaks down why ",
+      "duration": "31:12"
     },
     {
       "show": "The Mindset Shift Podcast",
@@ -880,6 +1110,16 @@
       "pubDate": "Mon, 19 Oct 2026 07:39:16 -0300",
       "description": "Success doesn't come from waiting for the perfect moment. It comes from taking action, learning from mistakes, and staying committed to your goals. In this episode of The Mindset Shift Podcast, we explore why so many people delay their dreams, how fear and overthinking prevent progress, and how taki",
       "duration": "1067"
+    },
+    {
+      "show": "It's About Time | Time Management & Productivity for Work Life & Balance",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/20/b5/4620b5da-e98a-b027-7c9d-6151b8300e3f/mza_14276063242722219707.png/600x600bb.jpg",
+      "title": "4 Questions to Ask Before You Say Yes to Anything featuring Kimia Penton",
+      "link": "https://abouttimepodcast.com/342",
+      "audioUrl": "https://pdst.fm/e/traffic.libsyn.com/secure/abouttimepodcast/342_-_kimia_penton.mp3?dest-id=1672673",
+      "pubDate": "Mon, 19 Oct 2026 10:15:00 +0000",
+      "description": "What would your calendar say about who you really are? I sit down with Kimia Penton, a transformational leader, keynote speaker, educator, musician, and author of Power, On Purpose, who leads large-scale innovation, AI, and business transformation initiatives for a Fortune 10 company. Together, we u",
+      "duration": "44:56"
     },
     {
       "show": "THE BEST DAY PODCAST, Encouragement, Intentional Living, Mindset, Calm, Joy, Motherhood",
@@ -912,14 +1152,24 @@
       "duration": "23:21"
     },
     {
-      "show": "A Changed Mind | Mindset That Matters",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/c0/4a/9d/c04a9dd1-eeda-2e35-1aac-34461f738ea7/mza_17966210569365645826.jpeg/600x600bb.jpg",
-      "title": "288 Allan Watts Warned Us",
-      "link": "https://davidbayer.com/podcast/episode-288/",
-      "audioUrl": "https://episodes.captivate.fm/episode/caad374b-7a12-42ed-9441-873effedbec5.mp3",
-      "pubDate": "Mon, 19 Oct 2026 03:00:00 -0400",
-      "description": "📺 Watch & Subscribe on YouTube\nTake the free Limiting Beliefs Discovery Assessment – a 5-minute experience that reveals the exact beliefs holding back your income, health, relationships, and personal growth — and gives you the proven tool to transform them https://www.wholehuman.com/decision\nIn thi",
-      "duration": "22:59"
+      "show": "The Science of Self | Personal Development Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
+      "title": "BECOME ONE OF ONE | Peter Hollins Audiobook | Chapter 6 - Voice over Work - An Audiobook Sampler",
+      "link": "https://voiceoverwork.captivate.fm/episode/become-one-of-one-peter-hollins-audiobook-chapter-6",
+      "audioUrl": "https://podcasts.captivate.fm/media/8769cf5d-88b5-4cbe-b76f-80643c02d4d4/OneOfOneHollins-06-podcast-converted.mp3?played_on=87f68967-8f78-43c4-9a14-3da65b9c8e70",
+      "pubDate": "Mon, 19 Oct 2026 04:00:00 -0400",
+      "description": "The Wright brothers’ journey to flight began with a simple letter in 1899. Wilbur wrote to the Smithsonian asking for guidance on what to read about flying machines. The reply pointed him and his brother Orville towards valuable resources that would shape their two-year project loop: Try → Get Feedb",
+      "duration": "25:31"
+    },
+    {
+      "show": "The Science of Self | Personal Development Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
+      "title": "BECOME ONE OF ONE | Audiobook Preview | Unlocking Hidden Solutions with Your Diverse Skill Set - Voice over Work - An Audiobook Sampler",
+      "link": "https://voiceoverwork.captivate.fm/episode/become-one-of-one-audiobook-preview-unlocking-hidden-solutions-with-your-diverse-skill-set",
+      "audioUrl": "https://podcasts.captivate.fm/media/eacc41e6-812c-44ee-9d59-d20a7cad188e/OneOfOneHollins-05-podcast-converted.mp3?played_on=87f68967-8f78-43c4-9a14-3da65b9c8e70",
+      "pubDate": "Mon, 19 Oct 2026 04:00:00 -0400",
+      "description": "In this episode, we dive into the fascinating world of combining seemingly unrelated skills to solve complex problems. The Weekly Collision technique is introduced as a simple yet powerful tool for generating ideas and improving your approach to challenges at home or in the workplace. By pairing two",
+      "duration": "23:21"
     },
     {
       "show": "Mindset & Motivation",
@@ -932,14 +1182,14 @@
       "duration": "16:58"
     },
     {
-      "show": "How to Be a Better Human",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/600x600bb.jpg",
-      "title": "Why do we like scary stories? (w/ Glynn Washington)",
-      "link": "https://audiocollective.ted.com/",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/6ac7f32218d8c99420043d3c/media.mp3",
-      "pubDate": "Mon, 19 Oct 2026 04:00:00 GMT",
-      "description": "How does someone who claims having zero tolerance on watching scary movies come to host a podcast on supernatural stories? That’s the question Chris asked Glynn Washington, host of the podcast Snap Judgment and his new show, Spooked. Glynn shares how he grew up in a cult and later moved to Japan. He",
-      "duration": "43:03"
+      "show": "Beyond the To-Do List - Productivity for Work and Life",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/1f/cd/4d1fcde0-0f9a-8ebc-7e3d-1a0247e5ce30/mza_3359926513229431161.jpeg/600x600bb.jpg",
+      "title": "Deep Work: Why Your Focus Depends on Your Team with Shawn Vanderhoven",
+      "link": null,
+      "audioUrl": "https://mgln.ai/e/211/pscrb.fm/rss/p/rss.art19.com/episodes/42c632c5-ba2d-4a4a-b75c-cd9e1b59e66c.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+      "pubDate": "Mon, 19 Oct 2026 04:00:00 -0000",
+      "description": "Most deep work doesn't fail at your desk. It fails in the team around you, which is what leadership researcher Shawn Vanderhoven spent three years studying.\nShawn is a partner at The Wiseman Group, where he works alongside Liz Wiseman, author of Multipliers. With his wife and co-author, Anne Vanderh",
+      "duration": "00:57:40"
     },
     {
       "show": "Self Help For Women | Uncovering Your Inner Power",
@@ -992,34 +1242,14 @@
       "duration": "1208"
     },
     {
-      "show": "Life Will Be the Death of Me with Chelsea Handler",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
-      "title": "The Boring Thing about Babies with Justine Lupe ",
-      "link": "https://omny.fm/shows/dear-chelsea/the-boring-thing-about-babies-with-justine-lupe",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/d283cdeb-ced4-47ff-999c-b4e2018a7a53/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
-      "pubDate": "Thu, 15 Oct 2026 07:05:00 +0000",
-      "description": "Justine Lupe (Succession, Nobody Wants This) joins Chelsea to talk about her quickie wedding, why she’d rather not go on vacation at the moment, and playing your show’s creator who just may be the messy one.  Then:  A Greek-cum-Angeleno wonders how to make friends when he doesn’t seem to like many p",
-      "duration": "3837"
-    },
-    {
-      "show": "Dear Chelsea",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/72/93/40729316-6367-6d25-7319-df72b3794925/mza_7105560166085411308.jpg/600x600bb.jpg",
-      "title": "The Boring Thing about Babies with Justine Lupe ",
-      "link": "https://omny.fm/shows/dear-chelsea/the-boring-thing-about-babies-with-justine-lupe",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/d283cdeb-ced4-47ff-999c-b4e2018a7a53/audio.mp3?utm_source=Podcast&in_playlist=cca17ef5-974c-4e61-997c-ae3300346e3b",
-      "pubDate": "Thu, 15 Oct 2026 07:05:00 +0000",
-      "description": "Justine Lupe (Succession, Nobody Wants This) joins Chelsea to talk about her quickie wedding, why she’d rather not go on vacation at the moment, and playing your show’s creator who just may be the messy one.  Then:  A Greek-cum-Angeleno wonders how to make friends when he doesn’t seem to like many p",
-      "duration": "3837"
-    },
-    {
-      "show": "How to Be a Better Human",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/600x600bb.jpg",
-      "title": "Do all my friends secretly hate me? | from Corner Piece",
-      "link": "https://shows.acast.com/how-to-be-a-better-human/episodes/do-all-my-friends-secretly-hate-me-from-corner-piece",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/6aa1dc041901261925795023/media.mp3",
-      "pubDate": "Thu, 15 Oct 2026 04:00:00 GMT",
-      "description": "Why does making friends as an adult feel like mission impossible?\n\nToday, we’re sharing a special episode of a new TED podcast, Corner Piece. Friendship is hard, especially in adulthood, and this episode explores just that with personal stories from host Melissa Fernandes of her experience grappling",
-      "duration": "40:48"
+      "show": "Beyond the To-Do List - Productivity for Work and Life",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/1f/cd/4d1fcde0-0f9a-8ebc-7e3d-1a0247e5ce30/mza_3359926513229431161.jpeg/600x600bb.jpg",
+      "title": "Optimism: Why It’s a Behavior, Not a Mood with Michelle Gielan",
+      "link": null,
+      "audioUrl": "https://mgln.ai/e/211/pscrb.fm/rss/p/rss.art19.com/episodes/bc8d2f70-0b9c-41d5-830f-6bb6422a50bd.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+      "pubDate": "Thu, 15 Oct 2026 04:00:00 -0000",
+      "description": "Optimism isn't a mood you're born with, and it isn't a mindset you can summon on command. It's a set of habits you practice, especially on the hard days. That's the case Michelle Gielan makes in her new book, Resilient Optimism: The Science of Sustaining a Positive Mindset in Tough Times.\nMichelle i",
+      "duration": "00:47:41"
     },
     {
       "show": "You've Got This | Tips & Strategies for Meaningful Productivity and Alignment in Work and Life",
@@ -1042,64 +1272,34 @@
       "duration": "350"
     },
     {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "245. When You Can't Stop Analyzing Other People's Reactions to You",
-      "link": "https://habitsonpurpose.com/86",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP245.mp3?dest-id=3277715",
-      "pubDate": "Wed, 14 Oct 2026 05:00:00 +0000",
-      "description": "When we walk into a room filled with people we don't know, whether it's a professional event, the gym, or a dinner party, we tend to look around for a friendly face while watching out for body language that feels like a rejection. This is the habit of micro-analyzing other people's reactions, hyper-",
-      "duration": "14:27"
-    },
-    {
-      "show": "Redeeming Productivity",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/09/2b/25092b85-72ce-c37e-4750-86609478058b/mza_661745847040621019.jpg/600x600bb.jpg",
-      "title": "Why I wrote a book on a typewriter in 2026.",
-      "link": "https://podcasters.spotify.com/pod/show/redeemingprod/episodes/Why-I-wrote-a-book-on-a-typewriter-in-2026-e3qenvl",
-      "audioUrl": "https://anchor.fm/s/601ed858/podcast/play/127409589/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-13%2F434082622-44100-2-b52cea6a39229.mp3",
-      "pubDate": "Tue, 13 Oct 2026 16:43:51 GMT",
-      "description": "⁠⁠⁠⁠Redeeming Productivity Academy⁠ https://redeemingproductivity.com/academy/\nHere's the process and rationale for why I purposefully wrote my upcoming book in an inefficient manner and why I believe going slower often produces better results.\n► Free morning routine planner https://redeemingproduct",
-      "duration": "00:12:06"
-    },
-    {
-      "show": "Handled(ish): Productivity for the Imperfect",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/25/fc/0525fc3b-046f-2430-ac60-a32682c6ba58/mza_5808805701015878757.jpg/600x600bb.jpg",
-      "title": "#135 - Three Words for My Next Trip Around the Sun",
-      "link": null,
-      "audioUrl": "https://www.buzzsprout.com/2288219/episodes/19944498-135-three-words-for-my-next-trip-around-the-sun.mp3",
-      "pubDate": "Tue, 13 Oct 2026 01:00:00 -0700",
-      "description": "It’s my birthday week! 🎉 And this year, I’m giving myself three buzzwords to live by.\nThese are words I want to keep close as I make everyday choices about how I spend my time, energy, and attention.\nIn this episode, I share my birthday buzzwords and invite you to consider yours. Borrow mine if the",
-      "duration": "631"
-    },
-    {
       "show": "The Science of Self | Personal Development Podcast",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
-      "title": "BECOME ONE OF ONE | Audiobook Preview | Intro",
-      "link": "https://self-growth.captivate.fm/episode/become-one-of-one-audiobook-preview-intro",
-      "audioUrl": "https://episodes.captivate.fm/episode/90edb741-7968-40b3-b7a6-08356af0e11d.mp3",
-      "pubDate": "Tue, 13 Oct 2026 04:00:00 -0400",
-      "description": "You don't have to be the best at one thing. You become rare by combining a handful of solid skills. This book lays out a four-step method for doing it: See It, Stack It, Build It, Prove It.\n \n Become One of One by Peter Hollins: Intro, an audiobook preview.\n \n The release date will be announced. Thi",
-      "duration": "12:55"
+      "title": "BECOME ONE OF ONE | Audiobook Preview | Chapter 4 Learning Skills: Depth vs Breadth - Know When to Stop - Voice over Work - An Audiobook Sampler",
+      "link": "https://voiceoverwork.captivate.fm/episode/become-one-of-one-audiobook-preview-chapter-4-learning-skills-depth-vs-breadth-know-when-to-stop",
+      "audioUrl": "https://podcasts.captivate.fm/media/1b1e2ffb-cbe9-4f22-b339-7eb3024a8bdc/OneOfOneHollins-04-podcast-converted.mp3?played_on=87f68967-8f78-43c4-9a14-3da65b9c8e70",
+      "pubDate": "Wed, 14 Oct 2026 04:00:00 -0400",
+      "description": "You don't have to be the best at one thing. You become rare by combining a handful of solid skills. This book lays out a four-step method for doing it: See It, Stack It, Build It, Prove It.\n\nIn this chapter, we explore the idea that not every skill needs to be mastered completely. The book suggests ",
+      "duration": "24:14"
     },
     {
-      "show": "The Science of Self | Personal Development Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
-      "title": "BECOME ONE OF ONE | Audiobook Preview | 3",
-      "link": "https://self-growth.captivate.fm/episode/become-one-of-one-audiobook-preview-3",
-      "audioUrl": "https://episodes.captivate.fm/episode/c6fe2cd4-5290-4407-bfd2-626e96970486.mp3",
-      "pubDate": "Tue, 13 Oct 2026 04:00:00 -0400",
-      "description": "You don't have to be the best at one thing. You become rare by combining a handful of solid skills. This book lays out a four-step method for doing it: See It, Stack It, Build It, Prove It.\n \n Become One of One by Peter Hollins: 3, an audiobook preview.\n \n The release date will be announced. This pr",
-      "duration": "26:38"
+      "show": "The Organized Coach - Productivity, Business Systems, Time Management, ADHD, Routines, Life Coach, Entrepreneur",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/19/3c/46193cc9-c552-c4de-452e-bae54b3cb32e/mza_6949182317070209472.jpg/600x600bb.jpg",
+      "title": "190 | Three Systems That Instantly Reduce Chaos, No Fancy Tech Required",
+      "link": "https://theorganizedcoach.podbean.com/e/190-three-systems-that-instantly-reduce-chaos/",
+      "audioUrl": "https://mcdn.podbean.com/mf/web/r6zxmip2tep7f5xu/190_Three_Systems_That_Instantly_Reduce_Chaos_No_Fancy_Tech_Required6cgn2.mp3",
+      "pubDate": "Tue, 13 Oct 2026 04:14:00 -0500",
+      "description": "All links mentioned in the post can be found here: https://simplysquaredaway.com/190\nDoes your brain ever feel like it’s holding 100 things at once? Things you need to do, remember, buy, schedule, decide, or tell someone about? None of them may be a big deal on their own, but together, they can make",
+      "duration": "1687"
     },
     {
-      "show": "The Science of Self | Personal Development Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
-      "title": "BECOME ONE OF ONE | Audiobook Preview | 2",
-      "link": "https://self-growth.captivate.fm/episode/become-one-of-one-audiobook-preview-2",
-      "audioUrl": "https://episodes.captivate.fm/episode/10931367-8fc4-4639-978c-5837756d1992.mp3",
-      "pubDate": "Tue, 13 Oct 2026 04:00:00 -0400",
-      "description": "You don't have to be the best at one thing. You become rare by combining a handful of solid skills. This book lays out a four-step method for doing it: See It, Stack It, Build It, Prove It.\n \n Become One of One by Peter Hollins: 2, an audiobook preview.\n \n The release date will be announced. This pr",
-      "duration": "24:18"
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#725: Your Brain Is Lying to You: How to Stop Assuming the Worst",
+      "link": "https://fromtheinsideout.libsyn.com/725-your-brain-is-lying-to-you-how-to-stop-assuming-the-worst",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/725__Your_Brain_Is_Lying_to_You__How_to_Stop_Assuming_the_Worst.mp3?dest-id=105943",
+      "pubDate": "Tue, 13 Oct 2026 05:00:00 +0000",
+      "description": "What if your circumstances aren't the biggest thing affecting how you feel—your interpretation of them is?\n In this episode, we're talking about the difference between viewing your life through a critical filter versus a curious filter, and how to know when your brain is lying to you.\n You'll learn ",
+      "duration": "31:15"
     },
     {
       "show": "Unfuck Your Life by Laura Herde",
@@ -1122,6 +1322,16 @@
       "duration": "262"
     },
     {
+      "show": "It's About Time | Time Management & Productivity for Work Life & Balance",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/20/b5/4620b5da-e98a-b027-7c9d-6151b8300e3f/mza_14276063242722219707.png/600x600bb.jpg",
+      "title": "Your Month-by-Month Plan for the Last 90 Days of the Year: How to Stop Bracing for the Holidays and Start Enjoying Them",
+      "link": "https://abouttimepodcast.com/341",
+      "audioUrl": "https://pdst.fm/e/traffic.libsyn.com/secure/abouttimepodcast/341_341___Month-by-Month_Plan_for_Last_90_Days.mp3?dest-id=1672673",
+      "pubDate": "Mon, 12 Oct 2026 10:15:00 +0000",
+      "description": "Do the last three months of the year feel like an avalanche you just get swept up in? In this episode, I reveal why the busiest season deserves the best plan. I also show how giving October, November, and December each their own job can make the end of the year actually feel good. You'll learn what ",
+      "duration": "18:14"
+    },
+    {
       "show": "THE BEST DAY PODCAST, Encouragement, Intentional Living, Mindset, Calm, Joy, Motherhood",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/46/85/bd/4685bd40-b5b3-ee66-8ca8-af3769ead78d/mza_15214294908140075757.png/600x600bb.jpg",
       "title": "3 Ways to Experience More Joy This Fall",
@@ -1130,16 +1340,6 @@
       "pubDate": "Mon, 12 Oct 2026 04:45:00 -0400",
       "description": "What if experiencing more joy this fall doesn't require you to change your life at all?\nSometimes we think joy is waiting for us in the next big adventure, the next season, or the next thing on our calendar. But so much joy is already hiding in the ordinary moments of the life we're living right now",
       "duration": "14:51"
-    },
-    {
-      "show": "Full Life Coaching: Personal Growth | Spiritual Growth Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/1b/58/aa1b5869-1333-4fcf-b302-91e3cbf23d1b/mza_7871745315951702371.jpg/600x600bb.jpg",
-      "title": "Church Hurt and Healing: How to Trust God Again After Spiritual Pain",
-      "link": "https://podcasters.spotify.com/pod/show/zachimboden/episodes/Church-Hurt-and-Healing-How-to-Trust-God-Again-After-Spiritual-Pain-e3qafjg",
-      "audioUrl": "https://anchor.fm/s/10c7aeccc/podcast/play/127269936/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-9-10%2Fb2c82950-c1a7-333a-4761-448d050f6a20.mp3",
-      "pubDate": "Mon, 12 Oct 2026 07:01:00 GMT",
-      "description": "Have you ever been hurt by the very people you trusted to help you grow in your faith?\nChurch hurt can leave deep wounds. It can affect our relationships, shake our trust in others, and even cause us to question God. But what does healing look like when the place that was supposed to bring you close",
-      "duration": "00:42:51"
     },
     {
       "show": "THE MEN'S SELF HELP PODCAST",
@@ -1162,14 +1362,14 @@
       "duration": "19:57"
     },
     {
-      "show": "How to Be a Better Human",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/07/e2/84/07e2843d-0ca6-4f93-7fb8-cc93ff0cfa6f/mza_12830515654437380525.jpg/600x600bb.jpg",
-      "title": "The doctor who says to eat your ice cream (w/ Zeke Emanuel) ",
-      "link": "https://audiocollective.ted.com/",
-      "audioUrl": "https://sphinx.acast.com/p/open/s/67572b3b2dd88df13220eb3b/e/6ac7f306432607111d7442a1/media.mp3",
-      "pubDate": "Mon, 12 Oct 2026 04:00:00 GMT",
-      "description": "How long do you want to live? 75 years? 90? Over 100?! In this episode, oncologist and bioethicist Zeke Emanuel joins Chris to discuss why he’s suspicious about medical establishments and their push to treat illness and disease rather than teaching patients how to be healthy. They also talk about th",
-      "duration": "45:32"
+      "show": "Beyond the To-Do List - Productivity for Work and Life",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/1f/cd/4d1fcde0-0f9a-8ebc-7e3d-1a0247e5ce30/mza_3359926513229431161.jpeg/600x600bb.jpg",
+      "title": "Focus, Sleep, and Stress: The 90-Minute Method Behind Better Work with Christian Poensgen",
+      "link": null,
+      "audioUrl": "https://mgln.ai/e/211/pscrb.fm/rss/p/rss.art19.com/episodes/b54c153c-2a8f-4e32-9c0d-199a60856abb.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+      "pubDate": "Mon, 12 Oct 2026 04:00:00 -0000",
+      "description": "Focus, sleep, and stress all run on the same 90-minute cycle — and Dr. Christian Poensgen argues that's where productivity that lasts actually begins. He's a scientist turned executive coach whose doctoral work was on the relationship between stress and performance, and co-author, with Eric Partaker",
+      "duration": "00:59:43"
     },
     {
       "show": "Self Help For Women | Uncovering Your Inner Power",
@@ -1202,34 +1402,14 @@
       "duration": "00:38:55"
     },
     {
-      "show": "Life Will Be the Death of Me with Chelsea Handler",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/51/be/26/51be2688-cef8-5d5d-9fa6-7ed2ab9a9e1c/mza_2299096670716359009.jpg/600x600bb.jpg",
-      "title": "Minisode: Getting Into Heaven with Chelsea + Catherine",
-      "link": "https://omny.fm/shows/dear-chelsea/minisode-getting-into-heaven-with-chelsea-catherine",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/a9ca5929-991c-44ac-a406-b4db01652516/audio.mp3?utm_source=Podcast&in_playlist=b6ae1030-2ee8-4665-aa9d-ae39005b2508",
-      "pubDate": "Fri, 09 Oct 2026 07:05:00 +0000",
-      "description": "Chelsea and Catherine find out how to get into heaven.  And a Utah woman struggles with her sibling relationships after the death of her parents.   \n *\n Need some advice from Chelsea? Email us at DearChelseaPodcast@gmail.com\n *\n Executive Producer Catherine Law\n Edited & Engineered by Brad Dickert\n ",
-      "duration": "816"
-    },
-    {
-      "show": "Dear Chelsea",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/40/72/93/40729316-6367-6d25-7319-df72b3794925/mza_7105560166085411308.jpg/600x600bb.jpg",
-      "title": "Minisode: Getting Into Heaven with Chelsea + Catherine",
-      "link": "https://omny.fm/shows/dear-chelsea/minisode-getting-into-heaven-with-chelsea-catherine",
-      "audioUrl": "https://podtrac.com/pts/redirect.mp3/pscrb.fm/rss/p/traffic.omny.fm/d/clips/e73c998e-6e60-432f-8610-ae210140c5b1/39524bfa-de3f-4fac-bf1c-ae3300346e1f/a9ca5929-991c-44ac-a406-b4db01652516/audio.mp3?utm_source=Podcast&in_playlist=cca17ef5-974c-4e61-997c-ae3300346e3b",
-      "pubDate": "Fri, 09 Oct 2026 07:05:00 +0000",
-      "description": "Chelsea and Catherine find out how to get into heaven.  And a Utah woman struggles with her sibling relationships after the death of her parents.   \n *\n Need some advice from Chelsea? Email us at DearChelseaPodcast@gmail.com\n *\n Executive Producer Catherine Law\n Edited & Engineered by Brad Dickert\n ",
-      "duration": "816"
-    },
-    {
-      "show": "The Christian Habits Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/46/24/57462433-9cd5-9449-c244-543c9c683058/mza_8336926707901766099.jpg/600x600bb.jpg",
-      "title": "Stasi Eldredge: How to Know God More Deeply",
-      "link": "https://christianhabits.libsyn.com/stasi-eldredge-how-to-know-god-more-deeply",
-      "audioUrl": "https://traffic.libsyn.com/secure/christianhabits/riverside_stasi_eldredge_final_barb_raveling.mp3?dest-id=206919",
-      "pubDate": "Wed, 07 Oct 2026 16:00:00 +0000",
-      "description": "",
-      "duration": "25:25"
+      "show": "Beyond the To-Do List - Productivity for Work and Life",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/4d/1f/cd/4d1fcde0-0f9a-8ebc-7e3d-1a0247e5ce30/mza_3359926513229431161.jpeg/600x600bb.jpg",
+      "title": "Simplicity: Confront, Delete, Amplify — Getting 50% More Done with 50% Less with Roy Schwartz",
+      "link": null,
+      "audioUrl": "https://mgln.ai/e/211/pscrb.fm/rss/p/rss.art19.com/episodes/e64cb3bd-bcf0-4f23-bca8-c57d74ae7011.mp3?rss_browser=BAhJIg9yc3MtcGFyc2VyBjoGRVQ%3D--42d668516e215326a0c0e36404173d504b339a70",
+      "pubDate": "Thu, 08 Oct 2026 04:00:00 -0000",
+      "description": "Simplicity and decision fatigue are the focus of this conversation with Roy Schwartz, co-founder and president of Axios.\nRoy Schwartz co-founded Axios and Axios HQ after helping build Politico, where he first saw how much of modern work is just noise competing for attention. His dyslexia forced him ",
+      "duration": "00:48:02"
     },
     {
       "show": "You've Got This | Tips & Strategies for Meaningful Productivity and Alignment in Work and Life",
@@ -1252,26 +1432,6 @@
       "duration": "349"
     },
     {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "244. Finding the Roots of Your Habits: Habit Audit (Part 2)",
-      "link": "https://habitsonpurpose.com/91",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP244.mp3?dest-id=3277715",
-      "pubDate": "Wed, 07 Oct 2026 05:00:00 +0000",
-      "description": "All of our habits are here for a good reason, even if we don't like the habit itself. They're all adaptive or protective solutions that we've learned, and this is great news because it means we can unlearn habits that don't serve us.\n  \n Tune in this week to start playing investigator, uncovering pa",
-      "duration": "11:23"
-    },
-    {
-      "show": "Handled(ish): Productivity for the Imperfect",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/05/25/fc/0525fc3b-046f-2430-ac60-a32682c6ba58/mza_5808805701015878757.jpg/600x600bb.jpg",
-      "title": "#134 - Fictitious Obligations ",
-      "link": null,
-      "audioUrl": "https://www.buzzsprout.com/2288219/episodes/19879492-134-fictitious-obligations.mp3",
-      "pubDate": "Tue, 06 Oct 2026 01:00:00 -0700",
-      "description": "Is there something on your list or calendar that you keep telling yourself you have to do?\nIn this episode, I challenge you to take a look at what I call “fictitious obligations\" — the tasks and commitments we assign ourselves because of expectations, habits, or ideas about who we’re supposed to be.",
-      "duration": "491"
-    },
-    {
       "show": "THE MEN'S SELF HELP PODCAST",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/82/ed/a7/82eda760-bd39-caaa-90ea-8cb4a90c4db8/mza_12838194174987361596.png/600x600bb.jpg",
       "title": "How To Stop Negative People From Infecting Your Mindset ⚡",
@@ -1282,6 +1442,16 @@
       "duration": "31:17"
     },
     {
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#724: How to Stop Being So Hard on Yourself Without Lowering Your Standards",
+      "link": "https://fromtheinsideout.libsyn.com/724-how-to-stop-being-so-hard-on-yourself-without-lowering-your-standards",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/724__How_to_Stop_Being_So_Hard_on_Yourself_Without_Lowering_Your_Standards.mp3?dest-id=105943",
+      "pubDate": "Tue, 06 Oct 2026 05:00:00 +0000",
+      "description": "→ [LISTENER SPECIAL OFFER] Coach with Trish for 30-Days for Just $27! www.trishblackwell.com/listener\n Reframe Kit for Kids: www.trishblackwell.com/kids\n Reframing Challenge: www.trishblackwell.com/reframe\n 🤖 REFRAME AI TOOL [Must-Have Tool to Train Your Brain!] www.trishblackwell.com/reframeai\n 🏆",
+      "duration": "28:21"
+    },
+    {
       "show": "THE HABITS & HOME SHOW | Decluttering & Systems for Christian ADHD Moms",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/07/7c/82/077c82d2-7241-d87a-727d-619896d05185/mza_132424281996647184.jpg/600x600bb.jpg",
       "title": "244 \\\\ Why You Can't Find Anything in Your House Even When It's Organized",
@@ -1290,6 +1460,16 @@
       "pubDate": "Mon, 05 Oct 2026 10:00:00 -0400",
       "description": "Do you feel like you’re constantly looking for things in your house—even though you’ve already organized everything? The problem may not be that your house is disorganized. It may be that the systems you’re using just aren’t working for the way your brain naturally functions.\nIn this episode, we’re ",
       "duration": "1262"
+    },
+    {
+      "show": "It's About Time | Time Management & Productivity for Work Life & Balance",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts126/v4/46/20/b5/4620b5da-e98a-b027-7c9d-6151b8300e3f/mza_14276063242722219707.png/600x600bb.jpg",
+      "title": "Intention vs. Being Intentional: How to Transition From Work to Home Without the Whiplash featuring Rebecca Olson",
+      "link": "https://abouttimepodcast.com/340",
+      "audioUrl": "https://pdst.fm/e/traffic.libsyn.com/secure/abouttimepodcast/340___Rebecca_Olson.mp3?dest-id=1672673",
+      "pubDate": "Mon, 05 Oct 2026 10:15:00 +0000",
+      "description": "Ever close your laptop at the end of the day and walk into your evening still stuck in work mode? I sit down with Rebecca Olson, executive life coach, speaker, and host of the Ambitious and Balanced Working Moms Podcast, who helps high-achieving working moms create sustainable work-life balance with",
+      "duration": "47:42"
     },
     {
       "show": "THE BEST DAY PODCAST, Encouragement, Intentional Living, Mindset, Calm, Joy, Motherhood",
@@ -1372,16 +1552,6 @@
       "duration": "1076"
     },
     {
-      "show": "Mindset Neuroscience Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/18/ab/c6/18abc66c-c30b-e520-0f58-1f57199c30b2/mza_452476076326467394.jpg/600x600bb.jpg",
-      "title": "Neuroscience of Critical Hope with Dr. Kari Grain",
-      "link": "https://stefaniefaye.com/podcast/neuroscience-of-critical-hope-with-dr-kari-grain/",
-      "audioUrl": "https://media.blubrry.com/mindsetneuroscience/content.blubrry.com/mindsetneuroscience/Critical_Hope_Mindset_Neuroscience_Podcast.MP3",
-      "pubDate": "Thu, 24 Sep 2026 15:12:49 +0000",
-      "description": "Hope is one of our most extraordinary human capacities. It allows us to sense possibility before we can fully see the path toward it. To imagine that something new can emerge from the conditions we are in now. And perhaps...\nREAD MORE\nThe post Neuroscience of Critical Hope with Dr. Kari Grain appear",
-      "duration": "54:34"
-    },
-    {
       "show": "Navy SEAL Mindset",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/fd/b1/d6/fdb1d612-7d87-e7e2-0314-674336ffca2d/mza_10198943709402544495.jpg/600x600bb.jpg",
       "title": "Cut What Holds You Back",
@@ -1390,16 +1560,6 @@
       "pubDate": "Wed, 23 Sep 2026 14:00:00 -1000",
       "description": "What if quitting isn’t a weakness — but a necessary part of moving forward?\nIn this episode of Navy SEAL Mindset, William Branum explores the idea of evolving through subtraction: identifying the habits, relationships, commitments, and even business ideas that are slowing you down and having the cou",
       "duration": "960"
-    },
-    {
-      "show": "The Christian Habits Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/46/24/57462433-9cd5-9449-c244-543c9c683058/mza_8336926707901766099.jpg/600x600bb.jpg",
-      "title": "Lie: It's Just One Bite (or One Quick Look)",
-      "link": "https://christianhabits.libsyn.com/lie-its-just-one-bite-or-one-quick-look",
-      "audioUrl": "https://traffic.libsyn.com/secure/christianhabits/riverside_edit_-_its_just_one_bite_barb_raveling.mp3?dest-id=206919",
-      "pubDate": "Wed, 23 Sep 2026 15:00:00 +0000",
-      "description": "",
-      "duration": "14:54"
     },
     {
       "show": "I Am Enough: Mastering Self Love Podcast",
@@ -1442,6 +1602,16 @@
       "duration": "00:12:44"
     },
     {
+      "show": "Diligent Minds | Psychology, Personal Growth & Becoming Your Best Self",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/9a/77/359a77e9-443d-09a3-1ac9-31906fef7b88/mza_7154229619522951930.jpg/600x600bb.jpg",
+      "title": "Reprogramming Your Mind: How to Break Old Patterns",
+      "link": null,
+      "audioUrl": "https://www.buzzsprout.com/177436/episodes/19800128-reprogramming-your-mind-how-to-break-old-patterns.mp3",
+      "pubDate": "Mon, 14 Sep 2026 00:00:00 -0700",
+      "description": "Shoot Me A Quick Text & Introduce Yourself\nWe often know exactly what we should be doing, yet somehow find ourselves returning to the same habits, reactions, and ways of thinking.\nSometimes it’s not because those patterns are good for us. They’re simply familiar.\nIn this episode, I’m talking about w",
+      "duration": "1075"
+    },
+    {
       "show": "A Stronger You: Mindset & Entrepreneurship",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b1/ba/a7/b1baa7ef-55bf-7354-3b57-3a497c621097/mza_9178960312094323565.jpg/600x600bb.jpg",
       "title": "if ur in a transition in your business or life.. this is for you",
@@ -1460,6 +1630,16 @@
       "pubDate": "Sun, 13 Sep 2026 10:00:00 +0000",
       "description": "In this episode, I follow-on from the topic of my last post (link below) about how to stay on the right \"channel\". From there I posit that you can change your life through thought alone! No, no... this is NOT \"woo-woo\", it's actually how we're wired! 🤯  Read more here: https://naturalhealer.com.au/",
       "duration": "366"
+    },
+    {
+      "show": "MINDSET MAGIC & MANIFESTATION Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/e8/9d/0ae89d34-739e-c5ca-c6e4-74677937163d/mza_16793764067835551374.jpg/600x600bb.jpg",
+      "title": "377: The Forgotten New Years Goal & How Failed Manifestations are Wins in Disguise ",
+      "link": "https://podcasters.spotify.com/pod/show/mikayla-arrington/episodes/377-The-Forgotten-New-Years-Goal--How-Failed-Manifestations-are-Wins-in-Disguise-e3oi96q",
+      "audioUrl": "https://traffic.megaphone.fm/APO7515871207.mp3",
+      "pubDate": "Wed, 09 Sep 2026 04:00:00 GMT",
+      "description": "Rich Girl Renaissance LIVE 2027: ⁠⁠⁠\nIs coming to Florida!! Message me for an early bird special priced ticket.\n\n\n$8 Anniversary Offer: RICH GIRL RACE\nHow to treat your manifestation like they are URGENT. 3 week manifestation sprint experience. ⁠⁠⁠Click here to join for $8⁠⁠⁠\n\n\nBonus Resources:\nClas",
+      "duration": "00:24:47"
     },
     {
       "show": "A Stronger You: Mindset & Entrepreneurship",
@@ -1492,24 +1672,14 @@
       "duration": "1043"
     },
     {
-      "show": "Mindset with Mike Schutt",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ee/a8/8beea88b-8f1c-b111-989d-34fcf369e02a/mza_8713305672038456971.jpg/600x600bb.jpg",
-      "title": "Colson Center’s Billy Hutchinson on Formation in Education ",
-      "link": "https://www.spreaker.com/episode/colson-center-s-billy-hutchinson-on-formation-in-education--74775912",
-      "audioUrl": "https://api.spreaker.com/download/episode/74775912/mindset_033.mp3",
-      "pubDate": "Thu, 03 Sep 2026 10:00:02 +0000",
-      "description": "The goal of education, according to Aristotle, is to make students love what they ought. This is a needed reminder for Christian educators as they counter-form their students in a culture pushing back on all fronts.\nOn this episode of Mindset, the director of Colson Educators, Billy Hutchinson, join",
-      "duration": "3350"
-    },
-    {
-      "show": "The Christian Habits Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/46/24/57462433-9cd5-9449-c244-543c9c683058/mza_8336926707901766099.jpg/600x600bb.jpg",
-      "title": "How to Do Hard Things - 5 Steps",
-      "link": "https://christianhabits.libsyn.com/how-to-do-hard-things-5-steps",
-      "audioUrl": "https://traffic.libsyn.com/secure/christianhabits/riverside_how_to_do_hard_things_..._03_barb_raveling.mp3?dest-id=206919",
-      "pubDate": "Wed, 02 Sep 2026 15:00:00 +0000",
-      "description": "Do you struggle to do hard things—even when you know they're important? Do you procrastinate because a project feels overwhelming, or feel like giving up when you hit an obstacle? Maybe you've tried to break a habit or make a change in your life countless times, and you're beginning to wonder if you",
-      "duration": "08:51"
+      "show": "MINDSET MAGIC & MANIFESTATION Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/e8/9d/0ae89d34-739e-c5ca-c6e4-74677937163d/mza_16793764067835551374.jpg/600x600bb.jpg",
+      "title": "376: Your September Lock In, The 3 Things That Every Manifestation Requires ",
+      "link": "https://podcasters.spotify.com/pod/show/mikayla-arrington/episodes/376-Your-September-Lock-In--The-3-Things-That-Every-Manifestation-Requires-e3o8t0i",
+      "audioUrl": "https://anchor.fm/s/2acc9dc/podcast/play/125120978/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-8-2%2Fe7cfed6d-10ee-d1ee-f92e-1eab8bb9f688.mp3",
+      "pubDate": "Wed, 02 Sep 2026 22:03:01 GMT",
+      "description": "Get your ticket to Rich Girl Renaissance LIVE: ⁠⁠⁠⁠⁠⁠⁠⁠⁠\nMy live event in Dallas September 10-13th. How to become the content millionaire and more importantly, how to become the woman who is IMPOSSIBLE to ignore. ⁠⁠Click here for details & tickets!⁠⁠\n\n\n$8 Anniversary Offer: RICH GIRL RACE\nHow to tre",
+      "duration": "00:20:49"
     },
     {
       "show": "Rewire Your Brain: The Peace & Positivity Podcast with Liz Bagwell",
@@ -1542,16 +1712,6 @@
       "duration": "1084"
     },
     {
-      "show": "Redeeming Productivity",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/09/2b/25092b85-72ce-c37e-4750-86609478058b/mza_661745847040621019.jpg/600x600bb.jpg",
-      "title": "Why you always quit right before it gets good.",
-      "link": "https://podcasters.spotify.com/pod/show/redeemingprod/episodes/Why-you-always-quit-right-before-it-gets-good-e3nn19o",
-      "audioUrl": "https://anchor.fm/s/601ed858/podcast/play/124535544/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-21%2F430270222-44100-2-d125a3ee50c57.mp3",
-      "pubDate": "Tue, 25 Aug 2026 09:25:00 GMT",
-      "description": "Goal-setting worksheet: http://redeemingproductivity.com/quarterly\n\n\nEvery attempt to reach a goal, build a new habit, or change in some way will, at some point, have us facing an almost overwhelming desire to quit. This is the valley of despair. Here's how you fight through it.\nTIMESTAMPS\n\n0:00 Int",
-      "duration": "00:12:54"
-    },
-    {
       "show": "Rewire Your Brain: The Peace & Positivity Podcast with Liz Bagwell",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/14/52/40/14524004-577e-be74-4cf8-00f1d6a5d73c/mza_11181125305349244542.png/600x600bb.jpg",
       "title": "Season 6 Episode 2: The Your Reasonableness Be Known & Turning Groans into Gratitudes",
@@ -1560,6 +1720,16 @@
       "pubDate": "Fri, 21 Aug 2026 21:12:00 +0000",
       "description": "Season 6, Day 2: Let Your Gentleness Be Known — Philippians 4:5 and Turning Your Groans into Gratitude\n  \n In Season 6, Day 2 of Rewire Your Brain: The Peace & Positivity Podcast, host Liz Bagwell continues the Philippians 4 series with verse 5: \"Let your reasonableness be known to everyone\" — often",
       "duration": "17:49"
+    },
+    {
+      "show": "MINDSET MAGIC & MANIFESTATION Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/0a/e8/9d/0ae89d34-739e-c5ca-c6e4-74677937163d/mza_16793764067835551374.jpg/600x600bb.jpg",
+      "title": "375: My Top 8 Manifestation Hacks to Completely Shift Your 3D Reality ",
+      "link": "https://podcasters.spotify.com/pod/show/mikayla-arrington/episodes/375-My-Top-8-Manifestation-Hacks-to-Completely-Shift-Your-3D-Reality-e3nlup9",
+      "audioUrl": "https://traffic.megaphone.fm/APO9331730662.mp3",
+      "pubDate": "Thu, 20 Aug 2026 18:37:43 GMT",
+      "description": "$8 Anniversary Offer: RICH GIRL RACE\nHow to treat your manifestation like they are URGENT. 3 week manifestation sprint experience. Click here to join for $8\n\n\nGet your ticket to Rich Girl Renaissance LIVE: ⁠⁠⁠⁠⁠⁠⁠\nMy live event in Dallas September 10-13th. How to become the content millionaire and m",
+      "duration": "00:30:17"
     },
     {
       "show": "Rewire Your Brain: The Peace & Positivity Podcast with Liz Bagwell",
@@ -1572,16 +1742,6 @@
       "duration": "37:40"
     },
     {
-      "show": "Mindset with Mike Schutt",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ee/a8/8beea88b-8f1c-b111-989d-34fcf369e02a/mza_8713305672038456971.jpg/600x600bb.jpg",
-      "title": "Classical Conversations’ Robert Bortins on the Role of Parents in Education",
-      "link": "https://www.spreaker.com/episode/classical-conversations-robert-bortins-on-the-role-of-parents-in-education--74387179",
-      "audioUrl": "https://api.spreaker.com/download/episode/74387179/mindset_032.mp3",
-      "pubDate": "Thu, 20 Aug 2026 12:35:31 +0000",
-      "description": "In this episode of Mindset, Mike Schutt sits down with Robert Bortins, CEO of Classical Conversations, to explore the indispensable role of parents in shaping their children's minds and hearts. Drawing on his experience as a homeschool graduate, a homeschooling father, and the leader of one of the w",
-      "duration": "3020"
-    },
-    {
       "show": "Self Help, Spirituality & Healing for Today's World",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fa/1d/03/fa1d0317-bc32-08b0-dedf-938847caa4da/mza_11017127119240392101.jpg/600x600bb.jpg",
       "title": "Does Reiki attract NEGATIVE energies to you? 🤔 No, it attracts the opposite...LOVE ✨💗",
@@ -1592,14 +1752,14 @@
       "duration": "499"
     },
     {
-      "show": "Full Life Coaching: Personal Growth | Spiritual Growth Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/1b/58/aa1b5869-1333-4fcf-b302-91e3cbf23d1b/mza_7871745315951702371.jpg/600x600bb.jpg",
-      "title": "Lectio Divina — A Simple Practice To Help You Listen to God Through Scripture",
-      "link": "https://podcasters.spotify.com/pod/show/zachimboden/episodes/Lectio-Divina--A-Simple-Practice-To-Help-You-Listen-to-God-Through-Scripture-e3ne50l",
-      "audioUrl": "https://anchor.fm/s/10c7aeccc/podcast/play/124244437/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-15%2F17f25a0d-6717-7611-4de0-c9fabca42d84.mp3",
-      "pubDate": "Mon, 17 Aug 2026 07:05:00 GMT",
-      "description": "Are you longing to hear from God in a deeper way? In today’s episode of the Full Life Podcast, Zach Imboden guides you through a powerful and reflective practice called Lectio Divina—an ancient, soul-centering way of reading Scripture that helps you slow down, listen, and experience God’s personal p",
-      "duration": "00:11:12"
+      "show": "Diligent Minds | Psychology, Personal Growth & Becoming Your Best Self",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/9a/77/359a77e9-443d-09a3-1ac9-31906fef7b88/mza_7154229619522951930.jpg/600x600bb.jpg",
+      "title": "What To Do When Your Best Still Isn’t Enough",
+      "link": null,
+      "audioUrl": "https://www.buzzsprout.com/177436/episodes/19655392-what-to-do-when-your-best-still-isn-t-enough.mp3",
+      "pubDate": "Mon, 17 Aug 2026 00:00:00 -0700",
+      "description": "Shoot Me A Quick Text & Introduce Yourself\nSometimes you can work hard, stay consistent, sacrifice, and still feel like nothing is changing. When that happens, it’s easy to wonder whether your dream, goal, or next chapter simply isn’t meant for you.\nIn this episode, we talk about what to do when it ",
+      "duration": "848"
     },
     {
       "show": "A Stronger You: Mindset & Entrepreneurship",
@@ -1612,44 +1772,14 @@
       "duration": "00:09:45"
     },
     {
-      "show": "The Christian Habits Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/57/46/24/57462433-9cd5-9449-c244-543c9c683058/mza_8336926707901766099.jpg/600x600bb.jpg",
-      "title": "How to Stop Comparing Your Life to Others – 7 Biblical Steps",
-      "link": "https://christianhabits.libsyn.com/how-to-stop-comparing-your-life-to-others-7-biblical-steps",
-      "audioUrl": "https://traffic.libsyn.com/secure/christianhabits/riverside_stop_comparing_yourself_to_others__7_biblical_str_barb_raveling.mp3?dest-id=206919",
-      "pubDate": "Wed, 12 Aug 2026 15:00:00 +0000",
-      "description": "Do you ever look at someone else's life and think, \"If only I had what they have, I'd be happy\"?\n Comparison can quietly steal your joy and leave you feeling dissatisfied with the life God has given you. In this episode, we'll look at the lie behind comparison and seven biblical ways to renew your m",
-      "duration": "09:33"
-    },
-    {
-      "show": "Redeeming Productivity",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/09/2b/25092b85-72ce-c37e-4750-86609478058b/mza_661745847040621019.jpg/600x600bb.jpg",
-      "title": "The productive power of an eternal perspective",
-      "link": "https://podcasters.spotify.com/pod/show/redeemingprod/episodes/The-productive-power-of-an-eternal-perspective-e3mtspu",
-      "audioUrl": "https://anchor.fm/s/601ed858/podcast/play/123711742/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429143741-44100-2-70973dc2aa7c.mp3",
-      "pubDate": "Tue, 11 Aug 2026 09:13:00 GMT",
-      "description": "The faster life spins, the tighter we grip. To keep your bearings, you have to fix your eyes on something that isn't moving.\nTIMESTAMPS\n0:00 Intro\n2:58 Christ, the anchor\n4:51 Eternal perspective on Monday\n6:56 Fix your eyes\n8:53 Eternity is the key\n10:11 Maintaining an eternal perspectivePersonal p",
-      "duration": "00:11:27"
-    },
-    {
-      "show": "Full Life Coaching: Personal Growth | Spiritual Growth Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/1b/58/aa1b5869-1333-4fcf-b302-91e3cbf23d1b/mza_7871745315951702371.jpg/600x600bb.jpg",
-      "title": "How to Say Yes to God When That Takes You Into the Unknown | With Denisha D. Workizer",
-      "link": "https://podcasters.spotify.com/pod/show/zachimboden/episodes/How-to-Say-Yes-to-God-When-That-Takes-You-Into-the-Unknown--With-Denisha-D--Workizer-e3n6k4f",
-      "audioUrl": "https://anchor.fm/s/10c7aeccc/podcast/play/123997775/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-10%2Fb68b5d2d-dadb-f868-f190-3e7bc932cf67.mp3",
-      "pubDate": "Mon, 10 Aug 2026 07:01:00 GMT",
-      "description": "How to Say Yes to God When That Takes You Into the Unknown | With Denisha D. Workizer\nWhat do you do when you sense God leading you somewhere—but you don't know where He's taking you?\nFollowing God doesn't always come with a clear roadmap. Sometimes saying yes means stepping into uncertainty, taking",
-      "duration": "00:32:02"
-    },
-    {
-      "show": "Redeeming Productivity",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts122/v4/25/09/2b/25092b85-72ce-c37e-4750-86609478058b/mza_661745847040621019.jpg/600x600bb.jpg",
-      "title": "I’m begging you to take your faith seriously",
-      "link": "https://podcasters.spotify.com/pod/show/redeemingprod/episodes/Im-begging-you-to-take-your-faith-seriously-e3mtj5n",
-      "audioUrl": "https://anchor.fm/s/601ed858/podcast/play/123701879/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-7-3%2F429131417-44100-2-662a6e74f28ef.mp3",
-      "pubDate": "Tue, 04 Aug 2026 09:22:00 GMT",
-      "description": "Allergies are annoying. Some are even deadly. But there’s a kind of spiritual allergy in the church that can be debilitating for those seeking to walk faithfully before God. \nI'm talking about theoretical Christian living.\nTIMESTAMPS\n0:00 Intro\n1:21 Why isn't church more practical?\n2:58 Fear of lega",
-      "duration": "00:15:39"
+      "show": "Diligent Minds | Psychology, Personal Growth & Becoming Your Best Self",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/35/9a/77/359a77e9-443d-09a3-1ac9-31906fef7b88/mza_7154229619522951930.jpg/600x600bb.jpg",
+      "title": "How to Improve Your Mental Health From the Ground Up",
+      "link": null,
+      "audioUrl": "https://www.buzzsprout.com/177436/episodes/19622537-how-to-improve-your-mental-health-from-the-ground-up.mp3",
+      "pubDate": "Mon, 10 Aug 2026 00:00:00 -0700",
+      "description": "Shoot Me A Quick Text & Introduce Yourself\nImproving your mental health isn’t only about what you read, listen to, or take. At some point, what matters most is what you consistently practice.\nIn this episode, we break mental health down to the ground level, understanding your emotions, challenging u",
+      "duration": "877"
     },
     {
       "show": "Create a Life that is Beautiful: Your Coaching & Personal Development Podcast",
@@ -1672,16 +1802,6 @@
       "duration": "00:35:30"
     },
     {
-      "show": "Mindset with Mike Schutt",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ee/a8/8beea88b-8f1c-b111-989d-34fcf369e02a/mza_8713305672038456971.jpg/600x600bb.jpg",
-      "title": "To Live Well with Dr. Alan Noble",
-      "link": "https://www.spreaker.com/episode/to-live-well-with-dr-alan-noble--73092313",
-      "audioUrl": "https://api.spreaker.com/download/episode/73092313/mindset_031.mp3",
-      "pubDate": "Tue, 21 Jul 2026 19:53:35 +0000",
-      "description": "It’s not always easy to live faithfully in our chaotic age. In this episode of Mindset, Mike Schutt talks with Dr. O. Alan Noble about his new book, To Live Well: Practical Wisdom for Moving Through Chaotic Times.\nDrawing on Scripture and the classic Christian virtues, Noble explains how the virtues",
-      "duration": "3682"
-    },
-    {
       "show": "Create a Life that is Beautiful: Your Coaching & Personal Development Podcast",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/b0/29/47/b02947ad-cd1a-57e5-c9c0-6c2c9954e13d/mza_2858172078300665159.jpg/600x600bb.jpg",
       "title": "309: Designing a Business that Supports You As A Woman to THRIVE - Menstrual Cycle, Pregnancy, Post Partum, Peri-Menopause, Menopause",
@@ -1702,26 +1822,6 @@
       "duration": "00:49:23"
     },
     {
-      "show": "Girls with Goals",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/56/19/b35619a5-1e6d-c981-53c9-681a7b0d2b86/mza_15752769269932913831.jpg/600x600bb.jpg",
-      "title": "Jealousy, Jealousy",
-      "link": "https://redcircle.com/shows/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c/episodes/e7c0f129-8cf3-40b2-a19b-27f96646654e",
-      "audioUrl": "https://audio4.redcircle.com/episodes/e7c0f129-8cf3-40b2-a19b-27f96646654e/stream.mp3",
-      "pubDate": "Tue, 14 Jul 2026 12:43:25 +0000",
-      "description": "When you stop resenting what you want, you start moving towards it. Today we’re talking about jealousy, when we’ve been feeling it, and why it is life changing to let it go (revisit)\n\n\n﻿Follow AC on Instagram: @anncatherinconneen\nFollow Caroline on Instagram: @carolineconneen\nFollow AC on Tik Tok: @",
-      "duration": "1867"
-    },
-    {
-      "show": "Full Life Coaching: Personal Growth | Spiritual Growth Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/1b/58/aa1b5869-1333-4fcf-b302-91e3cbf23d1b/mza_7871745315951702371.jpg/600x600bb.jpg",
-      "title": "Developing the Next Generation of Leaders (Without Losing Yourself in the Process)",
-      "link": "https://podcasters.spotify.com/pod/show/zachimboden/episodes/Developing-the-Next-Generation-of-Leaders-Without-Losing-Yourself-in-the-Process-e3lu9i6",
-      "audioUrl": "https://anchor.fm/s/10c7aeccc/podcast/play/122676230/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-6-11%2Fc67a889a-020d-eb0a-8ba2-105dcaf11ac5.mp3",
-      "pubDate": "Mon, 13 Jul 2026 07:30:00 GMT",
-      "description": "What if the greatest threat to your leadership isn't a lack of talent—but trying to carry everything yourself?\nToo many leaders spend their time doing the work instead of developing the people. Over time, that doesn't just limit your organization's future—it increases pressure, leads to burnout, and",
-      "duration": "00:46:51"
-    },
-    {
       "show": "Self Help, Spirituality & Healing for Today's World",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/fa/1d/03/fa1d0317-bc32-08b0-dedf-938847caa4da/mza_11017127119240392101.jpg/600x600bb.jpg",
       "title": "It's time to trust yourself: overcoming #impostersyndrome  💗🙌 #youcandothis #energyhealers ",
@@ -1740,36 +1840,6 @@
       "pubDate": "Mon, 06 Jul 2026 09:30:10 +0000",
       "description": "I started a series for you all about a year ago all about the 4 stages to the world class business cycle and an offer’s journey from $0 to $200K+ in revenue. It's time to continue what we started! \n\nSo, today's episode is all about the THIRD stage of that journey - which is all about GROWING your al",
       "duration": "00:51:07"
-    },
-    {
-      "show": "Full Life Coaching: Personal Growth | Spiritual Growth Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/aa/1b/58/aa1b5869-1333-4fcf-b302-91e3cbf23d1b/mza_7871745315951702371.jpg/600x600bb.jpg",
-      "title": "Breath Prayer for Anxiety, Stress & Spiritual Renewal | Guided Christian Prayer Practice",
-      "link": "https://podcasters.spotify.com/pod/show/zachimboden/episodes/Breath-Prayer-for-Anxiety--Stress--Spiritual-Renewal--Guided-Christian-Prayer-Practice-e3l9o62",
-      "audioUrl": "https://anchor.fm/s/10c7aeccc/podcast/play/122003074/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-25%2Fb06aa2e2-5d61-1006-0f9c-b32f10d35d1d.mp3",
-      "pubDate": "Mon, 29 Jun 2026 07:00:00 GMT",
-      "description": "Breath Prayer: Finding God's Peace One Breath at a TimeFeeling stressed, distracted, overwhelmed, or unsure how to pray?In this guided spiritual practice episode of the Full Life Podcast, Zach Imboden leads you through the ancient practice of Breath Prayer—a simple yet powerful way to slow down, qui",
-      "duration": "00:10:43"
-    },
-    {
-      "show": "Mindset with Mike Schutt",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/ee/a8/8beea88b-8f1c-b111-989d-34fcf369e02a/mza_8713305672038456971.jpg/600x600bb.jpg",
-      "title": "Reading and Christian Formation",
-      "link": "https://www.spreaker.com/episode/reading-and-christian-formation--72679195",
-      "audioUrl": "https://api.spreaker.com/download/episode/72679195/mindset_030r.mp3",
-      "pubDate": "Wed, 24 Jun 2026 21:45:44 +0000",
-      "description": "In this episode of Mindset, Mike Schutt talks with theologian, pastor, and author Andy Naselli about the importance of reading to the Christian life. Drawing from his book How to Read a Book, Naselli explains how reading shapes us.\nTogether they explore the connection between reading and spiritual f",
-      "duration": "3334"
-    },
-    {
-      "show": "Girls with Goals",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/56/19/b35619a5-1e6d-c981-53c9-681a7b0d2b86/mza_15752769269932913831.jpg/600x600bb.jpg",
-      "title": "Get Out of a Rut and Back to Yourself",
-      "link": "https://redcircle.com/shows/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c/episodes/b14130ec-be42-4819-9830-a0735de8853f",
-      "audioUrl": "https://audio4.redcircle.com/episodes/b14130ec-be42-4819-9830-a0735de8853f/stream.mp3",
-      "pubDate": "Tue, 23 Jun 2026 21:12:39 +0000",
-      "description": "We all lose our spark sometimes. Whether you’ve been feeling burnt out, unmotivated or lost and need to snap back into your best self, here’s how you can reset and find yourself again.\n\n\nFollow AC on Instagram: @anncatherinconneen\nFollow Caroline on Instagram: @carolineconneen\nFollow AC on Tik Tok: ",
-      "duration": "2226"
     },
     {
       "show": "Algorithm-Proof Productivity: Take Back Control of Your Time and Attention",
@@ -1832,66 +1902,6 @@
       "duration": "330"
     },
     {
-      "show": "Girl, Stand Up | Manifestation + Motivation",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/87/3e/92873e91-a63c-baab-5091-cc1184af4278/mza_447119475628424103.jpg/600x600bb.jpg",
-      "title": "S4 E12: Joy Is The Whole Damn Point",
-      "link": "https://podcasters.spotify.com/pod/show/xcheilatte/episodes/S4-E12-Joy-Is-The-Whole-Damn-Point-e3kksjv",
-      "audioUrl": "https://anchor.fm/s/e3e40de8/podcast/play/121319487/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-5-11%2F38216cdb-79cd-f02f-ddb5-8b8b7705a5c2.mp3",
-      "pubDate": "Thu, 11 Jun 2026 14:45:00 GMT",
-      "description": "Have you been letting life rob you of your joy and spark? This episode dives deeper into the importance of doing things you enjoy, even when life gets crazy.\n\n\nCheck out The Aura Audit HERE.\n\n\nFollow me on IG: @CashmereAura",
-      "duration": "00:16:55"
-    },
-    {
-      "show": "Girls with Goals",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/56/19/b35619a5-1e6d-c981-53c9-681a7b0d2b86/mza_15752769269932913831.jpg/600x600bb.jpg",
-      "title": "How to Navigate Growth, Distance, and New Friendships in Your 20s",
-      "link": "https://redcircle.com/shows/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c/episodes/4d6d7164-eabb-4677-8f77-4c56b8409ded",
-      "audioUrl": "https://audio4.redcircle.com/episodes/4d6d7164-eabb-4677-8f77-4c56b8409ded/stream.mp3",
-      "pubDate": "Tue, 02 Jun 2026 19:54:13 +0000",
-      "description": "(Revisit episode)\nFriendships are hard at any age, but especially in our 20s when everyone goes down different paths.\nIn this episode we chat about our personal experiences with friendships, how the “rules” change in our 20s, and how you can embrace all of it to strengthen your relationships and mak",
-      "duration": "2281"
-    },
-    {
-      "show": "Girl, Stand Up | Manifestation + Motivation",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/87/3e/92873e91-a63c-baab-5091-cc1184af4278/mza_447119475628424103.jpg/600x600bb.jpg",
-      "title": "S4 E11: The Internet Lied About Hustle Culture",
-      "link": "https://podcasters.spotify.com/pod/show/xcheilatte/episodes/S4-E11-The-Internet-Lied-About-Hustle-Culture-e3jvrup",
-      "audioUrl": "https://anchor.fm/s/e3e40de8/podcast/play/120630681/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-4-27%2Fde9149e0-73b5-cf0c-15f1-f38b5ef189d6.mp3",
-      "pubDate": "Thu, 28 May 2026 14:30:00 GMT",
-      "description": "Check out The Aura Audit!",
-      "duration": "00:16:50"
-    },
-    {
-      "show": "Girls with Goals",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/56/19/b35619a5-1e6d-c981-53c9-681a7b0d2b86/mza_15752769269932913831.jpg/600x600bb.jpg",
-      "title": "Your Guide to Making Summer Fun Again in 2026",
-      "link": "https://redcircle.com/shows/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c/episodes/f2315357-3874-4c1b-97dc-709992358909",
-      "audioUrl": "https://audio4.redcircle.com/episodes/f2315357-3874-4c1b-97dc-709992358909/stream.mp3",
-      "pubDate": "Tue, 26 May 2026 16:05:37 +0000",
-      "description": "Is Summer 2026 the new Summer 2016? We’re trying to make it even better and diving into all the ways we can make Summer fun and special again this year.\n\nAdvertising Inquiries: https://redcircle.com/brands\nPrivacy & Opt-Out: https://redcircle.com/privacy",
-      "duration": "2140"
-    },
-    {
-      "show": "Girls with Goals",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/b3/56/19/b35619a5-1e6d-c981-53c9-681a7b0d2b86/mza_15752769269932913831.jpg/600x600bb.jpg",
-      "title": "How to Become the Most Authentic Version of Yourself",
-      "link": "https://redcircle.com/shows/bb86a19b-5f6f-4873-9722-7ddd56cd3c9c/episodes/ec115a78-acd5-4854-b430-63debfcafcd4",
-      "audioUrl": "https://audio4.redcircle.com/episodes/ec115a78-acd5-4854-b430-63debfcafcd4/stream.mp3",
-      "pubDate": "Mon, 18 May 2026 14:45:16 +0000",
-      "description": "Finding confidence in being yourself will change how you experience life <3\n\nAdvertising Inquiries: https://redcircle.com/brands\nPrivacy & Opt-Out: https://redcircle.com/privacy",
-      "duration": "1800"
-    },
-    {
-      "show": "Mindset Neuroscience Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/18/ab/c6/18abc66c-c30b-e520-0f58-1f57199c30b2/mza_452476076326467394.jpg/600x600bb.jpg",
-      "title": "Your Nervous System Isn’t Just Yours.. What Are You Contributing to the Field?",
-      "link": "https://stefaniefaye.com/podcast/youre-teaching-nervous-systems-all-the-time-what-are-you-contributing-to-the-field/",
-      "audioUrl": "https://media.blubrry.com/mindsetneuroscience/content.blubrry.com/mindsetneuroscience/teach_the_nervous_system.MP3",
-      "pubDate": "Tue, 12 May 2026 12:55:45 +0000",
-      "description": "Human nervous systems are constantly teaching each other what to expect from the world. Safety or vigilance. Openness or defensiveness. Curiosity or contraction. And most of that communication happens long before conscious thought catches up. Maybe the deeper question isn’t:...\nREAD MORE\nThe post Yo",
-      "duration": "34:05"
-    },
-    {
       "show": "Mindset Daily",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/91/07/f4/9107f439-29a3-2f41-4962-b495fb219a94/mza_2335382639097907603.jpg/600x600bb.jpg",
       "title": "How To Lose Your Mind And Master Anything",
@@ -1912,16 +1922,6 @@
       "duration": "1259"
     },
     {
-      "show": "Girl, Stand Up | Manifestation + Motivation",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/87/3e/92873e91-a63c-baab-5091-cc1184af4278/mza_447119475628424103.jpg/600x600bb.jpg",
-      "title": "S4 E10: Money Is For The Streets",
-      "link": "https://podcasters.spotify.com/pod/show/xcheilatte/episodes/S4-E10-Money-Is-For-The-Streets-e3im7iq",
-      "audioUrl": "https://anchor.fm/s/e3e40de8/podcast/play/119266330/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-30%2F4efd5e0d-8718-78f7-df8f-e50728634ffc.mp3",
-      "pubDate": "Thu, 30 Apr 2026 12:55:00 GMT",
-      "description": "Check out The Aura Audit for your astrological blueprint to achieve wealth at your max potential.\n\n\nFollow me on IG: @CashmereAura",
-      "duration": "00:23:02"
-    },
-    {
       "show": "Mindful Productivity Podcast",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cc/8e/1c/cc8e1c37-a726-d621-d032-2f742ee285b8/mza_14439241700796504091.jpg/600x600bb.jpg",
       "title": "Skills Over Trends: The Mindset Shift for Sustainable Goals & Projects",
@@ -1930,16 +1930,6 @@
       "pubDate": "Mon, 20 Apr 2026 02:00:00 -0700",
       "description": "In this episode, we explore a critical mindset shift that transforms how you set and reach goals in both life and business. Moving away from a \"reactive cycle,\" we discuss how to transition from chasing fleeting trends and software updates to building a foundation of core competencies and critical t",
       "duration": "1270"
-    },
-    {
-      "show": "Girl, Stand Up | Manifestation + Motivation",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/87/3e/92873e91-a63c-baab-5091-cc1184af4278/mza_447119475628424103.jpg/600x600bb.jpg",
-      "title": "S4 E9: The Power of “No”",
-      "link": "https://podcasters.spotify.com/pod/show/xcheilatte/episodes/S4-E9-The-Power-of-No-e3i0me9",
-      "audioUrl": "https://anchor.fm/s/e3e40de8/podcast/play/118560649/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-3-16%2Fae308448-0080-1663-b984-033846424f37.mp3",
-      "pubDate": "Thu, 16 Apr 2026 16:17:21 GMT",
-      "description": "Are you subconsciously saying yes to things that don’t serve you? Let’s take a look at what it means to say no in business and why it’s imperative to your growth.\n\n\nReady for the identity integration? Check out Divine Aura Société.\n\n\nFollow me on Instagram! @CashmereAura",
-      "duration": "00:25:05"
     },
     {
       "show": "The Productive Woman",
@@ -1982,16 +1972,6 @@
       "duration": "24:00"
     },
     {
-      "show": "Girl, Stand Up | Manifestation + Motivation",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/92/87/3e/92873e91-a63c-baab-5091-cc1184af4278/mza_447119475628424103.jpg/600x600bb.jpg",
-      "title": "S4 E8: This Is Your Sign To Raise Your Price",
-      "link": "https://podcasters.spotify.com/pod/show/xcheilatte/episodes/S4-E8-This-Is-Your-Sign-To-Raise-Your-Price-e3h6ei3",
-      "audioUrl": "https://anchor.fm/s/e3e40de8/podcast/play/117700611/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-30%2Fa21ce9cd-8a79-09be-8b3b-e91785f0d0c4.mp3",
-      "pubDate": "Thu, 02 Apr 2026 14:30:00 GMT",
-      "description": "Since you needed permission to do that “ballsy” thing you should’ve done six months ago, here it is. Here’s what we’ll cover:\n\n​Why women wait for external validation before raising their prices\n​The identity behind underpricing\n​The real reason clients push back on prices\n​How to raise your price i",
-      "duration": "00:18:49"
-    },
-    {
       "show": "Mindful Productivity Podcast",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/cc/8e/1c/cc8e1c37-a726-d621-d032-2f742ee285b8/mza_14439241700796504091.jpg/600x600bb.jpg",
       "title": "I Finally Deleted Social Media: Here’s What Happened to My Business (and My Brain)",
@@ -2000,6 +1980,26 @@
       "pubDate": "Sat, 28 Mar 2026 02:00:00 -0700",
       "description": "I finally did something I’ve been wanting to do for years: I burned it all to the ground and I deleted everything. In this episode, I’m sharing what finally led me to delete not only my personal social media accounts but all of my business ones as well. I’m flying solo now without the use of social ",
       "duration": "2776"
+    },
+    {
+      "show": "The Productive Woman",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts125/v4/55/e0/f8/55e0f8db-5d08-a047-a6e2-33ff974bce31/mza_16884935983520916078.jpeg/600x600bb.jpg",
+      "title": "Values-Based Planning: Heart Before Calendar – TPW514",
+      "link": "https://theproductivewoman.com/values-based-planning-heart-before-calendar-tpw514/",
+      "audioUrl": "https://media.blubrry.com/theproductivewoman/pdst.fm/e/mgln.ai/e/p1770/arttrk.com/p/TPWL1/pscrb.fm/rss/p/traffic.libsyn.com/secure/theproductivewoman/TPW514_2026.03.25.mp3",
+      "pubDate": "Wed, 25 Mar 2026 06:58:41 +0000",
+      "description": "A full calendar doesn’t always mean a meaningful life. This week we explore values-based planning — a thoughtful approach to organizing your time around what matters most, so your schedule reflects your priorities and your life moves in the direction you truly care about.",
+      "duration": "32:59"
+    },
+    {
+      "show": "It's The ADHD-Friendly Show | Personal Growth, Well-being and Productivity for Distractible Minds",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/df/0c/d5/df0cd5da-3d2f-0e7e-d5ac-2230af0766e6/mza_1717802370107291850.jpg/600x600bb.jpg",
+      "title": "Stop trying to find your purpose and do this instead",
+      "link": "https://podcasters.spotify.com/pod/show/caren-magill0/episodes/Stop-trying-to-find-your-purpose-and-do-this-instead-e3gn882",
+      "audioUrl": "https://anchor.fm/s/100038aa8/podcast/play/117202626/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-2-19%2F420397394-44100-2-bdce06b913a9a.m4a",
+      "pubDate": "Fri, 20 Mar 2026 06:02:00 GMT",
+      "description": "If you've been chasing a life purpose your whole life and keep coming up empty, this video is for you.I used to be convinced that purpose was something out there waiting to be discovered. So convinced, I quit my job, lost my work visa, packed everything up, and moved to India for three months to stu",
+      "duration": "00:11:11"
     }
   ]
 }
