@@ -1,79 +1,44 @@
 {
-  "updatedAt": "2026-11-18T16:14:29.800Z",
+  "updatedAt": "2026-11-19T16:22:40.976Z",
   "videos": [
     {
-      "videoId": "1oIzVB5Ues4",
-      "title": "OpenAI’s New AI Just Crossed the Self-Improvement Threshold…",
-      "channelTitle": "AI Copium",
-      "channelId": "UCOFl0wDeBMSBbK3jNJQHHFg",
-      "publishedAt": "2026-11-18T15:30:20Z",
-      "description": "OpenAI says GPT-6.2 Astra is its first publicly released model to hit “High” in AI self-improvement. I break down what Astra actually ...",
-      "thumbnail": "https://i.ytimg.com/vi/1oIzVB5Ues4/hqdefault.jpg",
+      "videoId": "dsoEk1DkiXo",
+      "title": "कम समय में ज्यादा काम कैसे करें? | Feel Good Productivity Book Summary in Hindi | Ali Abdaal",
+      "channelTitle": "Book Insight",
+      "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
+      "publishedAt": "2026-11-19T13:23:18Z",
+      "description": "क्या आप दिनभर काम करने के बाद भी अपने जरूरी काम पूरे नहीं कर पाते?",
+      "thumbnail": "https://i.ytimg.com/vi/dsoEk1DkiXo/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 562,
-      "viewCount": 1287,
-      "viewCountDisplay": "1.3K",
-      "subscriberCountDisplay": "36.0K"
-    },
-    {
-      "videoId": "K3gj_-eAIa0",
-      "title": "Goal Setting 2027 | Simple Ways to Achieve Any Target in Life | Yasin Shakir",
-      "channelTitle": "Yasin Shakir",
-      "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
-      "publishedAt": "2026-11-18T13:00:08Z",
-      "description": "goalsetting2027 #goalsetting #goalsetter #goalachievers #goalachievement #goalachieved #goalplanning #lifeplanning ...",
-      "thumbnail": "https://i.ytimg.com/vi/K3gj_-eAIa0/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 245,
-      "viewCount": 59,
-      "viewCountDisplay": "59",
-      "subscriberCountDisplay": "53.1K"
+      "durationSeconds": 1939,
+      "viewCount": 6,
+      "viewCountDisplay": "6",
+      "subscriberCountDisplay": "79.4K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "1oIzVB5Ues4",
-        "title": "OpenAI’s New AI Just Crossed the Self-Improvement Threshold…",
-        "channelTitle": "AI Copium",
-        "channelId": "UCOFl0wDeBMSBbK3jNJQHHFg",
-        "publishedAt": "2026-11-18T15:30:20Z",
-        "description": "OpenAI says GPT-6.2 Astra is its first publicly released model to hit “High” in AI self-improvement. I break down what Astra actually ...",
-        "thumbnail": "https://i.ytimg.com/vi/1oIzVB5Ues4/hqdefault.jpg",
+        "videoId": "dsoEk1DkiXo",
+        "title": "कम समय में ज्यादा काम कैसे करें? | Feel Good Productivity Book Summary in Hindi | Ali Abdaal",
+        "channelTitle": "Book Insight",
+        "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
+        "publishedAt": "2026-11-19T13:23:18Z",
+        "description": "क्या आप दिनभर काम करने के बाद भी अपने जरूरी काम पूरे नहीं कर पाते?",
+        "thumbnail": "https://i.ytimg.com/vi/dsoEk1DkiXo/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 562,
-        "viewCount": 1287,
-        "viewCountDisplay": "1.3K",
-        "subscriberCountDisplay": "36.0K"
-      },
-      {
-        "videoId": "K3gj_-eAIa0",
-        "title": "Goal Setting 2027 | Simple Ways to Achieve Any Target in Life | Yasin Shakir",
-        "channelTitle": "Yasin Shakir",
-        "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
-        "publishedAt": "2026-11-18T13:00:08Z",
-        "description": "goalsetting2027 #goalsetting #goalsetter #goalachievers #goalachievement #goalachieved #goalplanning #lifeplanning ...",
-        "thumbnail": "https://i.ytimg.com/vi/K3gj_-eAIa0/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 245,
-        "viewCount": 59,
-        "viewCountDisplay": "59",
-        "subscriberCountDisplay": "53.1K"
+        "durationSeconds": 1939,
+        "viewCount": 6,
+        "viewCountDisplay": "6",
+        "subscriberCountDisplay": "79.4K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UC4FKbUEhZGU8469P_N-aC3Q",
-        "channelTitle": "Yasin Shakir",
-        "subscriberCount": 53100,
-        "subscriberCountDisplay": "53.1K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UCOFl0wDeBMSBbK3jNJQHHFg",
-        "channelTitle": "AI Copium",
-        "subscriberCount": 36000,
-        "subscriberCountDisplay": "36.0K",
+        "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
+        "channelTitle": "Book Insight",
+        "subscriberCount": 79400,
+        "subscriberCountDisplay": "79.4K",
         "videosInFeed": 1
       }
     ]
