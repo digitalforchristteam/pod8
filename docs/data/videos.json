@@ -1,44 +1,149 @@
 {
-  "updatedAt": "2026-11-19T16:22:40.976Z",
+  "updatedAt": "2026-11-20T15:56:12.001Z",
   "videos": [
     {
-      "videoId": "dsoEk1DkiXo",
-      "title": "कम समय में ज्यादा काम कैसे करें? | Feel Good Productivity Book Summary in Hindi | Ali Abdaal",
-      "channelTitle": "Book Insight",
-      "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
-      "publishedAt": "2026-11-19T13:23:18Z",
-      "description": "क्या आप दिनभर काम करने के बाद भी अपने जरूरी काम पूरे नहीं कर पाते?",
-      "thumbnail": "https://i.ytimg.com/vi/dsoEk1DkiXo/hqdefault.jpg",
+      "videoId": "6neBRz8DusY",
+      "title": "Atomic Habits Explained in Bangla | Life-Changing Habit Building Lessons | Audiobook | Book Summary",
+      "channelTitle": "Chapter by Chapter",
+      "channelId": "UC9_at1Uem9cQzxFpSKlPHxg",
+      "publishedAt": "2026-11-20T15:19:03Z",
+      "description": "Atomic Habits Explained in Bangla | Life-Changing Habit Building Lessons | Book Summary আপনি কি নিজের জীবন ...",
+      "thumbnail": "https://i.ytimg.com/vi/6neBRz8DusY/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 1939,
-      "viewCount": 6,
-      "viewCountDisplay": "6",
-      "subscriberCountDisplay": "79.4K"
+      "durationSeconds": 2444,
+      "viewCount": 1,
+      "viewCountDisplay": "1",
+      "subscriberCountDisplay": "1.7K"
+    },
+    {
+      "videoId": "HSpKsu1ph4U",
+      "title": "Goal setting | Physical Education Year 10 (ACARA)",
+      "channelTitle": "NotePlus",
+      "channelId": "UCYtef7OlFqbdX5tRr5TWPlA",
+      "publishedAt": "2026-11-20T15:11:38Z",
+      "description": "I want to get fitter. Almost everyone says it. Almost nobody gets there. The difference isn't talent. It's how the goal is written. Today: ...",
+      "thumbnail": "https://i.ytimg.com/vi/HSpKsu1ph4U/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 339,
+      "viewCount": 0,
+      "viewCountDisplay": "0",
+      "subscriberCountDisplay": "35.5K"
+    },
+    {
+      "videoId": "hiqxPTa6FVU",
+      "title": "I Did Focused Goal Setting!",
+      "channelTitle": "Mogobe Nuggets Of Wisdom Podcast",
+      "channelId": "UCf1kwp7RLPgKm4aFRrTLmDQ",
+      "publishedAt": "2026-11-20T15:00:33Z",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/hiqxPTa6FVU/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 104,
+      "viewCount": 12,
+      "viewCountDisplay": "12",
+      "subscriberCountDisplay": "27.0K"
+    },
+    {
+      "videoId": "uf5unsJQM7I",
+      "title": "Simple productivity tips for when you feel stuck in a rut (to feel encouraged and motivated again)",
+      "channelTitle": "Prayer & Productivity with a Catholic Mom",
+      "channelId": "UCzRASpSb7vA4RrxWK7pEi4g",
+      "publishedAt": "2026-11-20T14:00:08Z",
+      "description": "We all have times when we feel like we can't get the momentum going, like just after a big change in our routine (traveling, family ...",
+      "thumbnail": "https://i.ytimg.com/vi/uf5unsJQM7I/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 576,
+      "viewCount": 12,
+      "viewCountDisplay": "12",
+      "subscriberCountDisplay": "5.9K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "dsoEk1DkiXo",
-        "title": "कम समय में ज्यादा काम कैसे करें? | Feel Good Productivity Book Summary in Hindi | Ali Abdaal",
-        "channelTitle": "Book Insight",
-        "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
-        "publishedAt": "2026-11-19T13:23:18Z",
-        "description": "क्या आप दिनभर काम करने के बाद भी अपने जरूरी काम पूरे नहीं कर पाते?",
-        "thumbnail": "https://i.ytimg.com/vi/dsoEk1DkiXo/hqdefault.jpg",
+        "videoId": "hiqxPTa6FVU",
+        "title": "I Did Focused Goal Setting!",
+        "channelTitle": "Mogobe Nuggets Of Wisdom Podcast",
+        "channelId": "UCf1kwp7RLPgKm4aFRrTLmDQ",
+        "publishedAt": "2026-11-20T15:00:33Z",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/hiqxPTa6FVU/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 1939,
-        "viewCount": 6,
-        "viewCountDisplay": "6",
-        "subscriberCountDisplay": "79.4K"
+        "durationSeconds": 104,
+        "viewCount": 12,
+        "viewCountDisplay": "12",
+        "subscriberCountDisplay": "27.0K"
+      },
+      {
+        "videoId": "uf5unsJQM7I",
+        "title": "Simple productivity tips for when you feel stuck in a rut (to feel encouraged and motivated again)",
+        "channelTitle": "Prayer & Productivity with a Catholic Mom",
+        "channelId": "UCzRASpSb7vA4RrxWK7pEi4g",
+        "publishedAt": "2026-11-20T14:00:08Z",
+        "description": "We all have times when we feel like we can't get the momentum going, like just after a big change in our routine (traveling, family ...",
+        "thumbnail": "https://i.ytimg.com/vi/uf5unsJQM7I/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 576,
+        "viewCount": 12,
+        "viewCountDisplay": "12",
+        "subscriberCountDisplay": "5.9K"
+      },
+      {
+        "videoId": "6neBRz8DusY",
+        "title": "Atomic Habits Explained in Bangla | Life-Changing Habit Building Lessons | Audiobook | Book Summary",
+        "channelTitle": "Chapter by Chapter",
+        "channelId": "UC9_at1Uem9cQzxFpSKlPHxg",
+        "publishedAt": "2026-11-20T15:19:03Z",
+        "description": "Atomic Habits Explained in Bangla | Life-Changing Habit Building Lessons | Book Summary আপনি কি নিজের জীবন ...",
+        "thumbnail": "https://i.ytimg.com/vi/6neBRz8DusY/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 2444,
+        "viewCount": 1,
+        "viewCountDisplay": "1",
+        "subscriberCountDisplay": "1.7K"
+      },
+      {
+        "videoId": "HSpKsu1ph4U",
+        "title": "Goal setting | Physical Education Year 10 (ACARA)",
+        "channelTitle": "NotePlus",
+        "channelId": "UCYtef7OlFqbdX5tRr5TWPlA",
+        "publishedAt": "2026-11-20T15:11:38Z",
+        "description": "I want to get fitter. Almost everyone says it. Almost nobody gets there. The difference isn't talent. It's how the goal is written. Today: ...",
+        "thumbnail": "https://i.ytimg.com/vi/HSpKsu1ph4U/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 339,
+        "viewCount": 0,
+        "viewCountDisplay": "0",
+        "subscriberCountDisplay": "35.5K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UCgi1JRg0XIJbivNug9mCoZw",
-        "channelTitle": "Book Insight",
-        "subscriberCount": 79400,
-        "subscriberCountDisplay": "79.4K",
+        "channelId": "UCYtef7OlFqbdX5tRr5TWPlA",
+        "channelTitle": "NotePlus",
+        "subscriberCount": 35500,
+        "subscriberCountDisplay": "35.5K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UCf1kwp7RLPgKm4aFRrTLmDQ",
+        "channelTitle": "Mogobe Nuggets Of Wisdom Podcast",
+        "subscriberCount": 27000,
+        "subscriberCountDisplay": "27.0K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UCzRASpSb7vA4RrxWK7pEi4g",
+        "channelTitle": "Prayer & Productivity with a Catholic Mom",
+        "subscriberCount": 5870,
+        "subscriberCountDisplay": "5.9K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UC9_at1Uem9cQzxFpSKlPHxg",
+        "channelTitle": "Chapter by Chapter",
+        "subscriberCount": 1680,
+        "subscriberCountDisplay": "1.7K",
         "videosInFeed": 1
       }
     ]
