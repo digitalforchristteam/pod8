@@ -1,79 +1,44 @@
 {
-  "updatedAt": "2026-11-21T15:07:39.968Z",
+  "updatedAt": "2026-11-22T15:05:10.746Z",
   "videos": [
     {
-      "videoId": "-9RqX-XGf3E",
-      "title": "SPEND A DAY OF TRAINING WITH ME: Throwing, Warm Up, Goal Setting, Rehab ",
-      "channelTitle": "Eric Favors",
-      "channelId": "UCe-4aqYlxDqNnusFh7fEH2w",
-      "publishedAt": "2026-11-21T14:56:57Z",
+      "videoId": "ADcv3uieNL8",
+      "title": "Desenvolvimento",
+      "channelTitle": "Thiago | Seu Professor ",
+      "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
+      "publishedAt": "2026-11-22T14:17:09Z",
       "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/-9RqX-XGf3E/hqdefault.jpg",
+      "thumbnail": "https://i.ytimg.com/vi/ADcv3uieNL8/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 749,
-      "viewCount": 4,
-      "viewCountDisplay": "4",
-      "subscriberCountDisplay": "14.7K"
-    },
-    {
-      "videoId": "WBTmA8mYj0s",
-      "title": "5 coisas que você precisa fazer sozinha…",
-      "channelTitle": "Pris Passamani",
-      "channelId": "UCMbZvDjQDzYMCFNoupZVIGA",
-      "publishedAt": "2026-11-21T13:00:38Z",
-      "description": "Nem tudo que parece certo realmente é. E nem tudo que você acredita veio de você. Aqui, a gente reage, questiona e ...",
-      "thumbnail": "https://i.ytimg.com/vi/WBTmA8mYj0s/hqdefault.jpg",
-      "liveBroadcastContent": "none",
-      "durationSeconds": 103,
-      "viewCount": 1319,
-      "viewCountDisplay": "1.3K",
-      "subscriberCountDisplay": "204.0K"
+      "durationSeconds": 167,
+      "viewCount": 0,
+      "viewCountDisplay": "0",
+      "subscriberCountDisplay": "3.8K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "WBTmA8mYj0s",
-        "title": "5 coisas que você precisa fazer sozinha…",
-        "channelTitle": "Pris Passamani",
-        "channelId": "UCMbZvDjQDzYMCFNoupZVIGA",
-        "publishedAt": "2026-11-21T13:00:38Z",
-        "description": "Nem tudo que parece certo realmente é. E nem tudo que você acredita veio de você. Aqui, a gente reage, questiona e ...",
-        "thumbnail": "https://i.ytimg.com/vi/WBTmA8mYj0s/hqdefault.jpg",
-        "liveBroadcastContent": "none",
-        "durationSeconds": 103,
-        "viewCount": 1319,
-        "viewCountDisplay": "1.3K",
-        "subscriberCountDisplay": "204.0K"
-      },
-      {
-        "videoId": "-9RqX-XGf3E",
-        "title": "SPEND A DAY OF TRAINING WITH ME: Throwing, Warm Up, Goal Setting, Rehab ",
-        "channelTitle": "Eric Favors",
-        "channelId": "UCe-4aqYlxDqNnusFh7fEH2w",
-        "publishedAt": "2026-11-21T14:56:57Z",
+        "videoId": "ADcv3uieNL8",
+        "title": "Desenvolvimento",
+        "channelTitle": "Thiago | Seu Professor ",
+        "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
+        "publishedAt": "2026-11-22T14:17:09Z",
         "description": "",
-        "thumbnail": "https://i.ytimg.com/vi/-9RqX-XGf3E/hqdefault.jpg",
+        "thumbnail": "https://i.ytimg.com/vi/ADcv3uieNL8/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 749,
-        "viewCount": 4,
-        "viewCountDisplay": "4",
-        "subscriberCountDisplay": "14.7K"
+        "durationSeconds": 167,
+        "viewCount": 0,
+        "viewCountDisplay": "0",
+        "subscriberCountDisplay": "3.8K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UCMbZvDjQDzYMCFNoupZVIGA",
-        "channelTitle": "Pris Passamani",
-        "subscriberCount": 204000,
-        "subscriberCountDisplay": "204.0K",
-        "videosInFeed": 1
-      },
-      {
-        "channelId": "UCe-4aqYlxDqNnusFh7fEH2w",
-        "channelTitle": "Eric Favors",
-        "subscriberCount": 14700,
-        "subscriberCountDisplay": "14.7K",
+        "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
+        "channelTitle": "Thiago | Seu Professor ",
+        "subscriberCount": 3780,
+        "subscriberCountDisplay": "3.8K",
         "videosInFeed": 1
       }
     ]
