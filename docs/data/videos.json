@@ -1,44 +1,114 @@
 {
-  "updatedAt": "2026-11-22T15:05:10.746Z",
+  "updatedAt": "2026-11-23T19:00:18.395Z",
   "videos": [
     {
-      "videoId": "ADcv3uieNL8",
-      "title": "Desenvolvimento",
-      "channelTitle": "Thiago | Seu Professor ",
-      "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
-      "publishedAt": "2026-11-22T14:17:09Z",
-      "description": "",
-      "thumbnail": "https://i.ytimg.com/vi/ADcv3uieNL8/hqdefault.jpg",
+      "videoId": "REd9u6ft3l4",
+      "title": "#mindset #routinematinale #confiance #discipline #developpementpersonnel",
+      "channelTitle": "Sixtine de Beauregard",
+      "channelId": "UCsvmaZRsYihx8xLaEts7YpQ",
+      "publishedAt": "2026-11-23T17:35:43Z",
+      "description": "Ne commencez jamais votre matinée sans vous dire ces 5 choses. Gagnez votre matinée, et vous changerez votre vie.",
+      "thumbnail": "https://i.ytimg.com/vi/REd9u6ft3l4/hqdefault.jpg",
       "liveBroadcastContent": "none",
-      "durationSeconds": 167,
-      "viewCount": 0,
-      "viewCountDisplay": "0",
-      "subscriberCountDisplay": "3.8K"
+      "durationSeconds": 99,
+      "viewCount": 724,
+      "viewCountDisplay": "724",
+      "subscriberCountDisplay": "4.8K"
+    },
+    {
+      "videoId": "qG_ubILRzS4",
+      "title": "How Men Can Level Up in 2027 | Faith, Discipline &amp; Personal Growth",
+      "channelTitle": "Boy Man King Podcast",
+      "channelId": "UCmEWeI0kD_TIbvL3fGV1PbQ",
+      "publishedAt": "2026-11-23T17:00:09Z",
+      "description": "Are you ready to become a better version of yourself in 2027? GET UPDATES FOR LOCAL EVENTS, CONFERENCES AND ...",
+      "thumbnail": "https://i.ytimg.com/vi/qG_ubILRzS4/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 1558,
+      "viewCount": 2,
+      "viewCountDisplay": "2",
+      "subscriberCountDisplay": "2.7K"
+    },
+    {
+      "videoId": "EdB_UZgRgqs",
+      "title": "Mission Monday! #moneymindset #missionpossible #goalsetting",
+      "channelTitle": "Elle_ JustLiving",
+      "channelId": "UCN_VkE8rQ74Hj5C9Ez7CBlg",
+      "publishedAt": "2026-11-23T14:00:14Z",
+      "description": "",
+      "thumbnail": "https://i.ytimg.com/vi/EdB_UZgRgqs/hqdefault.jpg",
+      "liveBroadcastContent": "none",
+      "durationSeconds": 179,
+      "viewCount": 23,
+      "viewCountDisplay": "23",
+      "subscriberCountDisplay": "4.5K"
     }
   ],
   "trending": {
     "topViewed": [
       {
-        "videoId": "ADcv3uieNL8",
-        "title": "Desenvolvimento",
-        "channelTitle": "Thiago | Seu Professor ",
-        "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
-        "publishedAt": "2026-11-22T14:17:09Z",
-        "description": "",
-        "thumbnail": "https://i.ytimg.com/vi/ADcv3uieNL8/hqdefault.jpg",
+        "videoId": "REd9u6ft3l4",
+        "title": "#mindset #routinematinale #confiance #discipline #developpementpersonnel",
+        "channelTitle": "Sixtine de Beauregard",
+        "channelId": "UCsvmaZRsYihx8xLaEts7YpQ",
+        "publishedAt": "2026-11-23T17:35:43Z",
+        "description": "Ne commencez jamais votre matinée sans vous dire ces 5 choses. Gagnez votre matinée, et vous changerez votre vie.",
+        "thumbnail": "https://i.ytimg.com/vi/REd9u6ft3l4/hqdefault.jpg",
         "liveBroadcastContent": "none",
-        "durationSeconds": 167,
-        "viewCount": 0,
-        "viewCountDisplay": "0",
-        "subscriberCountDisplay": "3.8K"
+        "durationSeconds": 99,
+        "viewCount": 724,
+        "viewCountDisplay": "724",
+        "subscriberCountDisplay": "4.8K"
+      },
+      {
+        "videoId": "EdB_UZgRgqs",
+        "title": "Mission Monday! #moneymindset #missionpossible #goalsetting",
+        "channelTitle": "Elle_ JustLiving",
+        "channelId": "UCN_VkE8rQ74Hj5C9Ez7CBlg",
+        "publishedAt": "2026-11-23T14:00:14Z",
+        "description": "",
+        "thumbnail": "https://i.ytimg.com/vi/EdB_UZgRgqs/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 179,
+        "viewCount": 23,
+        "viewCountDisplay": "23",
+        "subscriberCountDisplay": "4.5K"
+      },
+      {
+        "videoId": "qG_ubILRzS4",
+        "title": "How Men Can Level Up in 2027 | Faith, Discipline &amp; Personal Growth",
+        "channelTitle": "Boy Man King Podcast",
+        "channelId": "UCmEWeI0kD_TIbvL3fGV1PbQ",
+        "publishedAt": "2026-11-23T17:00:09Z",
+        "description": "Are you ready to become a better version of yourself in 2027? GET UPDATES FOR LOCAL EVENTS, CONFERENCES AND ...",
+        "thumbnail": "https://i.ytimg.com/vi/qG_ubILRzS4/hqdefault.jpg",
+        "liveBroadcastContent": "none",
+        "durationSeconds": 1558,
+        "viewCount": 2,
+        "viewCountDisplay": "2",
+        "subscriberCountDisplay": "2.7K"
       }
     ],
     "topChannels": [
       {
-        "channelId": "UCiwGZM-aye8lKZadt-0bOJA",
-        "channelTitle": "Thiago | Seu Professor ",
-        "subscriberCount": 3780,
-        "subscriberCountDisplay": "3.8K",
+        "channelId": "UCsvmaZRsYihx8xLaEts7YpQ",
+        "channelTitle": "Sixtine de Beauregard",
+        "subscriberCount": 4790,
+        "subscriberCountDisplay": "4.8K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UCN_VkE8rQ74Hj5C9Ez7CBlg",
+        "channelTitle": "Elle_ JustLiving",
+        "subscriberCount": 4480,
+        "subscriberCountDisplay": "4.5K",
+        "videosInFeed": 1
+      },
+      {
+        "channelId": "UCmEWeI0kD_TIbvL3fGV1PbQ",
+        "channelTitle": "Boy Man King Podcast",
+        "subscriberCount": 2720,
+        "subscriberCountDisplay": "2.7K",
         "videosInFeed": 1
       }
     ]
