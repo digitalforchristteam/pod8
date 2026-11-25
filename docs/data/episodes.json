@@ -1,6 +1,66 @@
 {
-  "updatedAt": "2026-11-24T16:59:48.156Z",
+  "updatedAt": "2026-11-25T16:50:08.710Z",
   "episodes": [
+    {
+      "show": "The Productivity Show",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
+      "title": "Two Types of Procrastination, Two Different Fixes",
+      "link": "https://www.asianefficiency.com/podcasts/640w-two-types-procrastination-different-fixes/",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/640w_Two_Procrastinations.mp3",
+      "pubDate": "Wed, 25 Nov 2026 12:00:00 +0000",
+      "description": "Not all procrastination is the same. Learn how to tell whether you are avoiding a known task or delaying a decision, then apply the right fix: create a small, urgent starting point for task procrastination or use a clear decision rule to unblock everything downstream. Visit Upwork.com right now and ",
+      "duration": "8:55"
+    },
+    {
+      "show": "The Science of Self | Personal Development Podcast",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
+      "title": "Why Motivation Follows Action (Not the Other Way Around)",
+      "link": "https://self-growth.captivate.fm/episode/why-motivation-follows-action-not-the-other-way-around",
+      "audioUrl": "https://episodes.captivate.fm/episode/0b46405d-8fec-4bd7-b45c-87cd51cbd918.mp3",
+      "pubDate": "Wed, 25 Nov 2026 04:00:00 -0500",
+      "description": "Why willpower fails and how to actually get motivated without relying on it. Small, manageable steps reduce the activation energy needed for action—letting you keep motivated and build momentum without the crash. Learn how behavioral activation transforms how you approach goals and helps you find mo",
+      "duration": "56:20"
+    },
+    {
+      "show": "Self Improvement Daily",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d0/5c/3e/d05c3e9c-e9a2-69fc-fe68-c3a5f82a71b5/mza_2923601034777639366.jpg/600x600bb.jpg",
+      "title": "Environmental Design Around A Big, Bold Action",
+      "link": "https://podcasters.spotify.com/pod/show/self-improvement-daily/episodes/Environmental-Design-Around-A-Big--Bold-Action-e3t01ri",
+      "audioUrl": "https://anchor.fm/s/471bee4/podcast/play/130073906/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-25%2F437580956-44100-2-3136ced6f1c6e.m4a",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 GMT",
+      "description": "You're capable of pretty extraordinary things when you design your environment to support you in doing it.\nWas this helpful? If so then you need to check out the 7 Fundamentals Of Self Improvement which features short summaries of the most popular and impactful episodes from the past 8 years.\nTakes ",
+      "duration": "00:03:45"
+    },
+    {
+      "show": "The Mindset Mentor",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
+      "title": "Rewire Your Brain: All You Need to Know",
+      "link": "https://www.siriusxm.com",
+      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/ebae6374-682c-434f-96aa-e2f1b9bc9c7d/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=ebae6374-682c-434f-96aa-e2f1b9bc9c7d&feed=rpKQEwel",
+      "pubDate": "Wed, 25 Nov 2026 08:00:00 +0000",
+      "description": "How can you rewire your brain to break old habits, overcome limiting beliefs, and become the person you want to be? \n\nIn this episode, I walk you through the five steps to change your brain through focused repetition, embracing discomfort, rewarding progress, and building new neural pathways that re",
+      "duration": "00:19:33"
+    },
+    {
+      "show": "Habits on Purpose",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
+      "title": "251. The Truth About Habits & How You Feel",
+      "link": "https://habitsonpurpose.com/92",
+      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP251_v2.mp3?dest-id=3277715",
+      "pubDate": "Wed, 25 Nov 2026 06:00:00 +0000",
+      "description": "How do you want to feel? One of the central tenets of this podcast is that your experience of life is shaped by your beliefs. As a result, how you show up and experience life is more malleable than you might think. So, if you're ready to start intentionally enjoying your life the way you want to, yo",
+      "duration": "16:40"
+    },
+    {
+      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
+      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
+      "title": "#731: Being New at Something When You Don't Feel Confident About It Yet",
+      "link": "https://fromtheinsideout.libsyn.com/731-being-new-at-something-when-you-dont-feel-confident-about-it-yet",
+      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/731__Being_New_at_Something_When_You_Dont_Feel_Confident_About_It_Yet.mp3?dest-id=105943",
+      "pubDate": "Tue, 24 Nov 2026 20:41:55 +0000",
+      "description": "What have you been putting off until you feel more confident? Maybe it's speaking up in a meeting, sharing your work, or walking into a room where you'll be the beginner. In this episode, I share what starting adult hockey taught me about doing something before I felt ready. You'll learn how to name",
+      "duration": "30:09"
+    },
     {
       "show": "The One You Feed | Personal Growth, Emotional Resilience & Purpose",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/13/6d/e4/136de456-d980-e88e-b2cb-faef0407cb05/mza_13944990805231430349.jpeg/600x600bb.jpg",
@@ -642,16 +702,6 @@
       "duration": "22:08"
     },
     {
-      "show": "The Mindset Mentor",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/c5/3f/5a/c53f5af0-c80f-33d2-d6d9-4b06ce6ef201/mza_13907836517287185196.jpg/600x600bb.jpg",
-      "title": "How to Become the Best Version of Yourself",
-      "link": "https://www.siriusxm.com",
-      "audioUrl": "https://stitcher.simplecastaudio.com/9299aa39-5f7c-4acf-bc53-4fd18b421982/episodes/671d50d2-8be3-459d-9a66-54963ac9d3cc/audio/128/default.mp3?aid=rss_feed&awCollectionId=9299aa39-5f7c-4acf-bc53-4fd18b421982&awEpisodeId=671d50d2-8be3-459d-9a66-54963ac9d3cc&feed=rpKQEwel",
-      "pubDate": "Mon, 16 Nov 2026 08:00:00 +0000",
-      "description": "What if the life you want isn't about changing your circumstances, but about changing who you are? \n\nIn this episode, I walk you through a powerful exercise to visualize your ideal life ten years from now, identify the person you need to become, and use the Stop, Start, Continue method to close the ",
-      "duration": "00:16:33"
-    },
-    {
       "show": "I'm Busy Being Awesome - Sustainable Productivity for ADHD",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/8b/12/75/8b12756b-1bcd-447b-4b5b-51a4fe2b5310/mza_17104069565017579394.jpg/600x600bb.jpg",
       "title": "381: Why It's Hard To Feel Successful With ADHD",
@@ -1032,16 +1082,6 @@
       "duration": "46:16"
     },
     {
-      "show": "The Productivity Show",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/c6/e9/e1/c6e9e14e-1b51-6e5d-cbe9-8542c52f9cd6/mza_14048892109516789631.jpg/600x600bb.jpg",
-      "title": "Task Procrastination vs. Decision Procrastination: You Need Different Fixes (TPS638)",
-      "link": "https://www.asianefficiency.com/podcasts/638-task-procrastination-vs-decision-procrastination/",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/pscrb.fm/rss/p/clrtpod.com/m/traffic.libsyn.com/productivityshow/638_Procrastination_Fixes.mp3",
-      "pubDate": "Mon, 09 Nov 2026 12:00:00 +0000",
-      "description": "Most procrastination advice treats every delay as the same problem. In this episode, we separate task procrastination, when you know what to do but cannot start, from decision procrastination, when you cannot choose a path and everything downstream stalls. You will learn a quick diagnostic, targeted",
-      "duration": "45:44"
-    },
-    {
       "show": "The Cal Newport Show",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts221/v4/7b/40/d0/7b40d08d-25a5-6536-709e-6ca0990555e5/mza_13561261366512591116.jpg/600x600bb.jpg",
       "title": "Can We Escape Our Internet Hell?",
@@ -1220,16 +1260,6 @@
       "pubDate": "Tue, 03 Nov 2026 05:00:00 -0500",
       "description": "Have you been feeling a little lost or disconnected from yourself, even when you know where you want to go?\nMaybe you’ve stepped back to heal, gotten caught up in life, or found yourself waiting for the perfect plan before beginning again.\nHow do you return to something you care about when time has ",
       "duration": "1045"
-    },
-    {
-      "show": "Self Improvement Daily",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts115/v4/d0/5c/3e/d05c3e9c-e9a2-69fc-fe68-c3a5f82a71b5/mza_2923601034777639366.jpg/600x600bb.jpg",
-      "title": "The Best Way To Suffer",
-      "link": "https://podcasters.spotify.com/pod/show/self-improvement-daily/episodes/The-Best-Way-To-Suffer-e3rktl4",
-      "audioUrl": "https://anchor.fm/s/471bee4/podcast/play/128660580/https%3A%2F%2Fd3ctxlq1ktw2nl.cloudfront.net%2Fstaging%2F2026-10-3%2F435725496-44100-2-c54eff1b349f5.m4a",
-      "pubDate": "Tue, 03 Nov 2026 08:00:00 GMT",
-      "description": "If something is going to be hard, might as well generate growth and positive transformation.\nWas this helpful? If so then you need to check out the 7 Fundamentals Of Self Improvement which features short summaries of the most popular and impactful episodes from the past 8 years.\nTakes only 5 minutes",
-      "duration": "00:03:27"
     },
     {
       "show": "THE MEN'S SELF HELP PODCAST",
@@ -1522,26 +1552,6 @@
       "duration": "00:39:31"
     },
     {
-      "show": "Habits on Purpose",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts116/v4/9e/ce/44/9ece4471-3294-0a8d-55a6-4e58b8bc6301/mza_17248659395748218301.jpg/600x600bb.jpg",
-      "title": "246. What It Really Means to Be Authentic with Yourself",
-      "link": "https://habitsonpurpose.com/192",
-      "audioUrl": "https://traffic.libsyn.com/secure/2674af96-405f-46b3-87ed-4f22b47498fb/HOP246.mp3?dest-id=3277715",
-      "pubDate": "Wed, 21 Oct 2026 05:00:00 +0000",
-      "description": "Do you sometimes feel like the person you show up as each day isn't the real you? Between work, family, and the constant pull of daily responsibilities, it's easy to drift into autopilot and lose touch with your inner self. In this episode, we explore how to come back home to yourself and cultivate ",
-      "duration": "14:55"
-    },
-    {
-      "show": "The Confidence Podcast: Mindset Coaching and Tips to Overcome Self-Limiting Beliefs, Self-Doubt, Perfectionism, Overthinking,",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/51/7a/b3/517ab3f8-02ae-1b51-c552-22174560bd3c/mza_4236100867172934633.png/600x600bb.jpg",
-      "title": "#726: Why You Get Discouraged So Easily (And How to Change It)",
-      "link": "https://fromtheinsideout.libsyn.com/726-why-you-get-discouraged-so-easily-and-how-to-change-it",
-      "audioUrl": "https://dts.podtrac.com/redirect.mp3/traffic.libsyn.com/secure/fromtheinsideout/726__Why_You_Get_Discouraged_So_Easily_And_How_to_Change_It.mp3?dest-id=105943",
-      "pubDate": "Tue, 20 Oct 2026 05:00:00 +0000",
-      "description": "Do you get discouraged when progress is slower than expected, when someone criticizes you, or when things don't go according to plan? You're not alone. But being easily discouraged doesn't have to be your default response.\n  In this episode of The Confidence Podcast, Trish Blackwell breaks down why ",
-      "duration": "31:12"
-    },
-    {
       "show": "The Mindset Shift Podcast",
       "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts211/v4/49/c7/4f/49c74f9d-0ad0-9f48-141b-8c01e9a14b78/mza_14618483202741277876.jpeg/600x600bb.jpg",
       "title": "Ep.22 - # Stop Waiting for the Perfect Time: Take Action and Transform Your Business",
@@ -1590,16 +1600,6 @@
       "pubDate": "Mon, 19 Oct 2026 04:00:00 -0400",
       "description": "In this episode, we dive into the fascinating world of combining seemingly unrelated skills to solve complex problems. The Weekly Collision technique is introduced as a simple yet powerful tool for generating ideas and improving your approach to challenges at home or in the workplace. By pairing two",
       "duration": "23:21"
-    },
-    {
-      "show": "The Science of Self | Personal Development Podcast",
-      "showArt": "https://is1-ssl.mzstatic.com/image/thumb/Podcasts124/v4/61/8d/5c/618d5c88-efe6-5606-fba9-ed8be1f3073b/mza_11389277701590387889.jpg/600x600bb.jpg",
-      "title": "BECOME ONE OF ONE | Peter Hollins Audiobook | Chapter 8 - Voice over Work - An Audiobook Sampler",
-      "link": "https://voiceoverwork.captivate.fm/episode/become-one-of-one-peter-hollins-audiobook-chapter-8",
-      "audioUrl": "https://podcasts.captivate.fm/media/2fa8eb41-85fd-46f5-93ce-b17cc4225984/OneOfOneHollins-08-podcast-converted.mp3?played_on=87f68967-8f78-43c4-9a14-3da65b9c8e70",
-      "pubDate": "Mon, 19 Oct 2026 04:00:00 -0400",
-      "description": "In today's fast-paced work environment, keeping up with evolving skill sets is crucial for career success. This chapter delves into the constant race against skill obsolescence, emphasizing how to audit and upgrade your skills before they become outdated. By adopting a quarterly stack audit process,",
-      "duration": "24:50"
     },
     {
       "show": "Beyond the To-Do List - Productivity for Work and Life",
